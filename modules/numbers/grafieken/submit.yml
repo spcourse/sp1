@@ -1,0 +1,8 @@
+name: plot
+files:
+    required:
+        - plot.py
+check:
+    tool: checkpy
+    repo: spcourse/sp1
+    args: plot

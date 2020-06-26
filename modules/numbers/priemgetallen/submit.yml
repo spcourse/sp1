@@ -1,0 +1,8 @@
+name: priem
+files:
+    required:
+        - priem.py
+check:
+    tool: checkpy
+    repo: spcourse/sp1
+    args: priem

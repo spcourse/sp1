@@ -1,0 +1,8 @@
+name: goldbach
+files:
+    required:
+        - goldbach.py
+check:
+    tool: checkpy
+    repo: spcourse/sp1
+    args: goldbach

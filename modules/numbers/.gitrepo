@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/getaltheorie.git
+	branch = master
+	commit = 4ae85fcc801911507df81b7b931656a6078b77cd
+	parent = 08dd59217ee4ebcd50a58da8593ad4f3596ee0e2
+	method = merge
+	cmdver = 0.4.1
