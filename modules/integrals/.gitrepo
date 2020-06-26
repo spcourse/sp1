@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/integreren.git
+	branch = master
+	commit = c53fd7de4cea52ddfcbb5e52850720bd9863da3c
+	parent = e4710206598205f8b899b096e447bebc76befdfa
+	method = merge
+	cmdver = 0.4.1
