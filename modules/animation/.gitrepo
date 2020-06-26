@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/animatie.git
+	branch = main
+	commit = 0f6932ac8b17b8e9bbffa7522507e33e05cdf7ea
+	parent = 54ef53c3a8abb3795a089e76645fe2eb2e0cec08
+	method = merge
+	cmdver = 0.4.1
