@@ -1,0 +1,20 @@
+name: integreren
+content:
+
+    Inleiding:
+        Inleiding: .
+    Nulpunten:
+        Functies: /functies
+        Nulpunten: nulpunten
+    Riemannsom:
+        Riemannsom: riemann
+    Random:
+        Random getallen: /random
+        Random fact: random
+        Afstand: afstand
+        Histogram: histogram
+    Monte Carlo:
+        Monte Carlo: montecarlo
+        Twitter-Ei: ei
+    Extra:
+        Fractals: extra
