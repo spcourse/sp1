@@ -1,0 +1,14 @@
+name: numbers
+files:
+    required:
+        - whiz.py
+        - prime.py
+        - sequence.py
+        - goldbach.py
+        - plot.py
+    extra:
+        - coprime.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: -m numbers
