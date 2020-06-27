@@ -2,7 +2,7 @@
 
 Als twee studenten dronken zijn en ze elkaar uit het oog verliezen wordt het erg onwaarschijnlijk dat ze elkaar nog terugvinden. Schrijf een programma dat het gedrag van twee dronken student simuleert.
 
-![](AnimationRandomWalkDouble.gif)
+![](../../assets/AnimationRandomWalkDouble.gif)
 
 ## Specificatie
 
@@ -20,7 +20,7 @@ Je zou eens kunnen proberen of je ook met pen en papier iets kan zeggen over de 
 
 Start, om klein te beginnen, met een animatie van een enkele student:
 
-![](AnimationRandomWalk.gif)
+![](../../assets/AnimationRandomWalk.gif)
 
 ## Tip
 

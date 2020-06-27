@@ -2,7 +2,7 @@
 
 When two students are drunk and lose each other from view it is unlikely they ever find each other again. Write a program that simulates the behavior of two drunk students.
 
-![](AnimationRandomWalkDouble.gif)
+![](../../assets/AnimationRandomWalkDouble.gif)
 
 ## Specification
 
@@ -19,7 +19,7 @@ You could try and use pen and paper to give an indication about the average dist
 
 Start, simply, with an animation of a single student:
 
-![](AnimationRandomWalk.gif)
+![](../../assets/AnimationRandomWalk.gif)
 
 ## Tip
 

@@ -2,7 +2,7 @@
 
 Schrijf een programma dat een spiraliserende stip animeert met behulp van Matplotlib. De stip draait met een bepaalde hoeksnelheid rond en met elke stap in de tijd verandert niet alleen de hoek, maar wordt ook de straal steeds kleiner tot hij uiteindelijk precies in het midden stilstaat:
 
-![](AnimationInspiral.gif)
+![](../../assets/AnimationInspiral.gif)
 
 ## Specificatie
 
@@ -16,7 +16,7 @@ hoek is met de positieve $$x$$-as en $$R$$ de afstand tot de oorsprong. De
 variabelen kunnen in elkaar omgeschreven worden zoals in de volgende grafiek is
 aangegeven.
 
-![](UitlegPolarCoordinates.png)
+![](../../assets/UitlegPolarCoordinates.png)
 
 Details voor de animatie:
 
