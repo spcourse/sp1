@@ -1,7 +1,7 @@
 name: animation
 content:
 
-    - Animating in Python:
+    Animating in Python:
 
         Learn how to create animated graphics: /animation/en
         A spiraling dot: /animation/en/dot
