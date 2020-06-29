@@ -32,4 +32,4 @@ It is possible to approximate an integral by using random numbers.
 
 It is known that the function $$sin(x)$$ is enclosed on the domain $$0 < x < \pi$$ between 0 and 1. So we defined a box around the integral area and generated 2000 random points. Of which 63.15% (1263/2000) appeared to be within the integral area. The approximation that we've made of the integral using these 2000 is subsequently: 0.6315$$\pi \approx 1.984​$$. When this method is implemented correctly, we can effortlessly generate 1 million points instead of 2000.
 
-![](../../../MonteCarloExample.png)
+![](../../../assets/MonteCarloExample.png)

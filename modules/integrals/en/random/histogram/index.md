@@ -2,7 +2,7 @@
 
 Write a program that visualizes the distribution of numbers from the `random`-function:
 
-![](../../../HistogramExample.png)
+![](../../../assets/HistogramExample.png)
 
 
 ## Background

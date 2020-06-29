@@ -10,7 +10,7 @@ $$ \int_a^b f(x)~dx = \sum_{i=0}^{N-1} \int_{x_i}^{x_{i+1}} f(x)~dx ​$$
 
 For which $$x_i$$ is the corner of one of those intervals. There are $$N+1$$ corners that range from $$ x_0 $$ through $$x_{N}$$. As can be seen in the graph on the following figure.
 
-![](../../../RiemannExample.png)
+![](../../../assets/RiemannExample.png)
 
 Now that we know we're looking for a large number of partial integrals, let's simplify the problem at hand, by *approximating* the partial integrals.
 
