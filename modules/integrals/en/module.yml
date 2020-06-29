@@ -1,6 +1,7 @@
 name: integrals
 content:
 
+    Introduction: .
     Roots:
         Learn about functions in Python: /python/functions
         Determine the roots of a polynomial: roots
