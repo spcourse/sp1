@@ -1,0 +1,13 @@
+name: integrals
+files:
+    required:
+        - roots.py
+        - riemann.py
+        - randommaths.py
+        - distance.py
+        - histogram.py
+        - montecarlo.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: -m integrals
