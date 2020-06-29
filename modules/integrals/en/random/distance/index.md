@@ -7,7 +7,7 @@ Write a program that contains a function that calculates the average distance be
 
 This is a classic example of an clear and apparently simple problem, which is difficult to analytically solve. Give it a try, then you'll soon find yourself quite stuck. Do at least try to make an estimation, so you can assess whether the answer of your program is somewhat realistic, before handing in your assignment.
 
-![](vierkant.png)
+![](../../../vierkant.png)
 
 
 ## Specification

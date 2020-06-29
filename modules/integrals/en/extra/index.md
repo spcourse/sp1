@@ -3,7 +3,7 @@
 You probably already know those beautiful multi-colored pictures in which patterns repeat themselves until they are infinitely small. These incredibly complex patterns, called *fractals*, funnily enough are product of a small set of simple (mathematical) rules. Often times in nature do we find such simple hidden mechanisms for complex phenomena, however hard they are to find out about. In this assignment we delve a little deeper into the math behind fractals and with that knowledge we'll try to recreate one of the most well-known fractals: the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set).
 
 <p align="center">
-![](mandelbrot.png){: style="width:50%"}
+![](../../assets/mandelbrot.png){: style="width:50%"}
 </p>
 
 The goal of this extra assignment is: write a program `fractal.py` that displays the Mandelbrot set on the screen.
@@ -25,7 +25,7 @@ A complex number (z) is made up out of two components: a real and an imaginary p
 A common way to imagine these numbers is the so called *complex field*, a 2-dimensional field with a real axis and an imaginary axis that represents the complex part of the number, as can be seen below. Two examples of complex numbers are $$c = -5 + 3i$$ and $$c=-2-4i$$. These are both represented in blue. All numbers we usually use (0, -3, $$12/67$$, $$\pi$$, $$e$$, 10465, ...) are situated on the real axis. There are also a couple of complex numbers in red; we'll come back to those in time.
 
 <p align="center">
-![](ComplexeGetallen.png){: style="width:70%"}
+![](../../ComplexeGetallen.png){: style="width:70%"}
 </p>
 
 Adding complex numbers is simply adding the real part and the complex part individually, but multiplying them requires some caution. You have to take into account that $$i^2 = -1$$. It's most apparent when performing exponentiation:

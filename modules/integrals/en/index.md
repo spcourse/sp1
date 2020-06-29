@@ -38,15 +38,3 @@ In the video below, meet Lydia Brenner and Jelle Aalbers from [Nikhef](http://ww
 2. <span class="badge badge-primary">Assignment:</span> Use random values to calculate integrals with the [Monte Carlo](/integrals/monte-carlo) method
 
 3. <span class="badge badge-primary">Assignment:</span> Calculate the surface of an odd shape: [the Twitter egg](/integrals/egg)
-
-##### Submitting
-
-When you're ready to submit, head to [the submit page for this module](/integrals/submit).
-
-The Twitter Egg assignment can't be submitted but you might show off your code during office hours :-)
-
-### Evaluation
-
-Have you submitted each problem from this module? Then you're done! Let us know by e-mail if you have any remarks on the quality of this module. It's important for us to get feedback on the course's content, and we actually use it to improve!
-
-

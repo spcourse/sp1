@@ -1,10 +1,18 @@
 name: integrals
 content:
 
-    Roots: roots
-    Riemann: riemann
-    Random: randommaths
-    Distance: distance
-    Histogram: histogram
-    Monte Carlo: monte-carlo
-    Twitter Egg: egg
+    Roots:
+        Learn about functions in Python: /python/functions
+        Determine the roots of a polynomial: roots
+    Riemann:
+        Learn more about the Riemann sum: riemann/explanation
+        Harness the power of a computer to determine the Riemann sum: riemann/integrals
+    Random:
+        Learn more about the use of random numbers: /python/random
+        Random fact: random/fact
+        Calculate the average distance between two points in a square: random/distance
+        Analyse with a histogram the output of the `random` function: random/histogram
+    Monte Carlo:
+        Learn more about the Monte-Carlo method: monte-carlo/explanation
+        Use random values to calculate integrals with the Monte Carlo method: monte-carlo/integrals
+        Calculate the surface of an odd shape: monte-carlo/egg
