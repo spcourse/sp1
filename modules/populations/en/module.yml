@@ -1,0 +1,7 @@
+name: populations
+content:
+
+    Create a simulation of 25 rabbits running around: rabbits
+    Add vegetarian foxes to the mix: foxes
+    Foxes eat rabbits after all: eating
+    Rabbits can reproduce: reproduction
