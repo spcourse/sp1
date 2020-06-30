@@ -3,18 +3,18 @@ content:
 
     Introduction: .
     Getting started:
-        Basic elements of Python: /numbers/basics
-        Program the computer to be a Number Whiz: /numbers/whiz
+        Basic elements of Python: /python/en/basics
+        Program the computer to be a Number Whiz: whiz
     Prime numbers:
-        Learn about algorithms: /numbers/algorithms
-        Learn about loops: /numbers/loops
-        Look for prime numbers: /numbers/primes
+        Learn about algorithms: /python/en/algorithms
+        Learn about loops: /python/en/loops
+        Look for prime numbers: primes
     Number theory:
-        Learn about storing data in lists: //lists
-        Find the longest sequence of non-primes: /numbers/sequence
+        Learn about storing data in lists: /python/en/lists
+        Find the longest sequence of non-primes: sequence
         Understand how to write good code: /style-guide
-        Try to (dis)prove Goldbach's conjecture: /numbers/goldbach
+        Try to (dis)prove Goldbach's conjecture: goldbach
     Plotting graphs:
-        Learn how to use modules: /numbers/modules
-        Learn about plotting: /numbers/plotting
-        Make data understandable by plotting graphs: /numbers/plot
+        Learn how to use modules: /python/en/modules
+        Learn about plotting: /python/en/plotting
+        Make data understandable by plotting graphs: plot

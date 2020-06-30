@@ -2,4 +2,4 @@ name: numbers-extra
 content:
 
     Extra:
-        Co-primes: /numbers/co-primes
+        Co-primes: .
