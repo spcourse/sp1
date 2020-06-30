@@ -15,7 +15,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/modules/algorithms/logo.jpg" class="card-img-top" alt="">
+			<img src="/course/modules/algorithms/logo.jpg" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Algorithms</h5>
 				<p class="card-text">
@@ -24,7 +24,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/modules/numbers/logo.jpg" class="card-img-top" alt="">
+			<img src="/course/modules/numbers/logo.jpg" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Number theory</h5>
 				<p class="card-text">
@@ -39,7 +39,7 @@
 			<h2 class="card-title m-3">Level 2</h2>
 		</div>	
 		<div class="card">
-			<img src="/modules/integrals/logo.png" class="card-img-top" alt="">
+			<img src="/course/modules/integrals/logo.png" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Integrals</h5>
 				<p class="card-text">
@@ -48,7 +48,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/modules/text/logo.png" class="card-img-top" alt="">
+			<img src="/course/modules/text/logo.png" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Text processing</h5>
 				<p class="card-text">
@@ -66,7 +66,7 @@
 			<h2 class="card-title m-3">Level 3</h2>
 		</div>	
 		<div class="card">
-			<img src="/modules/movement/assets/EarthHole.png" class="card-img-top" alt="">
+			<img src="/course/modules/movement/assets/EarthHole.png" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Movement</h5>
 				<p class="card-text">
@@ -75,7 +75,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/modules/monopoly/assets/en/MonopolyBordInternationaal.jpg" class="card-img-top" alt="">
+			<img src="/course/modules/monopoly/assets/en/MonopolyBordInternationaal.jpg" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Monopoly</h5>
 				<p class="card-text">
@@ -84,7 +84,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/modules/populations/en/rabbits/konijnen.gif" class="card-img-top" alt="">
+			<img src="/course/modules/populations/en/rabbits/konijnen.gif" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Population dynamics <span class="badge badge-primary">BETA</span></h5>
 				<p class="card-text">
@@ -99,7 +99,7 @@
 			<h2 class="card-title m-3">Level 4</h2>
 		</div>	
 		<div class="card">
-			<img src="/modules/bigdata/en/temperatures/KaartNederlandKlein.png" class="card-img-top" alt="">
+			<img src="/course/modules/bigdata/en/temperatures/KaartNederlandKlein.png" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Weather</h5>
 				<p class="card-text">
@@ -108,7 +108,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/modules/statistics/assets/ExampleLengte.png" class="card-img-top" alt="">
+			<img src="/course/modules/statistics/assets/ExampleLengte.png" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Statistics <span class="badge badge-primary">BETA</span></h5>
 				<p class="card-text">
