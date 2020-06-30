@@ -1,0 +1,13 @@
+name: beweging
+content:
+
+    Beweging door zwaartekracht:
+
+        Bestudeer de beweging van een vallende appel: /beweging/appel
+        Lees nog even terug over het gebruiken van meerdere grafieken: /technieken/plot
+        Bestudeer de beweging van een basejumper: /beweging/basejump
+
+    De ultieme freefall:
+
+        Leer over het debuggen van simulaties: /python/debuggen
+        Wat gebeurt er als je door de aarde heen valt?: /beweging/freefall

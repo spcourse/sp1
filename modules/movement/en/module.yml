@@ -1,0 +1,13 @@
+name: movement
+content:
+
+    Gravitational movement:
+
+        Study the movement of a falling apple: apple
+        Read up on the use of plotting with multiple graphs: /python/en/plotting
+        Study a basejumper's movement: basejump
+
+    The ultimate freefall:
+
+        Learn more about debugging simulations: /python/en/debuggen
+        What happens when you fall through the earth: freefall
