@@ -7,7 +7,7 @@ Schrijf een programma met een daarin een functie die de gemiddelde afstand tusse
 
 Dit is een typisch voorbeeld van een duidelijk en ogenschijnlijk simpel probleem dat analytisch nogal lastig op te lossen is. Probeer het maar eens, dan zal je al snel zien dat je vastloopt. Maar maak in ieder geval een schatting, dan kun je zien of het antwoord van je programma realistisch is, voordat je het inlevert.
 
-![](vierkant.png)
+![](../../assets/vierkant.png)
 
 
 ## Specificatie

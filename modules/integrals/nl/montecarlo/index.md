@@ -43,7 +43,7 @@ definieren dan ook een box om het integratiegebied heen en 2000 random punten ge
 deze 2000 punten is dan ook: 0.6315$$\pi \approx 1.984$$. Zodra dit werkt kunnen we natuurlijk ook 1 miljoen 
 punten gooien in plaats van 2000. 
 
-![](MonteCarloExample.png)
+![](../../assets/MonteCarloExample.png)
 
 
 

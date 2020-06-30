@@ -2,7 +2,7 @@
 
 Schrijf een programma dat de distributie van getallen uit de `random`-functie visualiseert:
 
-![](HistogramExample.png)
+![](../../assets/HistogramExample.png)
 
 
 ## Achtergrond

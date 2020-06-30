@@ -4,7 +4,7 @@ Schrijf een programma `twitter()` dat de oppervlakte van het Twitter-ei berekent
 
 $$ \sqrt{x^2+y^2} + \frac{2}{3}\sqrt{x^2+\left(\frac{5}{6}-y \right)^2 } = 1$$
 
-![](TwitterEiCombi.png)
+![](../../assets/TwitterEiCombi.png)
 
 Gooi in totaal 1 miljoen punten en bereken de juiste oppervlakte. Bewaar na elke 1000 punten dat je gooit de schatting van de oppervlakte op dat moment. Als het goed is convergeert je antwoord en zie je dat je een betere schatting krijgt naarmate je meer punten gooit.
 

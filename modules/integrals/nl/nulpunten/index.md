@@ -5,7 +5,7 @@ Schrijf een programma dat de nulpunten berekent van de polynoom $$f(x)=x^2+2x-10
     # python nulpunten.py
     De nulpunten zijn -4.32 en 2.32
 
-![](PolynoomAnalyse.png)
+![](../../assets/PolynoomAnalyse.png)
 
 
 ## Specificatie
