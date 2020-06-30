@@ -75,7 +75,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="/course/modules/monopoly/assets/en/MonopolyBordInternationaal.jpg" class="card-img-top" alt="">
+			<img src="/course/modules/monopoly/en/MonopolyBordInternationaal.jpg" class="card-img-top" alt="">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Monopoly</h5>
 				<p class="card-text">
