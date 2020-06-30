@@ -1,0 +1,8 @@
+name: monopoly-nl
+content:
+
+    Introduction: .
+    Leer over het debuggen van simulaties: /python/nl/debuggen
+    Vrij rondlopen op het bord: vrij-rondlopen
+    Spelen met een eindige hoeveelheid geld: startgeld
+    Voeg een tweede speler toe en herstel het evenwicht: twee-spelers
