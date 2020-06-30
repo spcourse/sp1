@@ -14,7 +14,3 @@ content:
         Find the longest sequence of non-primes: sequence
         Understand how to write good code: /style-guide
         Try to (dis)prove Goldbach's conjecture: goldbach
-    Plotting graphs:
-        Learn how to use modules: /python/en/modules
-        Learn about plotting: /python/en/plotting
-        Make data understandable by plotting graphs: plot
