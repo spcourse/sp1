@@ -8,10 +8,9 @@ Module 2:
     - animation
     - integrals-extra
 
-# Module 3:
-#     - monopoly
-#     - beweging
-#
-# Module 4:
-#     - klimaat
-#     - sensordata
+Module 3:
+    - monopoly
+    - movement
+
+Module 4:
+    - bigdata
