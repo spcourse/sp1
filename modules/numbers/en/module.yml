@@ -1,21 +1,20 @@
-Introduction: /numbers
-"Day 1: Getting started":
-    Basic elements of Python: /numbers/basics
-    Implement Number Whiz: /numbers/whiz
-"Day 2: Prime numbers":
-    Learn about algorithms: /numbers/algorithms
-    Learn about loops: /numbers/loops
-    Implement Primes: /numbers/primes
-"Day 3: Number theory":
-    Learn about lists: /numbers/lists
-    Implement Sequence: /numbers/sequence
-    Learn to write good code: /numbers/style-guide
-    Implement Goldbach: /numbers/goldbach
-"Day 4: Plotting graphs":
-    Learn about modules: /numbers/modules
-    Learn about plotting: /numbers/plotting
-    Implement Plot: /numbers/plot
-Optional:
-    Co-primes: /numbers/co-primes
-Submit:
-    Submit module: /numbers/submit
+name: numbers
+content:
+
+    Introduction: .
+    Getting started:
+        Basic elements of Python: /numbers/basics
+        Program the computer to be a Number Whiz: /numbers/whiz
+    Prime numbers:
+        Learn about algorithms: /numbers/algorithms
+        Learn about loops: /numbers/loops
+        Look for prime numbers: /numbers/primes
+    Number theory:
+        Learn about storing data in lists: //lists
+        Find the longest sequence of non-primes: /numbers/sequence
+        Understand how to write good code: /style-guide
+        Try to (dis)prove Goldbach's conjecture: /numbers/goldbach
+    Plotting graphs:
+        Learn how to use modules: /numbers/modules
+        Learn about plotting: /numbers/plotting
+        Make data understandable by plotting graphs: /numbers/plot

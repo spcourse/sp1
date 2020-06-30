@@ -1,17 +1,17 @@
-Aan de slag:
-    Oefen met de basiselementen van Python: /python/basiselementen
-    Gebruik de computer als rekenwonder: /getaltheorie/rekenwonder
+name: getaltheorie
+content:
 
-Priemgetallen:
-    Leer meer over algoritmen: /python/algoritmen
-    Code herhalen met loops: /python/loops
-    Ga op zoek naar priemgetallen: /getaltheorie/priemgetallen
+    Aan de slag:
+        Oefen met de basiselementen van Python: /python/basiselementen
+        Gebruik de computer als rekenwonder: /getaltheorie/rekenwonder
 
-Resultaten uit de getaltheorie:
-    Sla je data op in een lijst: /python/lijsten
-    Ga op zoek naar de langste reeks niet-priemgetallen: /getaltheorie/reeks
-    Begrijp hoe je "mooie code" kunt schrijven: /python/stijlgids
-    Vind (g)een tegenbewijs voor het vermoeden van Goldbach: /getaltheorie/goldbach
+    Priemgetallen:
+        Leer meer over algoritmen: /python/algoritmen
+        Code herhalen met loops: /python/loops
+        Ga op zoek naar priemgetallen: /getaltheorie/priemgetallen
 
-Extra opdracht:
-    Onderling-priem paren: /getaltheorie/extra
+    Resultaten uit de getaltheorie:
+        Sla je data op in een lijst: /python/lijsten
+        Ga op zoek naar de langste reeks niet-priemgetallen: /getaltheorie/reeks
+        Begrijp hoe je "mooie code" kunt schrijven: /python/stijlgids
+        Vind (g)een tegenbewijs voor het vermoeden van Goldbach: /getaltheorie/goldbach
