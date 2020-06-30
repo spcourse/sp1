@@ -1,0 +1,17 @@
+name: algorithms
+content:
+
+    Introduction: .
+
+    Getting started:
+        Practice with the Python's basic elements: /python/en/basics
+        Check you water usage: water
+
+    A first algorithm:
+        Learn about algorithms: /python/en/algorithms
+        Learn about loops: /python/en/loops
+        Build a small piece of a Mario Pyramid: pyramid
+
+    A serious algorithm:
+        Understand how to write good code: /python/en/style-guide
+        Calculate change with a Greedy algorithm: greedy

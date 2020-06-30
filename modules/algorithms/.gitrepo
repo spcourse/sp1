@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/algorithms.git
+	branch = main
+	commit = 5c1a91cea41c27a70b358896e82013a921b06257
+	parent = 1bf5cb7237c42b767c8a58055d09a410eed2d391
+	method = merge
+	cmdver = 0.4.1

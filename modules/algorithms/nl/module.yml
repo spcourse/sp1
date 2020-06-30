@@ -1,0 +1,18 @@
+name: algoritmen
+content:
+
+    Introduction: .
+
+    Aan de slag:
+        Installeer Python: /python/nl/installatie
+        Oefen goed met de basiselementen van Pytho: /python/nl/basiselementen
+        Controleer je waterverbruik: water
+
+    Een eerste algoritme:
+        Leer over algoritmen: /python/nl/algoritmen
+        Leer over loops: /python/nl/loops
+        Bouw een heel klein stukje Mario: piramide
+
+    Een serieuzer algoritme:
+        Begrijp hoe je mooie code kunt schrijven: /python/nl/stijl
+        Reken wisselgeld uit met een Greedy algoritme: greedy
