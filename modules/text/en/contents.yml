@@ -1,0 +1,15 @@
+name: text
+content:
+
+    Introduction: .
+    Text statistics:
+        Learn how to write functions: /python/en/functions
+        Learn about strings: /python/en/strings
+        Calculate basic statistics for a text: statistics
+    Text cleanup:
+        Analyze text content word-by-word: words
+        Reformat a text neatly: reformatting
+    Sentiment analysis:
+        Learn how to read text from files: /python/en/files
+        Perform a sentiment analysis: sentiment
+        Present an overview of Twitter sentiment: tweets

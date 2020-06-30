@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/text.git
+	branch = main
+	commit = b38a6a696248b466d7f90c87a26aa881fc3627e3
+	parent = f7de5f62a09c64f765149f67bc014cc43425b0a3
+	method = merge
+	cmdver = 0.4.1
