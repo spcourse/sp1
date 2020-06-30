@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/animation.git
 	branch = main
-	commit = 6a2aa7f781418712c37db5da5a484ac677062c6b
-	parent = 51771eb3c07d2d0cd276ae0c54b462a6bf08969b
+	commit = 2698de246c29e5a91b4fd1dacccbb60a7f5b7cae
+	parent = 7161f29e3c0667b32ad34416bfeb813b8565f8a7
 	method = merge
 	cmdver = 0.4.1
