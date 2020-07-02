@@ -2,17 +2,21 @@ name: integrals
 content:
 
     Introduction: .
+
     Roots:
         Learn about functions in Python: /python/en/functions
         Determine the roots of a polynomial: roots
+
     Riemann:
         Learn more about the Riemann sum: riemann/explanation
         Harness the power of a computer to determine the Riemann sum: riemann/integrals
+
     Random:
         Learn more about the use of random numbers: /python/en/random
         Random fact: random/fact
         Calculate the average distance between two points in a square: random/distance
         Analyse with a histogram the output of the `random` function: random/histogram
+
     Monte Carlo:
         Learn more about the Monte-Carlo method: monte-carlo/explanation
         Use random values to calculate integrals with the Monte Carlo method: monte-carlo/integrals

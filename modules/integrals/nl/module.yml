@@ -1,18 +1,21 @@
 name: integreren
 content:
 
-    Inleiding:
-        Inleiding: .
+    Inleiding: .
+
     Nulpunten:
         Leer over functies in Python: /python/nl/functies
         Bepaal de nulpunten van een polynoom: nulpunten
+
     Riemannsom:
         Gebruik computerkracht voor het bepalen van de Riemannsom: riemann
+
     Random:
         Leer over het gebruik van random getallen: /python/nl/random
         Random fact: random
         Bereken de gemiddelde afstand tussen twee punten in een vierkant: afstand
         Analyseer met een histogram de uitkomst van de `random`-functie: histogram
+
     Monte Carlo:
         Gebruik random waarden bij het berekenen van integralen met de Monte-Carlomethode: montecarlo
         Bereken de oppervlakte van een vreemde vorm: ei
