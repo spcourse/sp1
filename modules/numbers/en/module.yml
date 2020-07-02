@@ -12,5 +12,5 @@ content:
     Number theory:
         Learn about storing data in lists: /python/en/lists
         Find the longest sequence of non-primes: sequence
-        Understand how to write good code: /style-guide
+        Understand how to write good code: /style
         Try to (dis)prove Goldbach's conjecture: goldbach

@@ -1,6 +1,8 @@
 name: getaltheorie
 content:
 
+    Inleiding: .
+
     Aan de slag:
         Oefen met de basiselementen van Python: /python/nl/basiselementen
         Gebruik de computer als rekenwonder: rekenwonder
@@ -13,5 +15,5 @@ content:
     Resultaten uit de getaltheorie:
         Sla je data op in een lijst: /python/nl/lijsten
         Ga op zoek naar de langste reeks niet-priemgetallen: reeks
-        Begrijp hoe je "mooie code" kunt schrijven: /python/nl/stijlgids
+        Begrijp hoe je "mooie code" kunt schrijven: /python/nl/stijl
         Vind (g)een tegenbewijs voor het vermoeden van Goldbach: goldbach
