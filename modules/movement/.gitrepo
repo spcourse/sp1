@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/movement.git
 	branch = main
-	commit = 0450f49ae0d4d5692e92aadcd09f81a485935ceb
-	parent = 1f352e06393bdc17c5dd769a5e098a279c9b709a
+	commit = f5679ee1be530cd6cec9d04d8255bee7bbf2f524
+	parent = 5ac43f982d16574fe16f76df820e1b232a6ef721
 	method = merge
 	cmdver = 0.4.1

@@ -3,11 +3,11 @@ content:
 
     Beweging door zwaartekracht:
 
-        Bestudeer de beweging van een vallende appel: /beweging/appel
-        Lees nog even terug over het gebruiken van meerdere grafieken: /technieken/plot
-        Bestudeer de beweging van een basejumper: /beweging/basejump
+        Bestudeer de beweging van een vallende appel: appel
+        Lees nog even terug over het gebruiken van meerdere grafieken: /python/nl/plot
+        Bestudeer de beweging van een basejumper: basejump
 
     De ultieme freefall:
 
-        Leer over het debuggen van simulaties: /python/debuggen
-        Wat gebeurt er als je door de aarde heen valt?: /beweging/freefall
+        Leer over het debuggen van simulaties: /python/nl/debuggen
+        Wat gebeurt er als je door de aarde heen valt?: freefall
