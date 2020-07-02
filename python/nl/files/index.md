@@ -8,7 +8,7 @@ Een veel voorkomende toepassing van computerprogramma’s is het inlezen, verwer
 
 Net zoals je getallen in het decimale, hexadecimale of binaire formaat weer kan geven wordt ook data in verschillende formaten bewaard in data-bases. Hier zullen we data bekijken die is opgeslagen in het zogenaamde CSV formaat (comma separate values): 'platte tekst', waarbij op elke regel verschillende variabelen gescheiden zijn door een komma. Dit is trouwens ook het formaat dat je krijgt als je je banktransacties download of een Excel file wegschrijft.
 
-We gaan het inlezen en verwerken van data doen aan de hand van een voorbeeld:  de statistieken van voetballer Marco van Basten. Iemand heeft in een [tekstbestand](http://www.nikhef.nl/~ivov/Python/Voetbal/VanBasten.txt) bijgehouden hoeveel wedstrijden hij gespeeld heeft en hoeveel doelpunten hij gemaakt heeft. Dit is de tekst van het bestand:
+We gaan het inlezen en verwerken van data doen aan de hand van een voorbeeld:  de statistieken van voetballer Marco van Basten. Iemand heeft in een [tekstbestand](VanBasten.txt) bijgehouden hoeveel wedstrijden hij gespeeld heeft en hoeveel doelpunten hij gemaakt heeft. Dit is de tekst van het bestand:
 
     198182, Ajax, 1, 1
     198283, Ajax, 20, 9
