@@ -1,13 +1,13 @@
 # Climate debate
 
-![](KaartNederlandKlein.png){:.inline}
+![](../../assets/KaartNederlandKlein.png){:.inline}
 
 Let's do our part for the climate discussion and analyze the data provided by the ECA (European Climate Assessment) [available](http://eca.knmi.nl/dailydata/predefinedseries.php) in big data files. We'll limit ourselves to the data pertaining to the maximum and minimum temperatures for each day measured in De Bilt since 1901.
 
 Files: 
 
-- <http://www.nikhef.nl/~ivov/Python/KlimaatData/OLD/DeBiltTempMaxOLD.txt>
-- <http://www.nikhef.nl/~ivov/Python/KlimaatData/OLD/DeBiltTempMinOLD.txt>
+- [DeBiltTempMaxOLD.txt](../../data/DeBiltTempMaxOLD.txt)
+- [DeBiltTempMinOLD.txt](../../data/DeBiltTempMinOLD.txt)
 
 Download the files, open them and read the headers (at the top of the file) on how the data has been formatted. We can see the maximum (minimum) temperature at January 1st 1901 was -3.1 (-6.8) degrees Celsius.
 

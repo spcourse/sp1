@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/bigdata.git
 	branch = main
-	commit = afffa3b89c1a46632e0d3b71b5000ec88f82ddca
-	parent = c839c82d86b674467e618384da70c283ba7164b2
+	commit = e9c840d98bdd89b5de2cb538b0cb79f1cdc6f071
+	parent = 090ab3a2fbfa2d13bae9370a7a889e0eeb5eda3e
 	method = merge
 	cmdver = 0.4.1
