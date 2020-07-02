@@ -1,16 +1,31 @@
-Module 1:
+Algorithms (level 1):
+    - algorithms
+    - plotting
+
+Number theory (level 1):
     - numbers
     - plotting
-    - numbers-extra
 
-Module 2:
+Numerical integration (level 2):
     - integrals
-    - animation
-    - integrals-extra
 
-Module 3:
+Text processing (level 2):
+    - text
+
+Monopoly (level 3):
+    - animation
     - monopoly-en
+
+Physics of movement (level 3):
+    - animation
     - movement
 
-Module 4:
+Population dynamics (level 3):
+    - animation
+    - populations
+
+Big data (level 4):
     - bigdata-en
+
+Statistics (level 4):
+    - statistics
