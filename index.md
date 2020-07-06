@@ -1,6 +1,6 @@
-# Scientific Programming 1<br><small>Syllabus</small>
+# Scientific Programming 1
 
-University of Amsterdam / Programming Lab / 50621SCP3Y
+## Syllabus<br><small>Fall 2020</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
