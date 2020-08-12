@@ -84,7 +84,7 @@ is $$f(x) = -x^2 + 4x + 15$$S.
 The first rectangle starts at $-2$ and, with a width of $0.5%, ends at $-1.5$.
 What would the best value be to use for the height of this first rectangle in
 the approximation?  Probably the value of function at the *middle* of the
-rectangle, so $f(-1.75)$, which would be $-(-1.75)^2 + 4 \dot -1.75 + 15 \appox
+rectangle, so $f(-1.75)$, which would be $-(-1.75)^2 + 4 \dot -1.75 + 15 \approx
 4.94$. The area of this rectangle can now very easily be computed of course,
 using the width of $0.5$, so $4.94 \dot 0.5 = 2.47$.
 
