@@ -17,5 +17,16 @@ Your program consists of three parts:
 
 * Also display in the graph what the area is. Once again 2 decimals precise.
 
+## Hints
 
+Estimating this area can of course be done with a method very similar to Monte Carlo integration. Some
+quick questions to consider if your answers seem incorrect:
+
+* What is the difference between the area calculation here and integration?
+    
+    * What does that mean for how *negative* area should be handled?
+
+* What would be a sensible surrounding area to use for the egg?
+    
+    * How could determine some sensible values to use as bounds?
 

@@ -1,6 +1,7 @@
 # Roots
 
-Write a program that calculates the roots of the polynomial $$f(x)=x^2+2x-10$$.
+Write a program that calculates and shows the roots (the locations where
+a function intersects the x-axis) of the quadratic function $$f(x)=x^2+2x-10$$.
 
     # python roots.py
     The roots are -4.32 and 2.32
@@ -12,24 +13,28 @@ Write a program that calculates the roots of the polynomial $$f(x)=x^2+2x-10$$.
 
 * Call your program `roots.py`.
 
-* Create one function `roots(a, b, c)` that has the task to calculate the roots of the polynomial $$f(x)=ax^2+bx+c$$.
+* Create one function `roots(a, b, c)` that can calculate the roots of *any*
+quadratic function of the form $$f(x)=ax^2+bx+c$$. There are two possible
+results the function could `return`:
 
-* There are two possible results the function could `return`:
+    * an empty list `[]` when the function has no roots
+    * a list of two elements `[n1, n2]` in which `n1` and `n2` are the roots of the function
 
-    * an empty list `[]` when there are no roots
-    * a list of two elements `[n1, n2]` in which `n1` and `n2` are the roots of the polynomial
-
-* In any case you should plot the function and clearly display the roots in the graph that you calculated.
+* Your programs should then use this `roots()` function to calcuate the roots
+for $$f(x)=x^2+2x-10$$. Print out both roots, plot this function and clearly
+display the roots in the graph that you calculated.
 
 ## Hints
 
-* Calculate the roots with use of the *quadratic*-formula.
+* Calculate the roots with use of the [quadratic formula](https://en.wikipedia.org/wiki/Quadratic_formula).
 
-* To make sure you can print the result clearly, call the function like we do in our example, and store the result:
+    * In what case does this formula indicate there are no (real-valued) roots?
+
+* To make sure you can show the computed answer neatly, call the function and store the result in a variable, as in the example below:
 
         result = roots(1, 2, -10)
 
-* Later on also test your program with a polynomial that has no roots (check if the list is empty). The program should print that the roots do not exist:
+* Later on also test your program with a quadratic function that has no roots (check if the list is empty). The program should print that the roots do not exist:
 
         This function does not have roots.
 
