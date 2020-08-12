@@ -17,7 +17,7 @@ informally *the area **under** the curve*, between the points $a$ and $b$.
 The simplest example would be to integrate a linear function, like
 $$f(x) = 2x$$, between 0 and 5:
 
-![](../../../assests/linear.png)
+![](../../../assets/linear.png)
 
 The area under the curve here can just be calculated by computing the area of
 the highlighted triangle, which is easy enough to do, and comes out to $25$.
@@ -34,9 +34,9 @@ However, not every integral is so straightforward to solve. Take, for example,
 
 $$\int_{-2}^3 (-x^2 + 4x + 15)~dx$$
 
-where we can no longer use the area of a triangle to solve the problem. 
+where we can no longer use the area of a triangle to solve the problem.
 
-![](../../../assests/quadratic.png)
+![](../../../assets/quadratic.png)
 
 If you've ever taken a calculus course, you will have probably learned how to
 analytically solve such integrals *exactly*. This assignment will **not**
@@ -51,7 +51,7 @@ total area, instead of adding to it. Take, for example,
 
 $$\int_{-2}^3 (-x^2 - 8x + 8)~dx$$
 
-![](../../../assests/negative.png)
+![](../../../assets/negative.png)
 
 where all of the area highlighted in red counts as negative area. The total
 blue area is approximately $33.05$ and the red area is approximately $-24.72$,
@@ -62,15 +62,15 @@ which means the total integral works out to be about $8.33$.
 A Riemann sum is probably the most common way to **approximate** an integral.
 You simply divide the integral into many smaller rectangles, for which you can
 easily compute the area, and add all of these areas together to approximate the
-original integral. 
+original integral.
 
 Consider the integral example from before
 
 $$\int_{-2}^3 (-x^2 + 4x + 15)~dx$$
 
-but now, let's instead approximate it with 10 rectangles of equal width 
+but now, let's instead approximate it with 10 rectangles of equal width
 
-![](../../../assests/riemann.png)
+![](../../../assets/riemann.png)
 
 It should be pretty straightforward to see that the sum of all these rectangle
 areas will approximate the actual integral. In fact, the more of these equal
@@ -121,4 +121,3 @@ the x-axis counts as negative area. One of the nice things about the Riemann
 sum approximation, is that this is automatically done correctly, as long as
 rectangles under the x-axis are allowed to have a negative height, as this will
 result in a negative area for these rectangles.
-
