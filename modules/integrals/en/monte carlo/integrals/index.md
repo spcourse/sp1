@@ -26,39 +26,7 @@ The Monte Carlo method is another way to approximate an integral, different
 from the Riemann sum method covered earlier. Another difference here is that
 this approximation method should now be able to integrate **any** function and
 not just quadratic functions. This is done by making the function that is being
-integrated an argument of integration function, which can be a little confusing
-at first. Take a look at the following example
-
-	def add(a, b):
-		return a + b
-
-	def mult(a, b):
-		return a * b
-
-	def combine_three(combine_func, x, y, z):
-		total = combine_func(x, y)
-		total = combine_func(total, z)
-		return total
-
-	print(combine_three(add, 4, 3, 8))
-	
-	print(combine_three(mult, 4, 3, 8))
-
-Here the funcion `combine_three()` will combine three numbers, `x`, `y` and
-`z`. How those numbers are combined depends on the provided `combine_func`,
-which just needs to be able to combine *two* numbers in some way. The provided
-example functions do this by either `add`ing or `mult`iplying the numbers, but
-**any** Python function you would define to combine two numbers would work
-together with this `combine_three()`. Test out the example above and observe
-the two different printed results.
-
-The example here is a little artificial, but it does provide a complete
-template for how to use functions as arguments. Make sure you understand this
-code before starting with the actual assignment. Specifically, how the name of
-the function can be used to provide it as argument and how the `combine_func`
-argument can then be used just like the regular function, calling it with `()`
-and the appropriate number of arguments. Also, try to define your own
-combination function and use it together with `combine_three()`.
+integrated an argument of integration function.
 
 ## Testing
 
