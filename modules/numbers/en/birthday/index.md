@@ -1,6 +1,6 @@
 # Leap birthday
 
-People that are born on February 29 are called leap-year babies. Leap-year babies only have an actual birthday on leap years. Born on any other date it easy to compute when you can celebrate your $k$'th birthday. Not so for leap-year babies.
+People that are born on February 29 are called leap-year babies. Leap-year babies only have an actual birthday on leap years. Born on any other date it easy to compute when you can celebrate your $$k$$'th birthday. Not so for leap-year babies.
 
 Implement a program called `birthday.py` that asks the user for a number $k$ and compute the k'th birthday of a leap-year baby born on February 29 2000 (like, for example the Spanish football player, Ferran Torres García).
 
