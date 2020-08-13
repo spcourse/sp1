@@ -17,7 +17,7 @@ informally *the area **under** the curve*, between the points $a$ and $b$.
 The simplest example would be to integrate a linear function, like
 $$f(x) = 2x$$, between 0 and 5:
 
-<img src="../../../assets/linear.png" width="500">
+![](../../../assets/linear.png =x500)
 
 The area under the curve here can just be calculated by computing the area of
 the highlighted triangle, which is easy enough to do, and comes out to $25$.
