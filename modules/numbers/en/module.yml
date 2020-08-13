@@ -5,12 +5,15 @@ content:
     Getting started:
         Basic elements of Python: /python/en/basics
         Program the computer to be a Number Whiz: whiz
-    Prime numbers:
+    Leap:
         Learn about algorithms: /python/en/algorithms
         Learn about loops: /python/en/loops
+        Find leap-years: leap
+        Find birthdays of leap-year babies: birthday
+    Prime numbers:
         Look for prime numbers: primes
-    Number theory:
         Learn about storing data in lists: /python/en/lists
-        Find the longest sequence of non-primes: sequence
-        Understand how to write good code: /style
+        Make lists of prime numbers: primelist
+    Number theory:
+        Understand how to write good code: /python/en/style
         Try to (dis)prove Goldbach's conjecture: goldbach

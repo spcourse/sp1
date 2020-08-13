@@ -1,6 +1,6 @@
 # The thousandth prime
 
-Implement a program that generates the $$n$$-th prime number, where $$n$$ is a user provided value.
+The first prime number is 2, the third prime number is 5, the 1000nd prime number is 7919. Implement a program that generates the $$n$$-th prime number, where $$n$$ is a user provided value.
 
     Which prime number are you looking for? 1000
     7919
@@ -11,7 +11,7 @@ As previously mentioned, a computer is a great tool for quickly executing a seri
 
 ## Specification
 
-* Ask the user to provide the rank (how many-th) of the prime number that they want. This has to be a whole, positive number. 
+* Ask the user to provide the rank (how many-th) of the prime number that they want. This has to be a whole, positive number.
 
 * If a user provides a value that is not valid, ask the user to try again (you may assume the user gives a whole number as input, not a decimal or word). Keep prompting the user for a value until they do provide a valid number. Since it is not known how often you'll have to repeat the question, a `while`-loop seems perfect!
 
@@ -21,9 +21,9 @@ As previously mentioned, a computer is a great tool for quickly executing a seri
 
 ## Problem analysis
 
-Take a couple of minutes of time, before any coding, to draw the problem with **pen and paper**. Illustrate how you would take on this problem and how you would divide the problem into smaller and simpler steps. The specification already provides some hints to that goal!
+As always, take a couple of minutes of time, before any coding, to draw the problem with **pen and paper**. How would you divide the problem into smaller and simpler steps.
 
-For this assignment we'll guide you through some of the steps required to find the final solution.
+In this assignment, for one last time we'll guide you through some of the steps.
 
 ## Step 1: prime-check
 
@@ -45,11 +45,6 @@ In the case of a non prime number, such as 36, it should print:
 
 At the start, keep it simple. Use a `for`-loop and `%` (modulo) to determine how many numbers are a divisor of `number`. If you keep track of this in the loop (count!), then by the end of the loop you can determine if a number is prime or not. Ultimately print the conclusion, like in the example above.
 
-Tip: You can use the module operator to test for divisibility. For example the program below will test if 9 is divisible by 3 (which, of course, is the case):
-
-    x = 9
-    if x % 3 == 0:
-        print(f'{x} is divisible by 3')
 
 ## Step 2: check an entire list
 

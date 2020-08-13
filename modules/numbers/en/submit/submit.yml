@@ -2,8 +2,9 @@ name: numbers
 files:
     required:
         - whiz.py
+        - leap.py
+        - birthday.py
         - prime.py
-        - sequence.py
         - goldbach.py
         - plot.py
     extra:

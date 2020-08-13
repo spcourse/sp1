@@ -1,6 +1,6 @@
 # Goldbach
 
-Write a program that proves Goldbach's conjecture to be true for all even numbers up to and including 1000.
+Write a program called `goldbach.py` that proves Goldbach's conjecture to be true for all even numbers up to and including 1000.
 
     # python goldbach.py
     16 = ...
@@ -19,7 +19,7 @@ A prime number can also be used twice (6=3+3). Although this conjecture does ind
 
 ## Specification
 
-Write a program called **goldbach.py** to show that all even numbers up to and including 1000 can indeed be expressed as the sum of two primes. More specific: show for each even number *explicitly* (on the screen) that it can be written as the sum of two primes, like in the example above.
+Write a program to show that all even numbers up to and including 1000 can indeed be expressed as the sum of two primes. More specific: show for each even number *explicitly* (on the screen) that it can be written as the sum of two primes, like in the example above.
 
 More important is of course if or when you find a number that *isn't* in compliance with Goldbach's conjecture. Make sure that your program clearly displays such a finding on the screen. Bingo!
 
@@ -50,5 +50,5 @@ More important is of course if or when you find a number that *isn't* in complia
 Once again carefully read the specification at the top of the assignment and make sure your program works exactly as specified.
 
 Now you're ready to test:
-	
+
     checkpy goldbach
