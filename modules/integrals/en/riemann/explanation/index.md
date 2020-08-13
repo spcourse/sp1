@@ -17,7 +17,7 @@ informally *the area **under** the curve*, between the points $a$ and $b$.
 The simplest example would be to integrate a linear function, like
 $$f(x) = 2x$$, between 0 and 5:
 
-![](../../../assets/linear.png =x500)
+![](../../../assets/linear.png){: style="max-width:500px;"}
 
 The area under the curve here can just be calculated by computing the area of
 the highlighted triangle, which is easy enough to do, and comes out to $25$.
@@ -36,7 +36,7 @@ $$\int_{-2}^3 (-x^2 + 4x + 15)~dx$$
 
 where we can no longer use the area of a triangle to solve the problem.
 
-<img src="../../../assets/quadratic.png" width="500">
+![](../../../assets/quadratic.png){: style="max-width:500px;"}
 
 If you've ever taken a calculus course, you will have probably learned how to
 analytically solve such integrals *exactly*. This assignment will **not**
@@ -51,7 +51,7 @@ total area, instead of adding to it. Take, for example,
 
 $$\int_{-2}^3 (-x^2 - 8x + 8)~dx$$
 
-<img src="../../../assets/negative.png" width="500">
+![](../../../assets/negative.png){: style="max-width:500px;"}
 
 where all of the area highlighted in red counts as negative area. The total
 blue area is approximately $33.05$ and the red area is approximately $-24.72$,
@@ -70,7 +70,7 @@ $$\int_{-2}^3 (-x^2 + 4x + 15)~dx$$
 
 but now, let's instead approximate it with 10 rectangles of equal width
 
-<img src="../../../assets/riemann.png" width="500">
+![](../../../assets/riemann.png){: style="max-width:500px;"}
 
 It should be pretty straightforward to see that the sum of all these rectangle
 areas will approximate the actual integral. In fact, the more of these equal
