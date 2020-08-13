@@ -5,14 +5,17 @@ People that are born on February 29 are called leap-year babies. Leap-year babie
 Implement a program called `birthday.py` that asks the user for a number $k$ and compute the k'th birthday of a leap-year baby born on February 29 2000 (like, for example the Spanish football player, Ferran Torres García).
 
 Example 1:
+
 	Enter a number: 1
 	Birthday #1 is in the year 2004
 
 Example 2:
+
 	Enter a number: 2
 	Birthday #1 is in the year 2008
 
 Example 3:
+
 	Enter a number: 1000
 	Birthday #1 is in the year 2412
 
