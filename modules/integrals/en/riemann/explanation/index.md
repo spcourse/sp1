@@ -17,7 +17,7 @@ informally *the area **under** the curve*, between the points $a$ and $b$.
 The simplest example would be to integrate a linear function, like
 $$f(x) = 2x$$, between 0 and 5:
 
-![](../../../assets/linear.png)
+<img src="../../../assets/linear.png" width="500">
 
 The area under the curve here can just be calculated by computing the area of
 the highlighted triangle, which is easy enough to do, and comes out to $25$.
@@ -36,7 +36,7 @@ $$\int_{-2}^3 (-x^2 + 4x + 15)~dx$$
 
 where we can no longer use the area of a triangle to solve the problem.
 
-![](../../../assets/quadratic.png)
+<img src="../../../assets/quadratic.png" width="500">
 
 If you've ever taken a calculus course, you will have probably learned how to
 analytically solve such integrals *exactly*. This assignment will **not**
@@ -51,7 +51,7 @@ total area, instead of adding to it. Take, for example,
 
 $$\int_{-2}^3 (-x^2 - 8x + 8)~dx$$
 
-![](../../../assets/negative.png)
+<img src="../../../assets/negative.png" width="500">
 
 where all of the area highlighted in red counts as negative area. The total
 blue area is approximately $33.05$ and the red area is approximately $-24.72$,
@@ -70,7 +70,7 @@ $$\int_{-2}^3 (-x^2 + 4x + 15)~dx$$
 
 but now, let's instead approximate it with 10 rectangles of equal width
 
-![](../../../assets/riemann.png)
+<img src="../../../assets/riemann.png" width="500">
 
 It should be pretty straightforward to see that the sum of all these rectangle
 areas will approximate the actual integral. In fact, the more of these equal
@@ -79,14 +79,14 @@ width rectangles you use, the better this approximation will be.
 For now, let's stick with the simple example of using 10 rectangles. The total
 width of the integral is $3 - -2 = 5$, meaning the width of each individual
 rectangle should be $\frac{5}{10} = 0.5$. The function we're integrating over
-is $$f(x) = -x^2 + 4x + 15$$S.
+is $$f(x) = -x^2 + 4x + 15$$.
 
-The first rectangle starts at $-2$ and, with a width of $0.5%, ends at $-1.5$.
+The first rectangle starts at $-2$ and, with a width of $0.5$, ends at $-1.5$.
 What would the best value be to use for the height of this first rectangle in
 the approximation?  Probably the value of function at the *middle* of the
-rectangle, so $f(-1.75)$, which would be $-(-1.75)^2 + 4 \dot -1.75 + 15 \approx
+rectangle, so $f(-1.75)$, which would be $-(-1.75)^2 + 4 \cdot -1.75 + 15 \approx
 4.94$. The area of this rectangle can now very easily be computed of course,
-using the width of $0.5$, so $4.94 \dot 0.5 = 2.47$.
+using the width of $0.5$, so $4.94 \cdot 0.5 = 2.47$.
 
 This process can be repeated for all 10 rectangles, and summed together to get
 the complete approximation. So, a little more formally, we would write
@@ -94,7 +94,7 @@ the complete approximation. So, a little more formally, we would write
 $$\begin{align*}
     \int_{-2}^3 f(x)~dx &\approx \frac{1}{2}f(-1.75) +
         \frac{1}{2}f(-1.25) + \dots + \frac{1}{2}f(2.75) \\
-    &\approx \sum_{i=0}^{9} \frac{1}{2}f(-2 +\frac{1}{2}i + \frac{1}{4})
+    &\approx \sum_{i=0}^{9} \frac{1}{2}f(-2 +\frac{1}{2}i + \frac{1}{4}) \\
     &\approx 73.4375
 \end{align*}$$
 
