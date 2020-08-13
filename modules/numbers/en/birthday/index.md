@@ -12,18 +12,18 @@ Example 1:
 Example 2:
 
 	Enter a number: 2
-	Birthday #1 is in the year 2008
+	Birthday #2 is in the year 2008
 
 Example 3:
 
 	Enter a number: 1000
-	Birthday #1 is in the year 2412
+	Birthday #1000 is in the year 2412
 
 ## Specification
 
 * Ask the user to provide a positive number. If the number is not positive ask again.
 
-* Print the k'th leap year starting from 2000 (so 2000 is the 0th, and 2004 is the 1st year).
+* Print the $$k$$'th leap year starting from 2000 (so 2000 is the 0th, and 2004 is the 1st year).
 
 ## Decomposition
 Again, take a couple of minutes of time, before you start coding, to draw the problem with **pen and paper**. Illustrate how you would take on this problem and how you would divide the problem into smaller and simpler steps.

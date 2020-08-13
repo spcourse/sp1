@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/numbers.git
 	branch = main
-	commit = 1dc66d976d527e412a0e2f4194ceac1a9b061251
-	parent = 37e35000bcdd6903b858a626e23d73a385cc483b
+	commit = c49fc772ef1e6a89bf0c80957c19ae97db6e1b7c
+	parent = 77151ac6836b0d3e9609d890be1d7dfa48181649
 	method = merge
 	cmdver = 0.4.1
