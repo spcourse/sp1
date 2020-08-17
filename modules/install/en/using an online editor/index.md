@@ -70,7 +70,7 @@ To download both `matplotlib` and `checkpy` you have to run the following comman
     pip install checkpy
     checkpy -d uva-sp/sp1
 
-It can take quite a while for each command and a lot of text will move over your screen. In case there is relatively little text on your screen, try to find a message stating something went wrong or ask for assistance! 
+It can take quite a while for each command and a lot of text will move over your screen. In case there is relatively little text on your screen, try to find a message stating something went wrong or ask for assistance!
 
 To test if everything is in working order and whether `hello.py` is implemented correctly, run the following command in the terminal:
 
