@@ -1,6 +1,4 @@
 name: install
 
 content:
-    Getting started: .
-    Install on your own computer: on-your-own-computer
-    Use an online editor (quick and easy): using-an-online-editor
+    Setup your programming environment: .
