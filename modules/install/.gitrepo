@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/install.git
 	branch = main
-	commit = 15ec85ac03269f9a58431d8ebb4047707a4367b1
-	parent = e54145ac91abd5aebab170492bf530f43d78ceff
+	commit = 77b7afc57891aef8fa851f1ce4c77de936a1aead
+	parent = f3f18957951b7bc481fbf5c787b6e4ca8d585094
 	method = merge
 	cmdver = 0.4.1
