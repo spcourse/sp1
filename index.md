@@ -6,15 +6,17 @@ Welcome to this programming course! In the weeks ahead, you'll use the Python pr
 
 ## Staff
 
-Simon Pauw (teacher)  
+Simon Pauw (teacher)
+Natasja Wezel (teacher)
+Martijn Stegeman (coordinator)
 
 If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
 
 ## Getting started
 
 0. Read more of the syllabus, below.
-2. [Install](/python/en/installing) Python.
-3. Choose one of the level 1 modules to get started!
+1. Install Python.
+2. Choose one of the level 1 modules (*Algorithms* or *Numbers*) to get started!
 
 ## Prerequisites
 
@@ -36,13 +38,10 @@ When you have finished one modules for each level, you might take up Scientific 
 
 ## Asking questions
 
-In this course you'll mostly work independently and ask for help online. We have created a special "Stack Overflow" section, for which you will be invited as the course starts.
+In this course you'll mostly work independently and ask for help online. There are two ways you can get help:
 
-<https://stackoverflow.com/c/uva-prog-lab>
-
-Besides Stack Overflow, you can come to the programming lab at the following times. Our teacher(s) will be ready to answer questions, help you find resources for programming, and help thinking about the problems at hand.
-
-> The lab is open for you on **Tuesdays 15:00--17:00 in room A1.24 and Fridays 15:00--17:00 in room A1.22**. These rooms are at the Science Park 904 building. When coming to the lab for the first time, please find your teacher and introduce yourself! That way it's easier to ask questions when needed.
+- The first resource for editing help is [Ed](https://us.edstem.org/), an online discussion platform. You will receive an invitation for this platform at the start of the course. Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
+- If you cannot solve the problem through Ed, you can plan a [Zoom](...) meeting with someone of our staff.
 
 ## Passing the course
 
@@ -53,7 +52,7 @@ The course's final result will be "pass" or "fail", which means that **no grades
 
 ### Coursework
 
-Sufficient coursework means submitting a working solution to each problem from at least four modules of your own choosing, keeping in mind that you need to finish one module per level. 
+Sufficient coursework means submitting a working solution to each problem from at least four modules of your own choosing, keeping in mind that you need to finish one module per level.
 
 You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
 
@@ -61,32 +60,16 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
-**Semester 2**
+**Semester 1**
 
 | Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
 | ----------------- | ----------- | ----------- | ----------- |
-| Level 1           | Fri, 7 Feb  | Wed, 12 Feb | Fri, 21 Feb |
-| Level 2           | Thu, 13 Feb | Tue 24 Feb  | Fri 13 Mar  |
-| Level 3           | Wed, 19 Feb | Mon, 9 Mar  | Fri, 17 Apr |
-| Level 4           | Tue, 25 Feb | Fri, 20 Mar | Fri, 15 May |
+| Level 1           | Fri, 4 Sep  | Wed, 9 Sep  | Fri, 21 Sep |
+| Level 2           | Thu, 10 Sep | Tue, 22 Sep | Fri, 13 Oct |
+| Level 3           | Wed, 16 Sep | Mon, 5 Oct  | Fri, 17 Nov |
+| Level 4           | Tue, 22 Sep | Fri, 16 Oct | Fri, 15 Dec |
 
 Note: if you would also like to take Scientific Programming 2, you will need to do the 8-week schedule. If you'd like to take Data Processing as well, you will need to do the 4-week schedule, in order to leave enough time!
-
-**Semester 1**
-
-Deadlines for period 1:
-
-- Level 1: Wednesday, 11 September
-- Level 2: Tuesday, 24 September
-- Level 3: Monday, 7 October
-- Level 4: Friday, 18 October
-
-Deadlines for period 2:
-
-* Level 1: Wednesday, 6 November
-* Level 2: Tuesday,  19 September
-* Level 3: Monday, 2 December
-* Level 4: Friday, 13 December
 
 ### Exam
 
@@ -94,19 +77,13 @@ There are multiple opportunities to take the exam.
 
 **Semester 1**
 
-- Tuesday, 22 October
-- Tuesday, 17 December
-
-**Semester 2**
-
-- Monday, 2 March
-- Monday, 30 March
-
-The second exam can be seen as a "resit" to the first. However, it is not necessary to take the first exam to be allowed into the second.
+- Tuesday, 29 September
+- Tuesday, 20 October
+- Tuesday, 15 December
 
 ## Feedback
 
-Programming is like writing. You can gradually learn to write programs that are more beautiful, functional, short, elegant or simple. To learn this, you'll need some feedback, and it's mostly up to you to get it. You can show your programs in class to fellow students or your teacher; you can post a fragment of your code on Stack Overflow and ask for advice on improving; or you can send the staff an e-mail and we'll have a look (this might take a while though!).
+Programming is like writing. You can gradually learn to write programs that are more beautiful, functional, short, elegant or simple. To learn this, you'll need some feedback, and it's mostly up to you to get it. You can show your programs in class to fellow students or your teacher; you can post a fragment of your code on Ed and ask for advice on improving; or you can send the staff an e-mail and we'll have a look (this might take a while though!).
 
 ## Books
 

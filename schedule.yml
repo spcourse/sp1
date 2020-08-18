@@ -1,13 +1,14 @@
+"Select your module below. You only have to make one module per level."
+
 Welcome:
     Read the syllabus to get started: /syllabus
+    - installing
 
 Algorithms (level 1):
-    - installing
     - algorithms
     - plotting
 
 Number theory (level 1):
-    - installing
     - numbers
     - plotting
 
