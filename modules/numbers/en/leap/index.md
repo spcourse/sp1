@@ -108,4 +108,4 @@ Now, carefully read the specification at the top of the assignment and make sure
 
 To be sure to test your program using `checkpy`:
 
-    checkpy leap
+	checkpy leap

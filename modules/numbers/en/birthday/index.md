@@ -2,7 +2,7 @@
 
 People that are born on February 29 are called leap-year babies. Leap-year babies only have an actual birthday on leap years. Born on any other date it easy to compute when you can celebrate your $$k$$'th birthday. Not so for leap-year babies.
 
-Implement a program called `birthday.py` that asks the user for a number $$k$$ and compute the k'th birthday of a leap-year baby born on February 29 2000 (like, for example the Spanish football player, Ferran Torres García).
+Implement a program called `birthday.py` that asks the user for a number $$k$$ and compute the *k'th birthday of a leap-year baby born on February 29 2000*.
 
 Example 1:
 
@@ -17,7 +17,7 @@ Example 2:
 Example 3:
 
 	Enter a number: 1000
-	Birthday #1000 is in the year 2412
+	Birthday #1000 is in the year 6124
 
 ## Specification
 
@@ -39,4 +39,4 @@ When does the while loop stop?
 
 To be sure to test your program using `checkpy`:
 
-    checkpy birthday
+	checkpy birthday
