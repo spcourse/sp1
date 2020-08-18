@@ -69,7 +69,7 @@ Deadlines for each level are listed below. Only by agreement in advance is it po
 | Level 3           | Wed, 16 Sep | Mon, 5 Oct  | Fri, 17 Nov |
 | Level 4           | Tue, 22 Sep | Fri, 16 Oct | Fri, 15 Dec |
 
-Note: if you would also like to take Scientific Programming 2, you will need to do the 8-week schedule. If you'd like to take Data Processing as well, you will need to do the 4-week schedule, in order to leave enough time!
+Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time!
 
 ### Exam
 
