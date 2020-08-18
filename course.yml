@@ -2,6 +2,8 @@ long_name: Scientific Programming 1
 short_name: SP1
 language: en
 
+"Choose your module below. Only make one module per level."
+
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/college/2019/fall/ -- Copyright 2011--2019, David J. Malan.'
 
