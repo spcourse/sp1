@@ -21,11 +21,12 @@ at first. Take a look at the following example code:
 	print(multiplied)
 
 The output will be:
+
 	9
 	24
 
 
-Here the funcion `repeat()` is used for two different purposes. In the first call it adds all numbers together. In the second call they are multiplied.
+Here the function `repeat()` is used for two different purposes. In the first call it adds all numbers together. In the second call they are multiplied.
 
 The difference of behavior in the two cases is accomplished by having the parameter `my_function` which is applied twice in the `repeat`. When calling `repeat` we specify what we want `my_function` to be. In the first case that is the function `add`, in the second case this is the function `mult`.
 
