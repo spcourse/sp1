@@ -5,8 +5,7 @@ quadratic function within specified boundaries, i.e.
 
 $$\int_{d}^e (a x^2 + bx + c)~dx$$
 
-Here, the values $a$, $b$, and $c$ define the quadratic function, while the
-parameters $d$ and $e$ indicate the lower and upper bound of the integral
+Here, the values $a$, $b$, and $c$ define the quadratic function, while the parameters $d$ and $e$ indicate the lower and upper bound of the integral
 respectively.
 
 The program should print out the approximated integral and a plot of the
@@ -20,9 +19,7 @@ quadratic function should also be displayed on the screen.
 
     * The function `riemann()` has to accept 6 arguments:
 
-        - `a` quadratic factor of the function
-        - `b` linear factor of the function
-        - `c` constant factor of the function
+        - `a`, `b`, and `c`, the parameters of the quadratic function
         - `d` start of the integral area
         - `e` end of the integral area
         - `n` number of rectangles used to approximate the integral
@@ -58,3 +55,7 @@ Does there appear to be some error or bug?
 
 * If that appears to be the case, then it could be possible that the number of steps is too small to come to an exact enough answer. Try again after increasing the number of steps (or, rectangles) and see how that influences the outcome.
 
+## Testing
+Once you convinced yourself it worked you can use checkpy to run some automatic tests.
+
+	checkpy riemann

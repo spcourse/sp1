@@ -45,6 +45,8 @@ work to *approximate* an integral. There are quite a few different ways you can
 leverage the computational power of a computer to approximate an integral, the
 most well known of which is a Riemann sum.
 
+## Negative area
+
 One last important detail on the definition of an integral: Any area *below*
 the x-axis, is considered **negative area**, and so subtracts from the
 total area, instead of adding to it. Take, for example,
