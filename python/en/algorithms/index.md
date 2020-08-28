@@ -1,8 +1,10 @@
 # Algorithms
 
-Computers truly shine when the solution to a problem cannot (or is hard to) be expressed by a formula. Programmers work to devise and implement *algorithms*, that exactly specify the step-by-step plan to solve a problem. An important aspect of algorithms is that they have to work for different inputs. In the video below the algorithm has to find the correct solution if there are 0, 1, 2, 3, 4, or more people in the room.
+Computers truly shine when the solution to a problem cannot (or is hard to) be expressed by a formula. Programmers work to devise and implement *algorithms*, that exactly specify the step-by-step plan to solve a problem. An important aspect of algorithms is that they have to work for different inputs.
 
-![embed](https://www.youtube.com/embed/6hfOvs8pY1k)
+<!-- In the video below the algorithm has to find the correct solution if there are 0, 1, 2, 3, 4, or more people in the room.
+
+![embed](https://www.youtube.com/embed/6hfOvs8pY1k) -->
 
 In the chapter [basics](/python/basics) you've learned a number of **instructions** that can be used in Python:
 
@@ -16,27 +18,28 @@ Aside from that, you've gotten acquainted with operators that are used to compri
 
 The preceding programs were scripts that were meant to be executed line for line from top to bottom. A sort of step by step guide. Programs get more interesting when we intend to write *exceptions*.
 
-In Dutch, we introduce `if`-statements with a couple of examples:
+<!-- In Dutch, we introduce `if`-statements with a couple of examples:
 
-![embed](https://player.vimeo.com/video/287244672)
-
-In English, read a bit more about [conditionals](http://greenteapress.com/thinkpython/html/thinkpython006.html) at Think Python.
-
-## Details
+![embed](https://player.vimeo.com/video/287244672) -->
 
 An `if`-statement in Python is structured as follows:
 
     balance = 100
     expense = 75
-    if balance - expense > 0:
+
+    if expense < balance:
         balance = balance - expense
         print("Transaction complete.")
+
     print(f"Your balance is {balance}.")
 
+This example prints the text "Transaction complete" if `expense` is smaller than `balance`.
 
-A **condition** ultimately only has two possible outcomes. In Python these are `True` and `False` (these are called **boolean** values, after [George Boole](https://en.wikipedia.org/wiki/Boolean_algebra#Values)). In the code shown above the this boolean is the result of the expression `balance - expense > 0`. In this case the comparison operator `>` ('greater than') is used. This operator compares two parts, the first part is the result of `balance - expense` and the second part is `0`T. After which the result is evaluated into a boolean. Depending on the result, a `True` or `False` , the code within the if-statement is executed (the result was `True`) or skipped entirely (the result was `False`).
+A **condition** (lile `expense < balance`) ultimately only has two possible outcomes. In Python these are `True` and `False` (these are called **boolean** values, after [George Boole](https://en.wikipedia.org/wiki/Boolean_algebra#Values)). In the code shown above the this boolean is the result of the expression `expense < balance`. In this case the comparison operator `<` ('smaller than') is used. This operator compares two parts, the first part is the result of `expense` and the second part is `balance`. After which the result is evaluated into a boolean. Depending on the result, a `True` or `False` , the code within the if-statement is executed (the result was `True`) or skipped entirely (the result was `False`).
 
 The `:` on the same line as the `if` signals that there's a **code block** that accompanies the `if`-statement. That's the particular part of code that is only executed if the condition is met. Such a block of code consists of multiple lines of code which are **indented** a set amount. Indenting code means you precede the lines with a certain amount of spaces or tabs. In the code above a number of 4 spaces is used to indicate which lines of code are associated with the `if`-statement. Since the second `print`-statement is not indented, it is no longer part of the previous code block and is therefore not dependent on the condition of the `if`-statement. It is executed *unconditionally*.
+
+Read a bit more about [conditionals](http://greenteapress.com/thinkpython/html/thinkpython006.html) at Think Python.
 
 ## More operators
 
