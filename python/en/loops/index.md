@@ -6,9 +6,9 @@ Please create a file called `practicing_loops.py` and use it to implement the va
 
 ## Loops to repeat instructions
 
-![embed](https://player.vimeo.com/video/287247060)
+<!-- ![embed](https://player.vimeo.com/video/287247060) -->
 
-A `for`-loop is used when you want to repeat a set of instructions. For example, if you want to print the numbers from 1 to 10 on the screen you could do that with ten separate print-statements, but you could also use the following construcion:
+A `for`-loop is used when you want to repeat a set of instructions. For example, if you want to print the numbers from 1 to 10 on the screen you could do that with ten separate print-statements, but you could also use the following construction:
 
     for x in range(1, 11):
         print("x now has the value ",x)
@@ -31,9 +31,9 @@ There are a few important things to note:
 
 -   **Note:** Python counts *up to* the last number in the function range(): range(1,11) runs from *up to and including* 10. This is a very common mistake to make when you begin programming in Python. It might feel unintuitive, but that's just the way it is.
 
--   In hthe above example we assigned the name 'x' to the variable, but we could of course have used a different name like 'number', 'i', 'counter' etc. You can use whatever you want.
+-   In the above example we assigned the name 'x' to the variable, but we could of course have used a different name like 'number', 'i', 'counter' etc. You can use whatever you want.
 
--   With range you can also specify the stepsize. This is standard set to 1, but if you perfer to take steps of 10 you would use the following syntax:
+-   With range you can also specify the step size. This is standard set to 1, but if you prefer to take steps of 10 you would use the following syntax:
 
          for x in range (1, 100, 10):
 
@@ -44,7 +44,7 @@ There are a few important things to note:
 
 In Python, just like in almost every other programming language, there are two different constructions to loop over a variable: the **for-loop** and the **while-loop**.
 
-A for-loop is used when you know beforehand how often you want to repeat the set of instructions. In cases where you do not know that in advance and want to evaluate at every step if you want to continuer not, you use the while-loop. In a while-loop, just like in the for-loop, all instructions are executed for a specific value of the variable. Ths difference is that each time the variable is changed, there is an evaluation wether or not to re-do the blok again.
+A for-loop is used when you know beforehand how often you want to repeat the set of instructions. In cases where you do not know that in advance and want to evaluate at every step if you want to continuer not, you use the while-loop. In a while-loop, just like in the for-loop, all instructions are executed for a specific value of the variable. Ths difference is that each time the variable is changed, there is an evaluation wether or not to re-do the block again.
 
 In most cases, `for` and `while` are interchangeable. This for-loop:
 
@@ -60,13 +60,13 @@ is equal to the following `while-loop`:
 
 The reason that the `for`-loop is more often used is that it is a bit more compact and also easier readable. However this can only be done is you know beforehand how often this needs to be executed. In other cases, and also with user input it can almost only be done with a while construction.
 
-![embed](https://player.vimeo.com/video/287247106)
+<!-- ![embed](https://player.vimeo.com/video/287247106) -->
 
 ## Computing things using loops
 
 In the first example we had only a single instruction in the loop itself, 'print the value of x on the screen', but you could have multiple instructions for every value x takes.
 
-![embed](https://player.vimeo.com/video/287247088)
+<!-- ![embed](https://player.vimeo.com/video/287247088) -->
 
 In the next example we add the value of x to another variable that we have set to zero at the beginning of the program. At the end of the program this variable contains the sum of the values from 1 to 10. Once we have that, it is easy to get the sum of numbers from 1 to 712643 rather than from 1 to 10 of course.
 
@@ -91,11 +91,9 @@ As soon as all instructions have been executed forthe highest value the variable
 
 ## Filtering using loops
 
-Within the set of instructions you can also use conditionals.
+<!-- ![embed](https://player.vimeo.com/video/287247135) -->
 
-![embed](https://player.vimeo.com/video/287247135)
-
-For example, if you want the loop to froun from 1 to 20, but want to only print the nubers that are larger than 15 or numbers if it is divisible by three you could use the following code:
+Within the set of instructions you can also use conditionals. For example, if you want the loop to go from 1 to 20, but want to only print the numbers that are larger than 15 or numbers if it is divisible by three you could use the following code:
 
     for number in range(1, 20):
         if number > 15:
@@ -114,7 +112,7 @@ We already mentioned that you can decide on the name of the variable. And as you
 
 In the examples we have looked at up to now we have only printed things and saved some variables. Nothing too complex. This is not always the case and loops are often used in more complex constructions.
 
-It is also possible to make loops withing loops, so-called 'nested loops'*. If you for example want to vary a specific variable `y` from 1 to 3 for every value the variable `x` takes (for example when `x` is the student number and `y` is the mark for three different assignments during an exam) you can use the folloing construction:
+It is also possible to make loops within loops, so-called 'nested loops'*. If you for example want to vary a specific variable `y` from 1 to 3 for every value the variable `x` takes (for example when `x` is the student number and `y` is the mark for three different assignments during an exam) you can use the following construction:
 
     for x in range(1, 6):
        for y in range(1, 4):

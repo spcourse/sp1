@@ -15,9 +15,9 @@ This is a function that `print`s the string `Hello` to the terminal. If you add 
 
     print_greeting()
 
-## Examples of declaring functions
+## Details
 
-![embed](https://vimeo.com/album/5380760/embed)
+Read more about functions here: [Think Python](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
 
 ## Style and design
 
