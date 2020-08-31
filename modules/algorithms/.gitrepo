@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/algorithms.git
 	branch = main
-	commit = 5c1a91cea41c27a70b358896e82013a921b06257
-	parent = 1bf5cb7237c42b767c8a58055d09a410eed2d391
+	commit = 3cbcd67ccbe829d269df32e9c4fc0e5fb7a4049c
+	parent = 7498e2c3ea4b7101f21c598a1195189342252180
 	method = merge
 	cmdver = 0.4.1

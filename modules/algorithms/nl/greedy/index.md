@@ -7,7 +7,7 @@ Implementeer een programma dat het minimaal aantal muntjes uitrekent om wisselge
 
 ## Achtergrond
 
-![](coinchange.png)
+![](../../assets/coinchange.png)
 
 In een ver verleden, toen er nog actief werd betaald door middel van contanten, was een muntenhouder als hierboven onmisbaar voor de verstokte koopjesjager. Het vervelende is dat er voor elk muntje een palletje moest worden ingedrukt, en dit kost tijd. Gelukkig zijn wij er al computer scientists om het aantal terug te geven muntjes te minimaliseren door middel van "greedy algoritmes".
 

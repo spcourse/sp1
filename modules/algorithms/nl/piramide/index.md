@@ -18,7 +18,7 @@ Implementeer een programma dat een halve piramide uitprint van een door de gebru
 
 Aan het einde van wereld 1-1 in Super Mario Brothers moet Mario een halve piramide van blokken beklimmen voordat hij mag springen naar een vlaggenpost. Dit ziet er zo uit:
 
-![](mario.png)
+![](../../assets/mario.png)
 
 ## Specificatie
 

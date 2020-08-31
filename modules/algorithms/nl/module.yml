@@ -1,11 +1,11 @@
 name: algoritmen
 content:
 
-    Introduction: .
+    Inleiding: .
 
     Aan de slag:
         Installeer Python: /python/nl/installatie
-        Oefen goed met de basiselementen van Pytho: /python/nl/basiselementen
+        Oefen goed met de basiselementen van Python: /python/nl/basiselementen
         Controleer je waterverbruik: water
 
     Een eerste algoritme:
