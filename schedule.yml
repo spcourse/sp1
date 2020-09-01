@@ -3,8 +3,11 @@ Welcome:
     Install python: /python/en/installing
 
 Algorithms (level 1):
+  "":
     - algorithms
     - plotting
+  Submit:
+    Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
     - numbers
