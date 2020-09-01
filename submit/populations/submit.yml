@@ -1,0 +1,9 @@
+name: populations
+files:
+    required:
+        - spiral.py
+        - student.py
+        - predator_prey_1.py
+        - predator_prey_2.py
+        - predator_prey_3.py
+        - predator_prey_4.py

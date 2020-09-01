@@ -1,0 +1,9 @@
+name: bigdata-en
+files:
+    required:
+        - car_ride.py
+        - temperature.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: -m weather
