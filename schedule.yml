@@ -1,6 +1,6 @@
 Welcome:
-    Read the syllabus to get started: /syllabus
-    Install python: /python/en/installing
+  Read the syllabus to get started: /syllabus
+  Install python: /python/en/installing
 
 Algorithms (level 1):
   ".":
@@ -23,22 +23,22 @@ Numerical integration (level 2):
     Submit your solutions: /submit/algorithms
 
 Text processing (level 2):
-    - text
+  - text
 
 Monopoly (level 3):
-    - animation
-    - monopoly-en
+  - animation
+  - monopoly-en
 
 Physics of movement (level 3):
-    - animation
-    - movement
+  - animation
+  - movement
 
 Population dynamics (level 3):
-    - animation
-    - populations
+  - animation
+  - populations
 
 Big data (level 4):
-    - bigdata-en
+  - bigdata-en
 
 Statistics (level 4):
-    - statistics-en
+  - statistics-en
