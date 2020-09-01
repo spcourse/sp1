@@ -15,4 +15,4 @@ jobs:
       - name: YAML Lint
         uses: ibiqlik/action-yamllint@v1
         with:
-          config_data: {extends: relaxed, rules: {}}
+          config_data: "{extends: relaxed, rules: {}}"
