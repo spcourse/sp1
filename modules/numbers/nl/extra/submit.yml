@@ -1,4 +1,0 @@
-name: coprimes
-files:
-    required:
-        - onderlingpriem.py
