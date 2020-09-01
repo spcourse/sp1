@@ -1,8 +1,0 @@
-name: statistics-en
-files:
-    required:
-        - statistics_1.py
-        - statistics_2.py
-        - statistics_3.py
-        - statistics_4.py
-        - statistics_5.py
