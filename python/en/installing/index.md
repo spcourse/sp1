@@ -14,4 +14,4 @@ Take these recommendations into account:
 
 * Check whether you have to correct version! Python 2 and Python 3 exist alongside one another. We use the latest version, Python 3. Many of the examples in this course will *not* work using Python 2.
 
-* Be sure to install the program `checkpy`, which you'll need to verify your own solutions. Head over to the instructions for installing on your [own computer](/installing/on-your-own-computer)
+* Be sure to install the program `checkpy`, which you'll need to verify your own solutions. Head over to the instructions for installing on your [own computer](/python/en/installing/computer)
