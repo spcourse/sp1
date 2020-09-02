@@ -1,0 +1,8 @@
+grades:
+    algorithms:
+        type: pass
+        subgrade:
+            checkpy: float
+        automatic:
+            checkpy: correctness_score
+        
