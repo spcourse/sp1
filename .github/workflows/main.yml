@@ -7,10 +7,12 @@ on:
     branches: ['*']
 
 jobs:
-  build:
+  yaml_check:
     runs-on: ubuntu-latest
     steps:
-      - name: Get code
+      - name: Checkout
         uses: actions/checkout@v2
       - name: YAML Lint
-        uses: actionshub/yamllint@v1.0.0
+        uses: ibiqlik/action-yamllint@v1
+        with:
+          config_data: "{extends: relaxed, rules: {}}"
