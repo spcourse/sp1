@@ -5,10 +5,10 @@ files:
         - leap.py
         - birthday.py
         - prime.py
+        - listprimes.py
         - goldbach.py
         - plot.py
-    extra:
-        - coprime.py
+        
 check:
     tool: checkpy
     repo: uva-sp/sp1
