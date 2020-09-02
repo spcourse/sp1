@@ -72,12 +72,12 @@ In the next example we add the value of x to another variable that we have set t
 
 As soon as all instructions have been executed forthe highest value the variable x can take, the loop is 'finished' and the program continues with all instructions after the for-loop. In this case we have the program print the value of the sum of all numbers. Please pay close attention to the indentation/position of the last line.
 
-    sum = 0
+    total = 0
     for x in range(1, 11):
-        print("x now has the value ",x)
-        sum = sum + x
+        print("x now has the value", x)
+        total = total + x
 
-    print("The sum of all numbers from ", 1, " to ", 10 = ", sum)
+    print("The sum of all numbers from", 1, "to", 10, "=", total)
 
 
 **Exercise 1:** Please change this program by changing the indentation of the print-statement in such a way that it starts at the same position as the line 'sum = sum + x'. Run the program and try to understand what happens. problems with indentation is a very common mistake when using loops, so it is important to see these type of 'mistakes' so you can recognize them later.
