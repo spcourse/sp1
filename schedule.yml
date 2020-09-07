@@ -42,12 +42,12 @@ Physics of movement (level 3):
   Submit:
     Submit your solutions: /submit/movement
 
-Population dynamics (level 3):
-  ".":
-    - animation
-    - populations
-  Submit:
-    Submit your solutions: /submit/populations
+# Population dynamics (level 3):
+#   ".":
+#     - animation
+#     - populations
+#   Submit:
+#     Submit your solutions: /submit/populations
 
 Big data (level 4):
   ".":
