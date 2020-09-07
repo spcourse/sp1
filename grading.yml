@@ -5,7 +5,7 @@ grades:
             checkpy: integer
         automatic:
             checkpy: correctness_score
-        calculation: correctness_score < 13 && 0 || -1
+        calculation: checkpy < 13 && 0 || -1
 
     numbers:
         type: pass
@@ -13,4 +13,4 @@ grades:
             checkpy: integer
         automatic:
             checkpy: correctness_score
-        calculation: correctness_score < 22 && 0 || -1
+        calculation: checkpy < 22 && 0 || -1
