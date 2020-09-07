@@ -1,7 +1,7 @@
 grades:
     algorithms:
         type: pass
-        subgrade:
+        subgrades:
             checkpy: integer
         automatic:
             checkpy: correctness_score
@@ -9,7 +9,7 @@ grades:
 
     numbers:
         type: pass
-        subgrade:
+        subgrades:
             checkpy: integer
         automatic:
             checkpy: correctness_score
