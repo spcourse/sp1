@@ -16,3 +16,46 @@ grades:
             checkpy: correctness_score
         calculation: checkpy < 22 && 0 || -1
         auto_publish: true
+
+    text:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 13 && 0 || -1
+
+    integrals:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 19 && 0 || -1
+
+    movement:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 14 && 0 || -1
+
+    monopoly-en:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 8 && 0 || -1
+
+    bigdata-en:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 10 && 0 || -1
+
+    statistics-en:
+        type: pass
