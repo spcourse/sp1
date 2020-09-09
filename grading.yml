@@ -24,7 +24,7 @@ grades:
             tweets: boolean
         automatic:
             checkpy: correctness_score
-        calculation: (checkpy < 13 || tweets != -1) && 0 || -1
+        calculation: (checkpy < 13 || tweets == 0) && 0 || -1
 
     integrals:
         type: pass
@@ -38,17 +38,21 @@ grades:
         type: pass
         subgrades:
             checkpy: integer
+            spiral: boolean
+            student: boolean
         automatic:
             checkpy: correctness_score
-        calculation: checkpy < 14 && 0 || -1
+        calculation: (checkpy < 14 || spiral == 0 || student == 0) && 0 || -1
 
     monopoly-en:
         type: pass
         subgrades:
             checkpy: integer
+            spiral: boolean
+            student: boolean
         automatic:
             checkpy: correctness_score
-        calculation: checkpy < 8 && 0 || -1
+        calculation: (checkpy < 8 || spiral == 0 || student == 0) && 0 || -1
 
     bigdata-en:
         type: pass
