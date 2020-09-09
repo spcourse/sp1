@@ -9,18 +9,20 @@ Create a program that simulates a great number of games of a simplified version 
 
 ## Background
 
-We're going to simulate a large number of games of Monopoly in which we let 1 player go around the board and buy all the properties. We play the so-called Trump Mode. The player has infinite money and there is no competition. Goal of this assignment to determine the average number of throws after which all streets have been bought.
+We're going to simulate a large number of games of Monopoly in which we let 1 player go around the board and buy all the properties. We play the so-called Trump Mode; the player has infinite money and there is no competition. Goal of this assignment to determine the average number of throws after which all streets have been bought.
 
 ## Specification
 
-* Create a new file called `monopoly.py`
+* Create a new file called `monopoly.py`.
+
+* Declare a function `throw_two_dice()` that simulates two dice-throws.
 
 * Declare a function `simulate_monopoly_games()` that can simulate a large number of games.
 
 * The function `simulate_monopoly_games()` has one argument:
 
     - `total_games` is the number of games that get simulated
-	
+
 * The function `simulate_monopoly_games(total_games)` should `return` the number of throws required before all streets were held by the player.
 
 
@@ -73,9 +75,9 @@ Not every position on the board corresponds with a property (street, station or 
 {: .language-python}
     board_values = [0, 60, 0, 60, 0, 200, 100, 0, 100, 120, 0, ......]
 
-Browse the internet for the further layout of the Monopoly board, so you can implement the full 40 fields and their values. If the value is lower than 1 euro (or more likely equal to zero) then the field is 'empty' (not for sale).
+Browse the internet for the further layout of the Monopoly board, so you can implement the full 40 fields and their values. If the value is equal to zero then the field is 'empty' (not for sale).
 
-For each of the positions of the board you could `print` the following statement:
+During testing, you could `print` the following statement for each of the positions of the board :
 
     After throw 1: position  6 (street)
     After throw 2: position  9 (street)
@@ -86,7 +88,7 @@ Implement this feature into your program.
 
 ## Moving around and buying properties
 
-We'll now expand `simulate_monopoly()` with the possibility of buying properties and with that we'll have to keep track of which properties have/haven't been bought. We start by moving around the board in Donald Trump mode: we can buy anything, we're the only player in the game and we keep moving around until everything is in our possession. The question we have to answer in this assignment is as follows: "How long (how many throws) does it take for all streets to be ours?".
+We'll now expand `simulate_monopoly()` with the possibility of buying properties and with that we'll have to keep track of which properties have/haven't been bought. We start by moving around the board in Donald Trump mode: we can buy anything, we're the only player in the game, and we keep moving around until everything is in our possession. The question we have to answer in this assignment is as follows: "How long (how many throws of two dice) does it take for all streets to be ours?".
 
 It is crucial that we monitor how many streets (and which ones) we have in our possession. This can be done through the use of a list (again 40 elements long) where each element represents whether the player owns the corresponding property. Start the list out as a collection of 40 zeros.
 
@@ -95,16 +97,16 @@ It is crucial that we monitor how many streets (and which ones) we have in our p
 
 Each time you land on a new position you can verify:
 
-* the position is up for sale: street, station, utility?
+* is the position up for sale: street, station, utility?
 * if so, is it still 'on the market'?
 
-If, for example, you reach position 3 after the first trow and buy Whitechapel Road (or Brink, in the Dutch version) then you can update your list of possessions. 
+If, for example, you reach position 3 after the first trow and buy Whitechapel Road (or Brink, in the Dutch version) then you can update your list of possessions.
 Immediately afterwards the list would look like this:
 
 {: .language-python}
     possessions = [0, 0, 1, 0, ....., 0, 0]
 
-If a field is not for sale or the street is already in your possession then we throw the dice again and just move on. Make sure that each time you land on a field that can be bought, your program `print`s that fact to the screen and also how many properties you have in possession after buying that property.
+If a field is not for sale or the street is already in your possession then we throw the dice again and just move on. During testing, make sure that each time you land on a field that can be bought, your program `print`s that fact to the screen and also how many properties you have in possession after buying that property.
 
     After throw 1: position  3 (street)
                player 1 has 1 property in their possession. There are still 27 fields for sale.
@@ -124,7 +126,7 @@ Your code should operate as follows:
 
 ## Multiple games and the average number of throws
 
-We can now use the function `simulate_monopoly()` to simulate a single game of Monopoly. If you do this a couple of times you'll see that the number of throws required to collect all streets varies greatly from game to game. This is because near the end of a game you need a lot of luck to hit those few open fields left. The goal of this assignment is to find out how many throws the player *averagely* needs to bring all properties into their possession. To answer this question we'll need to simulate a huge number of games.
+We can now use the function `simulate_monopoly()` to simulate a single game of Monopoly. If you do this a couple of times you'll see that the number of throws required to collect all streets varies greatly from game to game. This is because near the end of a game you need a lot of luck to hit those few open fields left. The goal of this assignment is to find out how many throws the player on *average* needs to bring all properties into their possession. To answer this question we'll need to simulate a huge number of games.
 
 Declare a function `simulate_monopoly_games(total_games)` that will simulate a large number of games by repeatedly call the function `simulate_monopoly()`:
 
@@ -143,15 +145,15 @@ Declare a function `simulate_monopoly_games(total_games)` that will simulate a l
     We simulated 10000 games
     It took an average of XXX throws before the player to collect all streets
 
-Tip: when you simulate a large number of games it is useful if the program reports what exactly is being executed at each moment in time. On the other hand, it is counter-productive if you have to scroll through line upon line of output. A way to resolve that issue is by, for instance, only `print` each 500 games of Monopoly the relevant information of that game. 
+Tip: when you simulate a large number of games it is useful if the program reports what exactly is being executed at each moment in time. On the other hand, it is counter-productive if you have to scroll through line upon line of output. A way to resolve that issue is by, for instance, only `print` each 500 games of Monopoly the relevant information of that game.
 
 ## And then: return the result
 
 Finally make sure the function `simulate_monopoly_games(total_games)` `return`s the average number of throws that were required to collect all streets.
 
-<!--## Testing
-
-Update `checkpy` and test Monopoly:
+After manually checking the output, update `checkpy` and test Monopoly:
 
     checkpy -u
-    checkpy monopoly -->
+    checkpy monopoly
+
+**You won't pass all tests, because the last test is for the next part of the assignment.**

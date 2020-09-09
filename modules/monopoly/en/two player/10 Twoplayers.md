@@ -1,18 +1,18 @@
 ## Assignment 3: Realistic addition: two players
 
-In real life Monopoly is played by two players. Part of this assignment is first evaluating what the advantage is of the starting player and subsequently study how to repair the disadvantage player two has.
- 
+In real life Monopoly is played by two players. The player that starts first has an advantage, since they will have a bigger chance of moving to a spot that has not been purchased yet. The first part of this assignment is evaluating what the advantage is of the starting player and subsequently study how to repair the disadvantage player two has.
+
 ![](Balans.png){:.inline}{: style="width:35%"}
 
-Note: We're going to edit the code from assignment 1 and 2. To make sure a working copy of that code is stored, we'll make a new file. Create a file called `monopoly_realistic.py` and copy the code we've written up til now into the new file and continue with this new file.
+> We're going to edit the code from assignment 1 and 2. To make sure a working copy of that code is stored, we'll make a new file. Create a file called `monopoly_realistic.py` and copy the code we've written up til now into the new file and continue with this new file.
 
 #### [part 3a] advantage of player 1
 
-First add a second player to your simulation, let both players start with 1500 euros of starting money and determine the difference in number of properties between both players the moment all streets have been bought up. This difference will differ each game. That's why you should simulate 10000 games, so you can make an accurate estimation of the average difference. You'll see that player 1 does indeed have a small advantage over player 2.
+First, add a second player to your simulation. Let both players start with 1500 euros of starting money and determine the difference in the number of properties both players own when all streets have been bought up. This difference will be different each game. That's why you should simulate 10000 games, so you can make an accurate estimation of the average difference. You'll see that player 1 does indeed have a small advantage over player 2.
 
 The goal is to figure out the difference by simulating a large amount of games:
 {: .language-python}
-	Monopoly simulator: two players, 1500 euro starting money, 10000 games
+    Monopoly simulator: two players, 1500 euro starting money, 10000 games
     On average player 1 has X.XX more streets in their possession when all streets have been bought
 
 
@@ -24,10 +24,11 @@ The goal is to figure out the difference by simulating a large amount of games:
 
   * Edit the *output* of function `simulate_monopoly()`
 
-    - Up until now we asked the function for the number of throws the game lasted for. Now however, we're only interested in the difference in the number of streets between both players: `delta = possession_count_p1 - possession_count_p2`. That is also the variable we want to provide as `return` value. **Note:** this value van be both positive and negative.
+    - Up until now we asked the function for the number of throws the game lasted for. Now however, we're only interested in the difference in the number of streets between both players: `delta = possession_count_p1 - possession_count_p2`. That is also the variable we want to provide as `return` value. **Note:** this value can be both positive and negative.
 
-      delta = simulate_monopoly(starting_money_p1, starting_money_p2)
-      print(f"After this game player 1 had {delta} more streets than player 2.")
+      {: .language-python}
+          delta = simulate_monopoly(starting_money_p1, starting_money_p2)
+          print(f"After this game player 1 had {delta} more streets than player 2.")
 
   * Keep track of how much money both players have and what their individual positions are.
 
@@ -37,7 +38,7 @@ Always test your code for a single game and keep close watch whether your code b
 
 Ultimately `print` the difference to the terminal:
 {: .language-python}
-  Monopoly simulator: two players, 1500 euro starting money, 10000 games
+    Monopoly simulator: two players, 1500 euro starting money, 10000 games
     On average player 1 has X.XX more streets in their possession when all streets have been bought
 
 #### [part 3b] repairing the disadvantage of player 2
@@ -53,17 +54,16 @@ Declare a new function `equilibrium()` in which you repeatedly call the function
 
 If you've ran a couple simulation, you'll have a small data-set with which you can reproduce the graph from earlier and you should be able to make a decent estimation of the amount of extra money player 2 requires in order to restore the equilibrium.
 
-There is of course a sum of money where the advantage switches towards player 2. Use that amount (and the amount before that) to make an estimation of the amount where the equilibrium is situated. Assume for this that the difference follows a linear course as function of the extra money player 2 receives. The answer has to be rounded to the nearest value of 25 euros.
+There is of course a sum of money where the advantage switches towards player 2. Use that amount (and the amount before that) to make an estimation of the amount where the equilibrium is situated. Assume for this that the difference follows a linear course as function of the extra money player 2 receives. The answer has to be rounded to the nearest value of 50 euros.
 
 {: .language-python}
-	Monopoly simulator: 2 players
-    If player 2 receives XXX euros more starting money, both players collect on average an equal number of streets
+    Monopoly simulator: 2 players
+    On average, if player 2 receives XXX euros more starting money, both players collect an equal number of streets
 
+After manually checking the output, test `monopoly_realistic`:
+
+    checkpy monopoly_realistic
 
 ## Summary
 
 The simulation that we've implemented here is a simplified version of the often-times very complex models with which large financial institutions assess risks and determine strategies. At the same time these simulations are used by political parties to predict the effects of different measures given a variation of scenarios.
-
-
-
-
