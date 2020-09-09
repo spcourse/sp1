@@ -42,6 +42,6 @@ display the roots in the graph that you calculated.
 
 If you use `checkpy`, note that it does not check if you program has the correct output. It does check if the function `roots()` returns the correct result.
 
-    checkpy roots.py
+    checkpy roots
 
 (If it doesn't work, try updating your checks using the command `checkpy -u`.)
