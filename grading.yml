@@ -21,7 +21,7 @@ grades:
         type: pass
         subgrades:
             checkpy: integer
-            tweets: pass
+            tweets: boolean
         automatic:
             checkpy: correctness_score
         calculation: (checkpy < 13 || tweets != -1) && 0 || -1
