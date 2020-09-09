@@ -7,6 +7,7 @@ files:
         - distance.py
         - histogram.py
         - montecarlo.py
+        - twitter.py
 check:
     tool: checkpy
     repo: uva-sp/sp1
