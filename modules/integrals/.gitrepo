@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/integrals.git
 	branch = main
-	commit = b54d14f2c51d32e513db85e4f8c6f5e8303c7cd6
-	parent = 6027e3e8eca22b18416e9a446261c61c5fc5f4c2
+	commit = 0c3dc072926a57beab3854cd73c99c032fd32922
+	parent = 3141686518fa04fe9d6c4ea17c9cd6bc0be15578
 	method = merge
 	cmdver = 0.4.1
