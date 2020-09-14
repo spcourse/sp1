@@ -30,9 +30,10 @@ grades:
         type: pass
         subgrades:
             checkpy: integer
+            twitter: boolean
         automatic:
             checkpy: correctness_score
-        calculation: checkpy < 19 && 0 || -1
+        calculation: (checkpy < 19 || twitter == 0) && 0 || -1
 
     movement:
         type: pass
