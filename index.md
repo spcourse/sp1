@@ -75,10 +75,10 @@ Deadlines for each level are listed below. Only by agreement in advance is it po
 
 | Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
 | ----------------- | ----------- | ----------- | ----------- |
-| Level 1           | Fri, 4 Sep  | Wed, 9 Sep  | Fri, 21 Sep |
-| Level 2           | Thu, 10 Sep | Tue, 22 Sep | Fri, 13 Oct |
-| Level 3           | Wed, 16 Sep | Mon, 5 Oct  | Fri, 17 Nov |
-| Level 4           | Tue, 22 Sep | Fri, 16 Oct | Fri, 15 Dec |
+| Level 1           | Fri, 4 Sep  | Wed, 9 Sep  | Fri, 18 Sep |
+| Level 2           | Thu, 10 Sep | Tue, 22 Sep | Fri, 9 Oct |
+| Level 3           | Wed, 16 Sep | Mon, 5 Oct  | Fri, 13 Nov |
+| Level 4           | Tue, 22 Sep | Fri, 16 Oct | Fri, 4 Dec |
 
 Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time!
 
