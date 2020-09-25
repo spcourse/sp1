@@ -65,3 +65,20 @@ grades:
 
     statistics-en:
         type: pass
+
+    exam:
+        type: pass
+        subgrade:
+            passed: boolean
+        calculation: passed
+        is_test: true
+
+
+exam:
+    submits:
+        exam: 1
+    required: true
+
+calculation:
+    finalgrade:
+        exam: 0
