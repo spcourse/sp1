@@ -68,7 +68,7 @@ grades:
 
     exam:
         type: pass
-        subgrade:
+        subgrades:
             passed: boolean
         calculation: passed
         is_test: true
