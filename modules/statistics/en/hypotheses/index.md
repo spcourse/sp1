@@ -16,19 +16,19 @@ To answer this question, apply the following strategy:
       * Work by the assumption of a 'flat' hypothesis: f(x) = C, where C has the same value as in assignment 3.
 
       * Choose from each of the 10 income categories a 'random' measurement by using the `np.random.normal(average, spread)` function, where the average in each category is given by the value that you found in assignment 3. For the spread in each category you should use the uncertainty of the average length in that specific category from the original data-set. For example, an uncertainty of 4 cm in the income category 1.
-	
+
       * Assign the same error as in the original data to the uncertainty of the random chosen average length in each category. For example, 2 cm in income category 5.
-	   
+
    2. Fit a function of the form f(x) = ax+b and determine the slope (a) for the data-set created in 1.
 
    3. Repeat the above steps a large number of times (10000 times for example) and remember for each of the data sets what the slope was. Keep track of what fraction of the simulated data sets (coincidentally) had a slope equal (or greater than) that of the original data set (see assignment 4).
 
    4. Create a graph (histogram, see below) of all slopes and clearly display the values you've found in the data and the corresponding p-value.
-	  
-      ![](ExamplePvalue.png){: style="width:60%"}
+
+      ![](/course/modules/statistics/assets/ExamplePvalue.png){: style="width:60%"}
 
    5. `Print` the p-value to the screen at the end of the program: in percentages, 2 decimal accurate.
-    
+
       {: .language-python}
          The p-value for the alternative hypothesis: x.xx percent
 
@@ -36,5 +36,3 @@ To answer this question, apply the following strategy:
 In general we follow the rule that if the p-value is smaller than 5% we speak of a 'coincidence'. If the p-value is larger than 5% then we conclude that the observed trend is not described by the flat hypothesis and that we've found evidence for a relation.
 
 *Note:* If you find a relationship it doesn't immeditaly mean you have found a causal relationship. Imagine that a relation is found (and always keep in mind that the observed effect can still be coincidental), what could the underlying cause possibly be? Richer people: eat healthier, live in houses in neighborhoods with better air quality, or the reverse that in our society the length might cause a higher income? Dig dig dig until you've dug to the core and find something new that no one has ever seen. That is science!
-
-

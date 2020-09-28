@@ -2,7 +2,7 @@
 
 A subject that connects students of different educations is the fear for (the shortage of knowledge about) statistics. And yet it is a crucial part in every scientific discipline, because it is the key to drawing conclusions from collected data. What is the 'truth' that is hidden inside data and how can we weigh different hypotheses against one another? In this module we'll take a look at some of the most well-known techniques by using a fabricated case and made up data.
 
-![](../../../assets/ExampleDenemarken.png){:.inline}{: style="width:35%"}
+![](/course/modules/statistics/assets/ExampleDenemarken.png){:.inline}{: style="width:35%"}
 
 **The case:** In Denmark there is a group of researchers that studies whether the length of women is correlated to the income of their parents. The categories of income vary from category-0 (very poor) to category-10 (very rich) and from each category a random number of women have been selected and their length was measured. The data (the average measured length for each category of income) is represented in the graph to the side. This is where the trouble begins. A part of the researchers thinks the data suggests that there is a linear relationship (blue) whilst another group thinks there's no relationship whatsoever (red). The latter group says the observed 'light' dependence is just the result of accidental fluctuations in length of the women that were sampled.
 

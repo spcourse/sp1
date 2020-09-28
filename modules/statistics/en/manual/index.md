@@ -71,7 +71,7 @@ Each $$T_0$$ that is different from $$T_0^{\rm best}$$ will change the value of 
 
 #### [example step 5]: the corresponding graphs
 
-![](../../../assets/FitExampleWebsite.png){: style="width:90%"}
+![](/course/modules/statistics/assets/FitExampleWebsite.png){: style="width:90%"}
 
 The example that we've walked through is the so-called 'fitting' of a simple model with 1 parameter to the collected data. Even when we have a more complicated model, for example the polynomial of the first degree $$f(x)=ax+b$$, we find the best values of the two parameters by varying $$a$$ and $$b$$ and determining for which values of $$a$$ and $$b$$ the $$\chi^2$$ is minimal.
 

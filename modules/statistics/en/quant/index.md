@@ -4,7 +4,7 @@ At a lot of banks and insurance companies you'll find mathematicians and physici
 
 The closing prices of the AEX can be found at [AEX wiki](https://en.wikipedia.org/wiki/AEX_index):
 
-![](../../../assets/AEXeindstandTabel.png)
+![](/course/modules/statistics/assets/AEXeindstandTabel.png)
 
 ### Bonus Assignment: predict the AEX closing prices in the year 2000
 
