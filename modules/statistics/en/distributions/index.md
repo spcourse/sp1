@@ -9,12 +9,12 @@ A subject that connects students of different educations is the fear for (the sh
 In this module, after first trying out some introductory exercises, we'll try to find out what conclusions can be drawn: is there, or isn't there a (causal) relationship?
 
 Although it is not the goal to provide an entire lecture on statistics, we introduce here at least some statistics alongside the new Python ingredients as a preparation to the assignments.
- 
+
 ## Assignment 1: percentage of women taller than an average man
 
 In the first assignment we'll answer the question about what percentage of the women in the Netherlands are taller than the average man. For this assignment the concept of a normal distribution and how to manipulate it in Python is important.
 
-#### Statistics info for assignment 1:  the normal distribution 
+#### Statistics info for assignment 1:  the normal distribution
 
 In nature variation is abundant: the length of people in a country, or the weight of animals in a population just to name a few. The distribution that describes the relative frequency of the occurrence of a specific value $$x$$ in the population of measurements is expressed by the so-called normal distribution:
 

@@ -1,4 +1,4 @@
-## Fitting: what are the parameters in your model that best describe the data 
+## Fitting: what are the parameters in your model that best describe the data
 
 To figure out the inner workings of (physical) phenomena, data is collected to examine any dependencies. That could be the mass of the Higgs boson, the decay of uranium, but also the number of children in a family as function of the average length of the parents, or the time of travel between home and university as function of the time of day. Each measurement is accompanied by an uncertainty that indicates the precision by which the magnitude is measured. As we've seen before: the smaller the error, the more accurate the measurement and the more 'important' it is in regards to comparing the measurements to your model. Once you've found a good description of the collected data, you can use your model to do predictions in areas that you have not yet measured and at the same time work towards an interpretation to the cause of that correlation.
 
@@ -8,8 +8,8 @@ In this part of the module we'll study in detail the result of the earlier menti
 
 During a practical, groups of students were assigned the task to determine the boiling point of alcohol. Because of a lack of time each group only had time for 1 measurement. There were six thermometers in the room that could measure the temperature (in degrees Celsius) with a 1 degree accuracy and four thermometers that could measure with a 0.5 degree accuracy. The list with measurements done by the ten groups of students is as follows:
 
-group number students (x)                   |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   | 10 
-measured boiling point in $$^\circ$$C (y)  | 78.2 | 80.2 | 78.7 | 78.9 | 77.5 | 79.7 | 78.1 | 79.0 | 79.6 | 78.4 
+group number students (x)                   |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   | 10
+measured boiling point in $$^\circ$$C (y)  | 78.2 | 80.2 | 78.7 | 78.9 | 77.5 | 79.7 | 78.1 | 79.0 | 79.6 | 78.4
 uncertainty ($$\sigma$$, error on y)       |  1   |  1   |  1   |  0.5 |  1   |  1   |  0.5 |  0.5 |  1   | 0.5
 
 
@@ -17,14 +17,14 @@ uncertainty ($$\sigma$$, error on y)       |  1   |  1   |  1   |  0.5 |  1   | 
 
 The boiling point of alcohol is a constant and does not depend on the group of students that perform the measurement. In this case the 'model' we have is a flat line and we're actually trying to determine the boiling point of alcohol that best complies with the measurements. It is clear that 78$$^\circ$$ is a better estimation than 70$$^\circ$$ and 79$$^\circ$$ is better than 81$$^\circ$$, but what exactly is the 'best' value? In short: what is the average of the whole class (all measurements)?
 
-#### [example step 2]: a measurement for 'how good' the model describes the data: the $$\chi^2$$ measure 
+#### [example step 2]: a measurement for 'how good' the model describes the data: the $$\chi^2$$ measure
 
 To find the 'best' value we need a measure (metric) that describes the 'quality' of the fit. Here we use the  $$\chi^2$$-measure: the sum of the average deviation of the measurements and the model weighed by their error. For each point we determine the distance of the measurement (expressed as the error of measurement at that point) to the value that the model predicts for that point. The sum of those deviations for each measurement is called $$\chi^2$$.
 
 More formal:
 $$\chi^2(\vec{\alpha}) = \sum_{i~ {\rm (datapoints)}}  \left(\frac{  y_i - f(x_i|\vec{\alpha}) }{\sigma_i}\right)^2$$
 
-Here $$\vec{\alpha}$$ is the vector with parameter that are used in your model. Here, $$y_i$$ is the measurement, or observed value. $$f(x_i|\vec{\alpha})$$ is the expected value, or, the value expected by the model of choice with input parameters $$\vec{\alpha}$$. $$\sigma_i$$ is the error of the measurement in question. For each choice of parameters in your model the distance of each measurement to the model changes and gives a new $$\chi^2$$.
+Here $$\vec{\alpha}$$ is the vector with parameter that are used in your model. Here, $$y_i$$ is the measurement, or observed value. $$f(x_i]\vec{\alpha})$$ is the expected value, or, the value expected by the model of choice with input parameters $$\vec{\alpha}$$. $$\sigma_i$$ is the error of the measurement in question. For each choice of parameters in your model the distance of each measurement to the model changes and gives a new $$\chi^2$$.
 
 This expression seems more complicated than it actually is. Note that:
 
@@ -32,7 +32,7 @@ This expression seems more complicated than it actually is. Note that:
 
    2. In our model there is only 1 free parameter, namely the boiling point of alcohol ($$T_0$$).
       Our model reduces to: $$f(x) = T_0$$ and the vector $$\vec{\alpha}$$ is reduced to 1 parameter, the constant $$T_0$$.
-	  
+
 #### [example step 3]: finding the best value of the model parameters
 
 In the fitting procedure we look for the values of parameters in the model that result in the smallest $$\chi^2$$. With the values for the parameters the model output will lie, on average, closest to the measurements. Using a computer we'll try different values for $$T_0$$ and calculate $$\chi^2$$ for each.
@@ -47,7 +47,7 @@ $$
    \left( \frac{(78.7-78.0)}{1.0} \right)^2+
    \left( \frac{(78.9-78.0)}{0.5} \right)^2+
    \left( \frac{(77.5-78.0)}{1.0} \right)^2}\\
-   &~& 
+   &~&
    \tiny{
   +\left( \frac{(79.7-78.0)}{1.0} \right)^2+
    \left( \frac{(78.1-78.0)}{0.5} \right)^2+
@@ -80,7 +80,7 @@ The example that we've walked through is the so-called 'fitting' of a simple mod
 Let's now focus on the case from before. In Denmark there is a group researchers studying whether the length of women is dependent on the income of their parents. They've chosen 10 categories of income and although they've tried to find as many equal numbers of women from each category for their study, the number of women with parents within the extremes of the income categories (very poor and very rich) is limited. This is clear by the greater error on the estimation of the average length within those groups.
 
 Category (x)        |  1 (very poor)   |  2    |  3    |  4    |  5    |  6    |  7    |  8    |  9    | 10 (very rich)
-Avg. length (y)      | 171.1 | 169.1 | 170.8 | 169.4 | 173.0 | 171.0 | 174.0 | 174.0 | 173.0 | 176.0 
+Avg. length (y)      | 171.1 | 169.1 | 170.8 | 169.4 | 173.0 | 171.0 | 174.0 | 174.0 | 173.0 | 176.0
 Error ($$\Delta y$$)  |  4    |  4    |  2    |  2    |  2    |  2    |  2    |  2    |  4    |  4
 
 Write a program `statistics_3.py` in which you find the average of the length of women in Denmark by fitting the data given above to the function $$f(x) = C$$, for now you thus neglect the income categories. For this assignment this means you will assume there is no correlation between the income of the parents and the length of their daughters. Implement the steps you've practiced in the example about measuring the boiling point of alcohol.
