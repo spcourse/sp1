@@ -48,7 +48,7 @@ Je kunt verschillende voorwaarden combineren. Als je wilt weten of een getal zic
     x_min = 3
     x_max = 39
     if x > x_min and x < x_max:
-        print("het getal", x, "bevindt zich tussen", x_min, "en", x_max)
+        print(f"het getal {x} bevindt zich tussen {x_min} en {x_max}")
 
 Hier zijn de drie operators om voorwaarden te combineren:
 

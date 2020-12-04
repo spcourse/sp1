@@ -11,7 +11,7 @@ Maak een bestand `loops_oefenen.py` en implementeer daarin de onderstaande voorb
 Een `for`-loop gebruik je als je een aantal instructies wilt herhalen. Als je bijvoorbeeld op het scherm de waardes van de getallen 1 tot en met 10 wilt printen kun je dat natuurlijk met tien afzonderlijke print statements doen, maar het kan ook als volgt:
 
     for x in range(1, 11):
-        print("x heeft nu de waarde ",x)
+        print(f"x heeft nu de waarde {x}")
 
 Dit programma heeft namelijk als output
 
@@ -34,7 +34,7 @@ Er zijn een paar belangrijke dingen om te noemen:
 
 -   Je kunt met range ook de stapgrootte opgeven. Standaard neemt hij stapjes van 1, maar als je stapjes van 10 wilt nemen gebruik je de volgende syntax:
 
-         for x in range (1,100, 10):
+         for x in range (1, 100, 10):
 
     Probeer dit zelf eens uit zodat je goed weet welke waardes x aanneemt.
 
@@ -47,15 +47,15 @@ Een for-loop gebruik je als je precies weet hoe vaak je een instructie uit wilt/
 
 In feite zijn `for` en `while` ook uitwisselbaar. Deze for-loop:
 
-	    for x in range(100):
-	        print("x heeft nu de waarde ", x)
+    for x in range(100):
+        print(f"x heeft nu de waarde {x}")
 
 is gelijk aan de volgende `while`-loop:
 
-	    x = 0
-	    while x < 100:
-	        print("x heeft nu de waarde ", x)
-	        x = x + 1
+    x = 0
+    while x < 100:
+        print(f"x heeft nu de waarde {x}")
+        x = x + 1
 
 De `for`-loop is duidelijk wat compacter en zo sneller leesbaar. Dat is dus ook de loop die het meest gebruikt wordt. Maar toepassingen zoals gebruikersinvoer kun je eigenlijk alleen maar met een `while`-loop schrijven, dus deze heeft ook z'n nut.
 
@@ -73,10 +73,10 @@ Zodra alle instructies zijn uitgevoerd voor de hoogste waarde die x kan aannemen
 
     som = 0
     for x in range(1, 11):
-        print("x heeft nu de waarde ",x)
+        print(f"x heeft nu de waarde {x}")
         som = som + x
 
-    print("De som van de getallen van ", 1, " tot en met ", 10 = ", som)
+    print(f"De som van de getallen van 1 tot en met 10 = {som}")
 
 
 **Oefening 1:** Pas bovenstaand programma eens aan door het laatste print-statement verder in te laten springen tot het precies onder de regel 'som = som + x' staat. Run het programma en probeer te begrijpen wat er gebeurt. Dit is een veelgemaakte fout met loops dus belangrijk om deze 'fout' een keer te zien zodat je het later goed herkent.
@@ -98,9 +98,9 @@ Als je bijvoorbeeld de loop wilt laten lopen van 1 tot en met 20 en alleen de ge
 
     for getal in range(1, 20):
         if getal > 15:
-		   print("Dit getal is groter dan 15, namelijk ", getal)
+            print(f"Dit getal is groter dan 15, namelijk {getal}")
         if getal % 3 == 0:
-		   print("Dit getal is precies deelbaar door 3, -> ", getal)
+            print(f"Dit getal is precies deelbaar door 3, -> {getal}")
 
 We hebben al eerder verteld dat je de naam van je variabele zelf mag bepalen. Zoals jullie zien hebben we in bovenstaand programma 'x' vervangen door de naam 'getal'.
 
@@ -117,7 +117,7 @@ Het is mogelijk om loops in loops te maken. In het Engels worden dit *'nested lo
 
     for x in range(1, 6):
        for y in range(1, 4):
-           print("x = ", x, " en  y = ", y)
+           print(f"x = {x} en y = {y}")
 
 Dit programma heeft als output
 

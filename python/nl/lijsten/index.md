@@ -27,4 +27,4 @@ En loopen met een lijst:
     metingen_science_park = [12.7, 18.8, 24.9, 14.5, 19.0]
     metingen_science_park.append(20.5)
     for meting in metingen_science_park:
-        print("de meting was", meting, "graden")
+        print(f"de meting was {meting} graden")
