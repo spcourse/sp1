@@ -16,7 +16,7 @@ Write a program **car_ride.py** that traverses the data file, processes said dat
 
 Create a graph of the speed of the car (km/h) as a function of the time and use the data to estimate the traveled distance in total.
 
-Create a graph of the position of the car and color the route green (red) where the speed of the car was more (less) than 50 km/hour.
+Create a graph of the position of the car and color the route green where the speed of the car was more than 50 km/hour. Color the route red where the speed of the car was less than 50 km/hour.
 
 ## Testing
 
