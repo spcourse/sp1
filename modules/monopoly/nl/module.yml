@@ -1,8 +1,6 @@
 name: monopoly-nl
 content:
 
-    Inleiding: .
-
     Monopoly:
         Over het spel Monopoly: inleiding
         Leer over het debuggen van simulaties: /python/nl/debuggen

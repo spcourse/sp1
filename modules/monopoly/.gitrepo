@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/monopoly.git
 	branch = main
-	commit = 180b94a8cd34b19b0db3a7fd4851d66ff7f955bf
-	parent = 81776716f828d4a16fbe6b417aa9d504899de268
+	commit = bcffb5fca2610b8245cd262205ed5033295ec924
+	parent = 87010417c0dae055b8a2d0b24f7c2c3d2142e67e
 	method = merge
 	cmdver = 0.4.1
