@@ -18,7 +18,7 @@ content:
         Analyseer met een histogram de uitkomst van de `random`-functie: histogram
 
     Monte Carlo:
-        Leer meer over het gebruik van functies als argumenten van andere functies: /python/nl/functions2
+        Leer meer over het gebruik van functies als argumenten van andere functies: /python/nl/functies2
         Leer meer over de Monte-Carlomethode: montecarlo/explanation
         Gebruik random waarden bij het berekenen van integralen met de Monte-Carlomethode: montecarlo/integrals
         Bereken de oppervlakte van een vreemde vorm: ei

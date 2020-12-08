@@ -1,6 +1,6 @@
 # The twitter egg!
 
-Write a function called `twitter.py`. The program calculates the area of the Twitter egg. The circumference is determined by:
+Write a program called `twitter.py`. The program calculates the area of the Twitter egg. The circumference is determined by:
 
 $$ \sqrt{x^2+y^2} + \frac{2}{3}\sqrt{x^2+\left(\frac{5}{6}-y \right)^2 } = 1$$
 

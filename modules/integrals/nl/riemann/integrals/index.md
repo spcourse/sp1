@@ -15,11 +15,11 @@ Het programma moet zowel de benadering van de integraal printen als de kwadratis
 
 - Schrijf een functie `riemann()` die integralen kan berekenen met behulp van de Riemannsom.
 
-	- De functie `riemann()` moet vier argumenten accepteren:
+	- De functie `riemann()` moet zes argumenten accepteren:
 
 		- `a`, `b` en `c`, de parameters van de kwadratische functie
-		- `a`, het begin van het integratiegebied
-		- `b`, het einde van het integratiegebied
+		- `d`, het begin van het integratiegebied
+		- `e`, het einde van het integratiegebied
 		- `n`, de hoeveelhier rechthoeken die we gebruiken om de integraal te benaderen.
 
 	- De functie `riemann()` moet de wiskundige functie plotten
