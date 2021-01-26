@@ -1,6 +1,6 @@
 # Scientific Programming 1
 
-## Syllabus<br><small>Fall 2020</small>
+## Syllabus<br><small>Spring 2021</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
@@ -47,7 +47,6 @@ In this course you'll mostly work independently and ask for help online. There a
 
 * Online lab-sessions through ...
 * You can also ask questions on [Ed](https://us.edstem.org/courses/2335/), an online discussion platform. You will receive an invitation for this platform at the start of the course. Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
-
 
 Zoom help is available on the following moments (these are also the moments you can expect quick answers on Ed):
 
