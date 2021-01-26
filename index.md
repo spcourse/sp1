@@ -10,7 +10,7 @@ Simon Pauw
 
 Natasja Wezel
 
-Kiki van Rongen
+Iris Luden
 
 Martijn Stegeman
 
@@ -45,14 +45,13 @@ When you have finished one modules for each level, you might take up Scientific 
 
 In this course you'll mostly work independently and ask for help online. There are two ways you can get help:
 
-- The first resource for editing help is [Ed](https://us.edstem.org/courses/2335/), an online discussion platform. You will receive an invitation for this platform at the start of the course. Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
-- If you cannot solve the problem through Ed, you can plan a [Zoom](https://calendly.com/uvascipro/help/) meeting with someone of our staff.
+* Online lab-sessions through ...
+* You can also ask questions on [Ed](https://us.edstem.org/courses/2335/), an online discussion platform. You will receive an invitation for this platform at the start of the course. Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
+
 
 Zoom help is available on the following moments (these are also the moments you can expect quick answers on Ed):
 
-| Mon           | Tue           | Wed           | Thu           | Fri           |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 15:00 - 17:00 | 15:00 - 17:00 | 15:00 - 17:00 | 15:00 - 17:00 | 15:00 - 17:00 |
+> TBT
 
 ## Passing the course
 
@@ -71,14 +70,14 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
-**Semester 1**
+**Semester 2**
 
 | Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
 | ----------------- | ----------- | ----------- | ----------- |
-| Level 1           | Fri, 4 Sep  | Wed, 9 Sep  | Fri, 18 Sep |
-| Level 2           | Thu, 10 Sep | Tue, 22 Sep | Fri, 9 Oct |
-| Level 3           | Wed, 16 Sep | Mon, 5 Oct  | Fri, 13 Nov |
-| Level 4           | Tue, 22 Sep | Fri, 16 Oct | Fri, 4 Dec |
+| Level 1 | Fri 05 Feb 2021 | Wed 10 Feb 2021 | Fri 19 Feb 2021 |
+| Level 2 | Thu 11 Feb 2021 | Tue 23 Feb 2021 | Fri 12 Mar 2021 |
+| Level 3 | Wed 17 Feb 2021 | Mon 08 Mar 2021 | Fri 16 Apr 2021 |
+| Level 4 | Tue 23 Feb 2021 | Fri 19 Mar 2021 | Mon 17 May 2021 |
 
 Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time!
 
@@ -86,10 +85,9 @@ Note: if you would also like to take Scientific Programming 2 in the first semes
 
 There are multiple opportunities to take the exam.
 
-**Semester 1**
+**Semester 2**
 
-- Tuesday, 19 October
-- Tuesday, 14 December
+> TBA
 
 ## Feedback
 
@@ -137,7 +135,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
 
-- Decompiling, deobfuscating, or disassembling the staff's solutions to problem sets.
+- Decompiling, de-obfuscating, or disassembling the staff's solutions to problem sets.
 
 - Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
 
