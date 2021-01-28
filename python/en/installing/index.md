@@ -1,10 +1,10 @@
 # Installing Python
 
-We recommend installing Python on your computer, but in some cases this will lead to hard-to-solve problems. Here are your options:
+We recommend installing Python on your own computer, but in some cases this will lead to hard-to-solve problems. Here are your options:
 
 * [Installing on your own computer](/python/en/installing/computer) is quick and useful. You can run Python anytime, even on the train, and it's quicker, too! It's also great to have installed Python so you can use it even when you have finished the course.
 
-* [Using an online editor](/python/en/installing/online) is probably easier. If you run into any trouble when installing your own computer, you can at least get started. So in case of emergency, use this route!
+* [Using an online editor](/python/en/installing/online) is easier. If you run into any trouble when installing your own computer, you can at least get started. In case of emergency, use this route!
 
 Are you completely stuck? Don't hesitate to send us an [email](mailto:scientific@mprog.nl) so we can help you along. Even if you're not registered for the course, we can help you get Python to work for you!
 
