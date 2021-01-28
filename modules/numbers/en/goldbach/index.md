@@ -23,6 +23,13 @@ Write a program to show that all even numbers up to and including 1000 can indee
 
 More important is of course if or when you find a number that *isn't* in compliance with Goldbach's conjecture. Make sure that your program clearly displays such a finding on the screen. Bingo!
 
+### Constraints
+* Unless specifically mentioned otherwise, you are only allowed to use the concepts that are discussed in this module.
+For an overview of those concepts have a look [here](/python/en/overview).
+* You are *not* allowed to use the `break`-statement.
+* You are *only* allowed to use the `import math`-statement (but you can solve it without).
+* You are not allowed to use any other `import`-statements.
+
 ## Hints
 
 * Always work out the problem with pen and paper before coding. The 5-10 minutes spent on drawing out your ideas are earned back when you convert them into code.
