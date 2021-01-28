@@ -1,6 +1,6 @@
 # Word use
 
-Implement a program that prints a sorted list of all the words in a given text string. Each word in the output should be unique, written in lowercase, and no remnants of punctuation marks or white space should be left in the words as printed.
+Implement a program called `list_words.py` that prints a sorted list of all the words in a given text string. Each word in the output should be unique, written in lowercase, and no remnants of punctuation marks or white space should be left in the words as printed.
 
     # python list_words.py
     original: The apple doesn't fall far from the tree.
@@ -12,6 +12,19 @@ Implement a program that prints a sorted list of all the words in a given text s
     the
     tree
 
+## Specification
+
+* The program should contain a function called `text_to_unique_words(text)` that takes a text as input and outputs a list of unique words.
+* The output should be sorted.
+
+
+### Constraints
+
+* You are only allowed to use the concepts that are discussed in this module. Except for the mentioned exceptions.
+For an overview of those concepts have a look [here](/python/en/overview).
+* You are *not* allowed to use the `import`-statement.
+* You can use other string methods (like `split()`), mentioned in the python [string functions documentation](https://docs.python.org/3.7/library/stdtypes.html#string-methods)
+* You can use the built-in python functions `sorted()` and `len()`
 
 ## Background
 
