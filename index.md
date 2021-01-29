@@ -46,7 +46,7 @@ When you have finished one modules for each level, you might take up Scientific 
 In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are two ways you can get help:
 
 * Online lab-sessions: We have created an online classroom on [wonder.me](https://www.wonder.me/r?id=8b9b7728-3e68-4924-ad4b-8dca2c2c8c70). In this classroom you can get help from us (and from your fellow students). We will be available at the office-hours mentioned here below. But you can log into the classroom at any time. So also outside of the office hours, you can use the classroom to meet up with other students.
-* You can also ask questions on [Ed](https://us.edstem.org/courses/2335/), an online discussion platform. You will receive an invitation for this platform at the start of the course. Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
+* You can also ask questions on [Ed](https://us.edstem.org/courses/2335/), an online discussion platform. You can use this to sign up link: [sign up for the Scientific Programming forum](https://edstem.org/us/join/NfYfRD). Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
 There are four moments in the week that there is help available on wonder.me:
 
