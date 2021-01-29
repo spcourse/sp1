@@ -50,10 +50,10 @@ In this course you'll mostly work on assignments independently. But you're not o
 
 There are four moments in the week that there is help available on wonder.me:
 
-              | Mon | Tue | Wed | Thu | Fri |
-              |-----|-----|-----|-----|-----|
-09:00 - 12:00 |     | X   |     | X   |     |  
-14:00 - 17:00 | X   |     |     |     | X   |
+|               | Mon | Tue | Wed | Thu | Fri |
+|---------------|-----|-----|-----|-----|-----|
+| 09:00 - 12:00 |     | X   |     | X   |     |  
+| 14:00 - 17:00 | X   |     |     |     | X   |
 
 ## Passing the course
 
