@@ -43,14 +43,17 @@ When you have finished one modules for each level, you might take up Scientific 
 
 ## Asking questions
 
-In this course you'll mostly work independently and ask for help online. There are two ways you can get help:
+In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are two ways you can get help:
 
-* Online lab-sessions through ...
+* Online lab-sessions: We have created an online classroom on [wonder.me](https://www.wonder.me/r?id=8b9b7728-3e68-4924-ad4b-8dca2c2c8c70). In this classroom you can get help from us (and from your fellow students). We will be available at the office-hours mentioned here below. But you can log into the classroom at any time. So also outside of the office hours, you can use the classroom to meet up with other students.
 * You can also ask questions on [Ed](https://us.edstem.org/courses/2335/), an online discussion platform. You will receive an invitation for this platform at the start of the course. Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
-Zoom help is available on the following moments (these are also the moments you can expect quick answers on Ed):
+There are four moments in the week that there is help available on wonder.me:
 
-> TBT
+              | Mon | Tue | Wed | Thu | Fri |
+              |-----|-----|-----|-----|-----|
+09:00 - 12:00 |     | X   |     | X   |     |  
+14:00 - 17:00 | X   |     |     |     | X   |
 
 ## Passing the course
 
