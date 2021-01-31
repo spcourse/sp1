@@ -55,7 +55,7 @@ There are four moments in the week that there is help available on wonder.me:
 | 09:00 - 12:00 |     | X   |     | X   |     |  
 | 14:00 - 17:00 | X   |     |     |     | X   |
 
-<i class="bi bi-markdown"></i>
+<span class="bi bi-markdown"></span>
 
 ## Passing the course
 
