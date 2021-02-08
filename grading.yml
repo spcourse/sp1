@@ -6,7 +6,7 @@ grades:
         automatic:
             checkpy: correctness_score
         calculation: checkpy < 13 && 0 || -1
-        auto_publish: true
+        auto_publish: false
 
     numbers:
         type: pass
@@ -15,7 +15,7 @@ grades:
         automatic:
             checkpy: correctness_score
         calculation: checkpy < 22 && 0 || -1
-        auto_publish: true
+        auto_publish: false
 
     text:
         type: pass
