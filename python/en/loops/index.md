@@ -11,7 +11,7 @@ Please create a file called `practicing_loops.py` and use it to implement the va
 A `for`-loop is used when you want to repeat a set of instructions. For example, if you want to print the numbers from 1 to 10 on the screen you could do that with ten separate print-statements, but you could also use the following construction:
 
     for x in range(1, 11):
-        print("x now has the value ",x)
+        print("x now has the value {x}")
 
 This program has as output:
 
@@ -49,13 +49,13 @@ A for-loop is used when you know beforehand how often you want to repeat the set
 In most cases, `for` and `while` are interchangeable. This for-loop:
 
 	    for x in range(100):
-	        print("x now has the value ", x)
+	        print("x now has the value {x}")
 
 is equal to the following `while-loop`:
 
 	    x = 0
 	    while x < 100:
-	        print("x now has the value ", x)
+	        print("x now has the value {x}")
 	        x = x + 1
 
 The reason that the `for`-loop is more often used is that it is a bit more compact and also easier readable. However this can only be done is you know beforehand how often this needs to be executed. In other cases, and also with user input it can almost only be done with a while construction.
@@ -74,19 +74,31 @@ As soon as all instructions have been executed forthe highest value the variable
 
     total = 0
     for x in range(1, 11):
-        print("x now has the value", x)
+        print(f"x now has the value {x}")
         total = total + x
 
-    print("The sum of all numbers from", 1, "to", 10, "=", total)
+    print(f"The sum of all numbers from 1 to 10 = {total}")
 
 
-**Exercise 1:** Please change this program by changing the indentation of the print-statement in such a way that it starts at the same position as the line 'sum = sum + x'. Run the program and try to understand what happens. problems with indentation is a very common mistake when using loops, so it is important to see these type of 'mistakes' so you can recognize them later.
+**Exercise 1:** Please change this program by including another print statement: `print(f"The sum of all numbers from 1 to {x} = {total}")`. Include this line beneath `total = total + x`, in such a way that it starts at the same position (the same level of indentation). Run the program and try to understand what happens. Problems with indentation are a very common mistake when using loops, so it is important to see these type of 'mistakes' so you can recognize them later.
 
-**Exercise 2:** At this moment we use the numbers from 1 to 10. Please try to adapt the program in such a way that you define a new variable once at the beginning of the program (so not in the range() function) that holds the maximum number.
+**Exercise 2:** At this moment we use the numbers from 1 to 10. Please try to adapt the program in such a way that you define a new variable once at the beginning of the program (so not in the range() function) that holds the maximum number. Use this maximum number as the maximum value for the for-loop: `for x in range(1, maximum)`.
 
-**Exercise 3:** Make a program that has the same functionality as the example, but now use a while-loop instead of a for-loop.
+**Exercise 3:** Make a program that has the same functionality as the original example, but now use a while-loop instead of a for-loop.
 
-**Exercise 4:** Use a while-loop to ensure that the program will print numbers greater than 10, but that it will stop if the sum of all numbers up to that point is bigger than 123.
+**Exercise 4:** Use a while-loop to ensure that the program will print numbers greater than 10, but that it will stop if the sum of all numbers up to that point is bigger than 123. To help you, the expected output is provided:
+
+	Value of total: 0, value of x: 10
+	Value of total: 10, value of x: 11
+	Value of total: 21, value of x: 12
+	Value of total: 33, value of x: 13
+	Value of total: 46, value of x: 14
+	Value of total: 60, value of x: 15
+	Value of total: 75, value of x: 16
+	Value of total: 91, value of x: 17
+	Value of total: 108, value of x: 18
+	End value of total: 126, end value of x: 19
+
 
 
 ## Filtering using loops
@@ -97,9 +109,9 @@ Within the set of instructions you can also use conditionals. For example, if yo
 
     for number in range(1, 20):
         if number > 15:
-		   print("This number is bigger than 15: ", number)
+		   print(f"This number is bigger than 15: {number}")
         if number % 3 == 0:
-		   print("This number is exactly divisible by 3: ", number)
+		   print(f"This number is exactly divisible by 3: {number}")
 
 We already mentioned that you can decide on the name of the variable. And as you see, in the above exampe we have changed the name of our variable 'x' to 'number'.
 
@@ -116,7 +128,7 @@ It is also possible to make loops within loops, so-called 'nested loops'*. If yo
 
     for x in range(1, 6):
        for y in range(1, 4):
-           print("x = ", x, " and  y = ", y)
+           print(f"x = {x}, y = {y}")
 
 This program has as output:
 
