@@ -29,7 +29,7 @@ Text processing (level 2):
     Submit your solutions: /submit/text
 
 Monopoly (level 3; optional):
-  Level 3 is made optional for a reduced workload: /syllabus
+  Level 3 is made optional for a reduced workload: /syllabus#deadlines
   ".":
     - animation
     - monopoly-en
@@ -37,6 +37,7 @@ Monopoly (level 3; optional):
     Submit your solutions: /submit/monopoly
 
 Physics of movement (level 3; optional; beta):
+  Level 3 is made optional for a reduced workload: /syllabus#deadlines
   ".":
     - animation
     - movement
