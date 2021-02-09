@@ -63,7 +63,7 @@ The line with 1988 is now splitted and turned into a list:
 The characters `"\t"` (tab) and `"\n"` (newline) are also visible, we don't really need to use those though.
 
 
-## Stap 3: save the information in variables
+## Step 3: save the information in variables
 
 In this exercise we are only interested in the season and the number of goals of that season. As you can see, this information is stored in element 0 and 2 of the list.
 
@@ -74,7 +74,7 @@ We can save this information in a variable:
 
 ### Problem 1: unpacking the variables
 
-As yoy might have observed, the creators of the file name the season 1988-1889 as one number: 198889. Smart of them, but we are only interested in the year of the start of the season (1988). 
+As you might have observed, the creators of the file name the season 1988-1889 as one number: 198889. Smart of them, but we are only interested in the year of the start of the season (1988). 
 
 Note that the data is still stored in the list as a `string`. Although `198889` can be cosidered to be a number, we treat it as a piece of text. The year we are looking for is stored in the first 4 characters of that string. To only save this part of the string, we need the first 4 characters.
 
