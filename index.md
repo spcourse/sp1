@@ -72,6 +72,10 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 ### Deadlines
 
+> In light of the Covid-19 measures, the deadline schema has been revised. To make the schedule a bit lighter and allow everyone to take the week of March 22 - 26 off, we made level 3 an optional part of the programme. You can decide to still do level 3, in which case follow the dates in parentheses (). Otherwise follow the new dates.
+>
+> For people following the 4-week schedule: if you skip level 3, please start Scientific Programming already Feb 18 this way you'll be able to finish before March 19.  
+
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
 **Semester 2**
@@ -80,18 +84,24 @@ Deadlines for each level are listed below. Only by agreement in advance is it po
 | ----------------- | ----------- | ----------- | ----------- |
 | Level 1 | Fri 05 Feb 2021 | Wed 10 Feb 2021 | Fri 19 Feb 2021 |
 | Level 2 | Thu 11 Feb 2021 | Tue 23 Feb 2021 | Fri 12 Mar 2021 |
-| Level 3 | Wed 17 Feb 2021 | Mon 08 Mar 2021 | Fri 16 Apr 2021 |
-| Level 4 | Tue 23 Feb 2021 | Fri 19 Mar 2021 | Mon 17 May 2021 |
+| (Level 3) | (Wed 17 Feb 2021) | (Mon 08 Mar 2021) | (Fri 16 Apr 2021) |
+| Level 4 | Wed 17 Feb 2021/(Tue 23 Feb 2021) | Mon 08 Mar 2021/(Fri 19 Mar 2021) | Fri 16 Apr 2021/(Mon 17 May 2021) |
 
 Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time!
 
 ### Exam
 
-There are multiple opportunities to take the exam.
+There are multiple opportunities to take the exam. You should receive an invitation once you have finished all the modules. If you didn't, please send an email: scientific@mprog.nl
 
 **Semester 2**
 
-> TBA
+The following dates are reserved for exams:
+
+* Fri 26 Feb 2021
+* Thu 18 Mar 2021
+* Fri 19 Mar 2021
+* Wed 19 May 2021
+* Thu 20 May 2021
 
 ## Feedback
 

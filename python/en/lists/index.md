@@ -18,7 +18,7 @@ Beware that you start counting at `0` with indexing lists. So the following code
     my_name = staff[0]
 	print(my_name)
 
-You can also manipulating the contains of a list. The following code changes the 3d element of the list.
+You can also manipulate the content of a list. The following code changes the 3d element of the list.
 
     staff[3] = "Vera"
 
