@@ -18,6 +18,8 @@ Create a graph of the speed of the car (km/h) as a function of the time and use 
 
 Create a graph of the position of the car and color the route green where the speed of the car was more than 50 km/hour. Color the route red where the speed of the car was less than 50 km/hour.
 
+Also make sure your program prints the travelled distance (in meters).
+
 ## Testing
 
 Now you're ready to test with checkpy:
