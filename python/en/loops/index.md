@@ -21,7 +21,7 @@ This program has as output:
     ...
     x now has the value 10
 
-The loop starts by setting the value of x to 1 and then executing *all* instructions in the loop one by one. After that, x is assigned the value 2 and again all instructions are executed. In this simple program there is only a single instruction: print the value of x, but we can of course expand the number of instructions. The most important notion is that the program automatically changes the variable `x`.
+The loop starts by setting the value of `x` to 1 and then executing *all* instructions in the loop one by one. After that, `x` is assigned the value 2 and again all instructions are executed. In this simple program there is only a single instruction: print the value of `x`, but we can of course expand the number of instructions. The most important notion is that the program automatically changes the variable `x`.
 
 
 ![](Loopsexplanation.png){: style="max-width:500px;"}
@@ -37,8 +37,7 @@ There are a few important things to note:
 
          for x in range (1, 100, 10):
 
-    Please try this yourself to make sure you understand what values x takes in this program.
-
+    Please try this yourself to make sure you understand what values `x` takes in this program.
 
 ## Types of loops
 
@@ -79,7 +78,6 @@ As soon as all instructions have been executed forthe highest value the variable
 
     print(f"The sum of all numbers from 1 to 10 = {total}")
 
-
 **Exercise 1:** Please change this program by including another print statement: `print(f"The sum of all numbers from 1 to {x} = {total}")`. Include this line beneath `total = total + x`, in such a way that it starts at the same position (the same level of indentation). Run the program and try to understand what happens. Problems with indentation are a very common mistake when using loops, so it is important to see these type of 'mistakes' so you can recognize them later.
 
 **Exercise 2:** At this moment we use the numbers from 1 to 10. Please try to adapt the program in such a way that you define a new variable once at the beginning of the program (so not in the range() function) that holds the maximum number. Use this maximum number as the maximum value for the for-loop: `for x in range(1, maximum)`.
@@ -99,8 +97,6 @@ As soon as all instructions have been executed forthe highest value the variable
 	Value of sum_x: 108, value of x: 18
 	End value of sum_x: 126, end value of x: 19
 
-
-
 ## Filtering using loops
 
 <!-- ![embed](https://player.vimeo.com/video/287247135) -->
@@ -115,7 +111,7 @@ Within the set of instructions you can also use conditionals. For example, if yo
 
 We already mentioned that you can decide on the name of the variable. And as you see, in the above exampe we have changed the name of our variable 'x' to 'number'.
 
-**Exercise:** Try to adapt the above example in such a way that at the end of the loop, the program rints to the screen how many numbers were exactly divisible by 3. To do this you will have to define a so-called 'counter', a variable that is set to zero at the start of the program and that is incremented by 1 every time you encounter a number that is exactly divisible by 3. Also take some time to format the output to the screen and have tyour program print:
+**Exercise 5:** Try to adapt the above example in such a way that at the end of the loop, the program prints to the screen how many numbers were exactly divisible by 3. To do this you will have to define a so-called 'counter', a variable that is set to zero at the start of the program and that is incremented by 1 every time you encounter a number that is exactly divisible by 3. Also take some time to format the output to the screen and have your program print:
 
     From the numbers 1 to 20 there are ... numbers that are exactly divisible by 3.
 
@@ -140,16 +136,40 @@ This program has as output:
     x = 6,  y = 2
     x = 6,  y = 3
 
-**Exercise 6:** Adapt the program in such a way that the print-statement is only done if the sum of x and y is more than 6.
+**Exercise 6:** Adapt the program in such a way that the print-statement is only executed *if* the sum of `x` and `y` is more than 6.
 
-**Exercise 7:** Adapt the program in such a way dat the program, at the moment just before a new value is assigned to `x` (i.e. just after the loop over y is finished) the program prints: `the value of x is now ... and we have just finished the loop over y`.
+**Exercise 7:** Adapt the program in such a way that the program, at the moment just before a new value is assigned to `x` (i.e. just after the loop over y is finished) the program prints: `The value of x is now ... and we have just finished the loop over y`.
 
-**Exercise 8:** Adapt the program in such a way that y does not run from 1 to 4, nut from 1 to the value of x.
+The output should look as follows:
 
-**Exercise 9:** Adapt the program in such a way that y does not run from 1 to 4, nut from 1 to the value of x. Use the while-construction for the values of y.
+	x =  1,  y =  1
+	x =  1,  y =  2
+	x =  1,  y =  3
+	The value of x is now 1, we have just finished the loop over y.
+	x =  2,  y =  1
+	x =  2,  y =  2
+	x =  2,  y =  3
+	The value of x is now 2, we have just finished the loop over y.
+	...
+	The value of x is now 5, we have just finished the loop over y.
 
-**Exercise 10:** Adapt the program in such a way that loop over y is only done if x is larger than 3. Keep the statement range(1,6) in teh for-loop of x, but use another solution using a conditional, an if-statement.
+**Exercise 8:** Adapt the program in such a way that `y` does not run from 1 to 4, but from 1 to the value of `x`.
+
+**Exercise 9:** Adapt the program of exercise 8 to use a while-construction for the value of `y`. The for-loop for `x` stays the same.
+
+**Exercise 10:** Adapt the original program in such a way that the loop over `y` is only executed *if* `x` is larger than 3. *Keep* the range(1,6) in the for-loop of `x` the same, using a conditional (an if-statement) as a solution.
+
+Here's an example of what the output should be:
+
+	x = 4, y = 1
+	x = 4, y = 2
+	x = 4, y = 3
+	x = 5, y = 1
+	x = 5, y = 2
+	x = 5, y = 3
+
+Could you get the same result by changing the range in the for-loop of `x`?
 
 ## Practice and  debugging
 
-If you meet a for-loop somehwere in this course that you don;t understand very well, eithe rin the examples we give or in your own code, please come back to this page and read it again. Last tip: you can always use print-statements to verify if the loops are really doing what you think you have told them to do.
+If you meet a for-loop somehwere in this course that you don't understand very well, either in the examples we give or in your own code, please come back to this page and read it again. Last tip: you can always use print-statements to verify if the loops are really doing what you think you have told them to do.
