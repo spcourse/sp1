@@ -24,7 +24,7 @@ As previously mentioned, a computer is a great tool for quickly executing a seri
 The same as before:
 
 * You are only allowed to use the concepts that are discussed in this module.
-For an overview of those concepts have a look [here](/python/en/overview).
+For an overview of those concepts have a look [here](/python/en/overview). Note that this doesn't include lists! You'll learn about those after this exercise.
 * You are *not* allowed to use the `break`-statement.
 * You are *not* allowed to use the `import`-statement.
 
@@ -55,7 +55,7 @@ In the case of a non prime number, such as 36, it should print:
 At the start, keep it simple. Use a `for`-loop and `%` (modulo) to determine how many numbers are a divisor of `number`. If you keep track of this in the loop (count!), then by the end of the loop you can determine if a number is prime or not. Ultimately print the conclusion, like in the example above.
 
 
-## Step 2: check an entire list
+## Step 2: check all numbers smaller than 100
 
 Let's take it a step further. We can reuse our code from before and for *each* number smaller than 100 determine whether it is a prime number or not.
 
