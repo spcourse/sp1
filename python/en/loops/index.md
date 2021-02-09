@@ -88,16 +88,16 @@ As soon as all instructions have been executed forthe highest value the variable
 
 **Exercise 4:** Use a while-loop to ensure that the program will print numbers greater than 10, but that it will stop if the sum of all numbers up to that point is bigger than 123. To help you, the expected output is provided:
 
-	Value of total: 0, value of x: 10
-	Value of total: 10, value of x: 11
-	Value of total: 21, value of x: 12
-	Value of total: 33, value of x: 13
-	Value of total: 46, value of x: 14
-	Value of total: 60, value of x: 15
-	Value of total: 75, value of x: 16
-	Value of total: 91, value of x: 17
-	Value of total: 108, value of x: 18
-	End value of total: 126, end value of x: 19
+	Value of sum_x: 0, value of x: 10
+	Value of sum_x: 10, value of x: 11
+	Value of sum_x: 21, value of x: 12
+	Value of sum_x: 33, value of x: 13
+	Value of sum_x: 46, value of x: 14
+	Value of sum_x: 60, value of x: 15
+	Value of sum_x: 75, value of x: 16
+	Value of sum_x: 91, value of x: 17
+	Value of sum_x: 108, value of x: 18
+	End value of sum_x: 126, end value of x: 19
 
 
 
