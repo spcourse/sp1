@@ -72,7 +72,7 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 ### Deadlines
 
-> In light of the Covid-19 measures, the deadline schema has been revised. To make the schedule a bit lighter and allow everyone to take the week of March 22 - 26 off, we made level 3 an optional part of the programme. You can decide to do level 3 in which case follow the dates in parentheses (). Otherwise follow the new dates.
+> In light of the Covid-19 measures, the deadline schema has been revised. To make the schedule a bit lighter and allow everyone to take the week of March 22 - 26 off, we made level 3 an optional part of the programme. You can decide to still do level 3, in which case follow the dates in parentheses (). Otherwise follow the new dates.
 >
 > For people following the 4-week schedule: if you skip level 3, please start Scientific Programming already Feb 18 this way you'll be able to finish before March 19.  
 
@@ -95,7 +95,7 @@ There are multiple opportunities to take the exam. You should receive an invitat
 
 **Semester 2**
 
-The following dates are reserved for exams. The first one after your last deadline applies to you
+The following dates are reserved for exams:
 
 * Fri 26 Feb 2021
 * Thu 18 Mar 2021
