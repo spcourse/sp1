@@ -83,15 +83,23 @@ We zijn hierboven zo simpel mogelijk begonnen, zodat we snel tot een *correct* p
 
 - Behalve 2 zijn *even* getallen nooit een priemgetal (dit vraagt slechts een hele kleine aanpassing van je code).
 
-- Als je een deler vindt hoef je niet verder te zoeken omdat je dan gelijk weet dat het geen priemgetal is. 
+- Als je een deler vindt hoef je niet verder te zoeken omdat je dan gelijk weet dat het geen priemgetal is.
 
-- Als je wilt bepalen of 137 een priemgetal is, welke kandidaat-delers bekijk je dan voordat je zeker weet dat het een priemgetal is? Doe dit op pen en papier. Delen door 2 en alle oneven getallen tot het getal is een beetje teveel van het goede. Een wiskundige deelt bijvoorbeeld alleen door 2, 3, 5, 7, 11. Bedenk waarom (dit vraagt waarschijnlijk een flinke aanpassing van je code).
+## Stap 6: grote optimalisaties
 
- Die laatste stap maken hoeft niet, maar mocht je ermee aan de slag gaan dan zul je moeten werken met lijsten (lijsten van priemgetallen in dit geval). Lijsten leren we eigenlijk pas kennen op dag 3. Kijk daar of bestudeer hier even hoe [lijsten](https://progns.mprog.nl/python/lijsten) precies werken in Python.
+Deze stap is volledig optioneel, dus hoeft niet ingeleverd te worden.
+
+Bovenstaande optimalisaties geven een beperkte snelheidswinst, in die zin dat je daarmee geen veel grotere priemgetallen gaat vinden dan mogelijk is met het basisalgoritme. Je kunt wel overstappen naar een fundamenteel ander algoritme.
+
+Als je wilt bepalen of 137 een priemgetal is, welke kandidaat-delers bekijk je dan voordat je zeker weet dat het een priemgetal is? Doe dit op pen en papier. Delen door 2 en alle oneven getallen tot het getal is een beetje teveel van het goede. Een wiskundige deelt bijvoorbeeld alleen door 2, 3, 5, 7, 11. Bedenk waarom (dit vraagt waarschijnlijk een flinke aanpassing van je code).
+
+Om dit idee in een algoritme te implementeren heb je hulp nodig van lijsten (lijsten van priemgetallen in dit geval). Bestudeer [hier](/python/nl/lijsten) hoe ze werken in Python.
+
+Als je deze versie maakt zal `checkpy` klagen dat je lijsten gebruikt. Dat is geen probleem, je mag het gewoon inleveren.
 
 ## Hints
 
-- Je kunt dit programma schrijven met alleen de Python-onderdelen die je tot nu toe hebt geleerd!
+Je kunt dit programma schrijven met alleen de Python-onderdelen die je tot nu toe hebt geleerd!
 
 ## Testen
 

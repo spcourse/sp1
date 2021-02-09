@@ -121,9 +121,9 @@ Net als in andere media waarin tekst een belangrijke rol speelt, kan in programm
 
 Zoals hierboven beschreven bij "commentaar" kun je je programma vaak opdelen in blokjes code. Hiermee kun je bijvoorbeeld de verschillende stappen beschrijven in een algoritme. Zie hier een programma dat in drieën gesplitst is:
 
-    number = input("Please enter a number: ")
+    number = int(input("Please enter a number: "))
     while number < 0:
-        number = input("Please enter a *positive* number: ")
+        number = int(input("Please enter a *positive* number: "))
 
     # calculations: uses a complex loop to handle special cases
     while(number > 0):

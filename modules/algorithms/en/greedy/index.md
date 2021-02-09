@@ -29,6 +29,13 @@ How many coins are required exactly for any number of change owed? You tell us!
 
 * [In case the user does not succeed in providing a correct input](https://en.wikipedia.org/wiki/Murphy's_law), make sure they can retry.
 
+### Constraints
+Just as before there are some constraints on what you're allowed to use.
+
+* You are only allowed to use the concepts that are discussed in this module.
+For an overview of those concepts have a look [here](/python/en/overview).
+* You are *not* allowed to use the `import`-statement. (This hasn't been discussed yet, but if you happen to know it, don't use it.)
+
 ## Hints
 
 * This program is structured somewhat like `water`: there is an explicit separation between *input*, *calculation* and *output*. The difference being that the calculation is no longer a single formula. You have to develop a complete *algorithm*!

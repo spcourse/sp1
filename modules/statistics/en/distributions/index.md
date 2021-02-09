@@ -2,19 +2,19 @@
 
 A subject that connects students of different educations is the fear for (the shortage of knowledge about) statistics. And yet it is a crucial part in every scientific discipline, because it is the key to drawing conclusions from collected data. What is the 'truth' that is hidden inside data and how can we weigh different hypotheses against one another? In this module we'll take a look at some of the most well-known techniques by using a fabricated case and made up data.
 
-![](ExampleDenemarken.png){:.inline}{: style="width:35%"}
+![](/course/modules/statistics/assets/ExampleDenemarken.png){:.inline}{: style="width:35%"}
 
 **The case:** In Denmark there is a group of researchers that studies whether the length of women is correlated to the income of their parents. The categories of income vary from category-0 (very poor) to category-10 (very rich) and from each category a random number of women have been selected and their length was measured. The data (the average measured length for each category of income) is represented in the graph to the side. This is where the trouble begins. A part of the researchers thinks the data suggests that there is a linear relationship (blue) whilst another group thinks there's no relationship whatsoever (red). The latter group says the observed 'light' dependence is just the result of accidental fluctuations in length of the women that were sampled.
 
 In this module, after first trying out some introductory exercises, we'll try to find out what conclusions can be drawn: is there, or isn't there a (causal) relationship?
 
 Although it is not the goal to provide an entire lecture on statistics, we introduce here at least some statistics alongside the new Python ingredients as a preparation to the assignments.
- 
+
 ## Assignment 1: percentage of women taller than an average man
 
 In the first assignment we'll answer the question about what percentage of the women in the Netherlands are taller than the average man. For this assignment the concept of a normal distribution and how to manipulate it in Python is important.
 
-#### Statistics info for assignment 1:  the normal distribution 
+#### Statistics info for assignment 1:  the normal distribution
 
 In nature variation is abundant: the length of people in a country, or the weight of animals in a population just to name a few. The distribution that describes the relative frequency of the occurrence of a specific value $$x$$ in the population of measurements is expressed by the so-called normal distribution:
 

@@ -1,0 +1,12 @@
+name: movement
+files:
+    required:
+        - apple.py
+        - basejump.py
+        - tunnel.py
+        - spiral.py
+        - student.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: -m movement

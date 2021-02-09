@@ -8,13 +8,15 @@ Write a function that, by way of the Monte Carlo method, calculates the integral
 
 * Declare a function called `montecarlo()` that can calculate integrals by using a Monte Carlo simulation.
 
-* The function `montecarlo()` should accept five arguments:
+* The function `montecarlo()` should accept the following five arguments:
 
 	- `func` a function of which the integral will be calculated
 	- `x1` the minimum x-value surrounding the integral area
 	- `y1` the minimum y-value surrounding the integral area
 	- `x2` the maximum x-value surrounding the integral area
 	- `y2` the maximum y-value surrounding the integral area
+
+	The arguments should be given in the same order as given above, so like this: `montecarlo(func, x1, y1, x2, y2)`
 
 * The function `montecarlo()` should `return` the area under the graph.
 

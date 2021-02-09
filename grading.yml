@@ -1,0 +1,82 @@
+grades:
+    algorithms:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 13 && 0 || -1
+
+    numbers:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 22 && 0 || -1
+
+    text:
+        type: pass
+        subgrades:
+            checkpy: integer
+            tweets: boolean
+        automatic:
+            checkpy: correctness_score
+        calculation: (checkpy < 13 || tweets == 0) && 0 || -1
+
+    integrals:
+        type: pass
+        subgrades:
+            checkpy: integer
+            twitter: boolean
+        automatic:
+            checkpy: correctness_score
+        calculation: (checkpy < 19 || twitter == 0) && 0 || -1
+
+    movement:
+        type: pass
+        subgrades:
+            checkpy: integer
+            spiral: boolean
+            student: boolean
+        automatic:
+            checkpy: correctness_score
+        calculation: (checkpy < 14 || spiral == 0 || student == 0) && 0 || -1
+
+    monopoly-en:
+        type: pass
+        subgrades:
+            checkpy: integer
+            spiral: boolean
+            student: boolean
+        automatic:
+            checkpy: correctness_score
+        calculation: (checkpy < 8 || spiral == 0 || student == 0) && 0 || -1
+
+    bigdata-en:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 10 && 0 || -1
+
+    statistics-en:
+        type: pass
+
+    exam:
+        type: pass
+        subgrades:
+            passed: boolean
+        calculation: passed
+        is_test: true
+
+
+exam:
+    submits:
+        exam: 1
+    required: true
+
+calculation:
+    finalgrade:
+        exam: 1

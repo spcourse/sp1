@@ -38,7 +38,7 @@ $$\int_{-2}^3 (-x^2 - 8x + 8)~dx$$
 
 ![](../../../assets/negative.png){: style="max-width:500px;"}
 
-Hier is al het rode gebied negatief oppervlak. Het totale blauwe oppervlak is ongeveer $33.05# en het totale rode oppervlak is ongeveer $-24.72$. De totale integraal is dus ongeveer $8.33$.
+Hier is al het rode gebied negatief oppervlak. Het totale blauwe oppervlak is ongeveer $33.05$ en het totale rode oppervlak is ongeveer $-24.72$. De totale integraal is dus ongeveer $8.33$.
 
 ## Riemannsom
 
@@ -52,7 +52,7 @@ $$ \int_a^b f(x)~dx = \sum_{i=0}^{N-1} \int_{x_i}^{x_{i+1}} f(x)~dx$$
 
 Hierbij is $$x_i$$ het hoekpunt van een van de intervallen. Er zijn $$N+1$$ hoekpunten die lopen van $$x_0$$ tot en met $$x_{N}$$. Zie de grafiek in het plaatje hieronder.
 
-![](../../assets/RiemannExample.png)
+![](../../../assets/RiemannExample.png)
 
 Nu we weten dat we op zoek zijn naar een flink aantal deel-integralen, gaan we ons verdere probleem flink versimpelen, door de deel-integralen te *benaderen*.
 

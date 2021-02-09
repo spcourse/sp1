@@ -25,6 +25,17 @@ Example 3:
 
 * Print the $$k$$'th leap year starting from 2000 (so 2000 is the 0th, and 2004 is the 1st year).
 
+### Constraints
+Just as before: Python has a lot of built-in tricks to make your life as a programmer easier. But, before you start
+using those tricks it is important to be fully comfortable with the basics. So for this
+exercise there are some constraints on what you're allowed to use.
+
+* You are only allowed to use the concepts that are discussed in this module.
+For an overview of those concepts have a look [here](/python/en/overview).
+* You are *not* allowed to use the `break`-statement. (This hasn't been discussed yet,
+but if you happen to know it, don't use it.)
+* You are *not* allowed to use the `import`-statement. (This hasn't been discussed yet either.)
+
 ## Decomposition
 Again, take a couple of minutes of time, before you start coding, to draw the problem with **pen and paper**. Illustrate how you would take on this problem and how you would divide the problem into smaller and simpler steps.
 

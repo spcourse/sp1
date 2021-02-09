@@ -2,9 +2,9 @@
 
 Write a program called `listprimes.py` that asks the user to provide a number $$n$$ and generates a list of all the primes between 2 (inclusive) and $$n$$ (exclusive).
 
-Example:
-Enter a number: 11
-[2, 3, 5, 7]
+    Example:
+    Enter a number: 11
+    [2, 3, 5, 7]
 
 ## Specification
 
@@ -13,6 +13,15 @@ Enter a number: 11
 * Generate a list with all prime numbers $$p$$, $$2 \leq p<n$$, in ascending order. (You are required to use a list for this exercise.)
 
 * Print the list.
+
+### Constraints
+
+The same as before:
+
+* You are only allowed to use the concepts that are discussed in this module.
+For an overview of those concepts have a look [here](/python/en/overview).
+* You are *not* allowed to use the `break`-statement.
+* You are *not* allowed to use the `import`-statement.
 
 ## Testing
 

@@ -18,7 +18,7 @@ Write a program that shows the following graph.
 
 * Before plotting, create two lists with correct x- and y-values each.
 
-* Closely examine [the examples](/resources/plot).
+* Closely examine [the examples](/python/en/plotting).
 
 * When using external libraries it can be very useful to make proper use of Google. Want to know how a certain feature can be achieved in pyplot? Google it! Tip: use the word "example" in your search query.
 

@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/text.git
 	branch = main
-	commit = fba4257c4f467b4cf6042fd704f25ce18edb984f
-	parent = b9a7c0906ab45540a2d3f0205213a3533ce1696e
+	commit = 6f905ea17de0ab75b2df47d42b3e7b57b32bfbba
+	parent = bc1fca2a8dd6c7c9c7d542d823d55e3b833aeb3b
 	method = merge
 	cmdver = 0.4.1
