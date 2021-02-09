@@ -11,7 +11,7 @@ Please create a file called `practicing_loops.py` and use it to implement the va
 A `for`-loop is used when you want to repeat a set of instructions. For example, if you want to print the numbers from 1 to 10 on the screen you could do that with ten separate print-statements, but you could also use the following construction:
 
     for x in range(1, 11):
-        print("x now has the value {x}")
+        print(f"x now has the value {x}")
 
 This program has as output:
 
@@ -49,13 +49,13 @@ A for-loop is used when you know beforehand how often you want to repeat the set
 In most cases, `for` and `while` are interchangeable. This for-loop:
 
 	    for x in range(100):
-	        print("x now has the value {x}")
+	        print(f"x now has the value {x}")
 
 is equal to the following `while-loop`:
 
 	    x = 0
 	    while x < 100:
-	        print("x now has the value {x}")
+	        print(f"x now has the value {x}")
 	        x = x + 1
 
 The reason that the `for`-loop is more often used is that it is a bit more compact and also easier readable. However this can only be done is you know beforehand how often this needs to be executed. In other cases, and also with user input it can almost only be done with a while construction.
