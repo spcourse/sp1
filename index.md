@@ -86,8 +86,6 @@ Deadlines for each level are listed below. Only by agreement in advance is it po
 | Level 2 | Thu 11 Feb 2021 | Tue 23 Feb 2021 | Fri 12 Mar 2021 |
 | (Level 3) | (Wed 17 Feb 2021) | (Mon 08 Mar 2021) | (Fri 16 Apr 2021) |
 | Level 4 | Wed 17 Feb 2021/(Tue 23 Feb 2021) | Mon 08 Mar 2021/(Fri 19 Mar 2021) | Fri 16 Apr 2021/(Mon 17 May 2021) |
-| | | | |
-
 
 Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time!
 
@@ -97,9 +95,13 @@ There are multiple opportunities to take the exam. You should receive an invitat
 
 **Semester 2**
 
-Fri 26 Feb 2021
-Thu 18 Mar 2021
-Fri 19 Mar 2021
+The following dates are reserved for exams. The first one after your last deadline applies to you
+
+* Fri 26 Feb 2021
+* Thu 18 Mar 2021
+* Fri 19 Mar 2021
+* Wed 19 May 2021
+* Thu 20 May 2021
 
 ## Feedback
 
