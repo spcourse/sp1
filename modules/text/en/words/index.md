@@ -14,8 +14,9 @@ Implement a program called `list_words.py` that prints a sorted list of all the 
 
 ## Specification
 
-* The program should contain a function called `text_to_unique_words(text)` that takes a text as input and outputs each word from the list of unique words printed on a new line (as per the above).
+* The program should contain a function called `text_to_unique_words(text)` that takes a text as input and outputs a list of unique words.
 * The output should be sorted.
+* The program should print each of the words from the list on a new line.
 
 
 ### Constraints
