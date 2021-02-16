@@ -12,7 +12,7 @@ Write a program that shows the following graph.
 
 * Indicate the minimum of the graph by using a red dot and a text within the graph.
 
-* Use `print` to also display the minimum as text in the terminal, in addition to the text in the graph.
+* Use `print` to also display the minimum as text in the terminal, in addition to the text in the graph. The minimum should be printed in the format: `(xmin, ymin) = (0.27, 0.69)`. 
 
 ## Hints
 
