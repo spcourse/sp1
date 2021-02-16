@@ -41,7 +41,7 @@ grades:
             student: boolean
         automatic:
             checkpy: correctness_score
-        calculation: (checkpy < 14 || spiral == 0 || student == 0) && 0 || -1
+        calculation: (checkpy < 11 || spiral == 0 || student == 0) && 0 || -1
 
     monopoly-en:
         type: pass
