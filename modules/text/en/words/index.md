@@ -74,7 +74,7 @@ First try to think of some testcases yourself. Some interesting examples could b
 - 1-word input
 - multiple-word input
 - words with punctuation
-- words with double blanks / empty words  "word<space><space>huh"
+- words with double spaces / empty words
 
 Now with checkpy:
 
