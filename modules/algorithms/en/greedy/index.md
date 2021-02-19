@@ -42,11 +42,11 @@ For an overview of those concepts have a look [here](/python/en/overview).
 
 * It is useful to use a single variable throughout your entire program in which you gradually develop the final solution: the number of coins that need to be handed out.
 
-* Make sure that, if the user provided a float as input, you change that float into an integer. The coins we hand out are whole *cents* after all.
-
-* To prevent any rounding errors or floating point imprecision when converting floats to integers, first round numbers by using `round()`. Try it out: `round(7.8)` and `round(7.2)`.
+* Make sure that, if the user provided a float as input, you change that float into an integer. The coins we hand out are whole *cents* after all, so work with whole cents.
 
 * The exact implementation for the problem is up to you. You could, for example, use loops, but you can also use the modulo operator `%`. Try and use it: `26 % 8`.
+
+> A common problem when you do not work with cents or do not round the numbers is **floating point imprecision**. In the decimal system you cannot represent `1/3` exactly. (It would be `0.33333333...` with infinite 3's, but without using an infinite number of decimal places, you cannot give an exact representation.) In binary, numbers that don't have an exact representation exist too. An example would be `0.3`: in binary this would be `0011111010011001100110011001100` , with infinite repetitions of `1100`. Since there is no infinite space for infinite repetitions of `1100` in a finite computer, it has to round the number. When this binary number is translated back to decimal, you don't have the exact number `0.3`, but something that deviates by a tiny amount.
 
 ## Testing
 

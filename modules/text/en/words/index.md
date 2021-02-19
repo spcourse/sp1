@@ -16,6 +16,7 @@ Implement a program called `list_words.py` that prints a sorted list of all the 
 
 * The program should contain a function called `text_to_unique_words(text)` that takes a text as input and outputs a list of unique words.
 * The output should be sorted.
+* The program should print each of the words from the list on a new line.
 
 
 ### Constraints
@@ -73,7 +74,7 @@ First try to think of some testcases yourself. Some interesting examples could b
 - 1-word input
 - multiple-word input
 - words with punctuation
-- words with double blanks / empty words  "word<space><space>huh"
+- words with double spaces / empty words
 
 Now with checkpy:
 

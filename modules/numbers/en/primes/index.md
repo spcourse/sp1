@@ -11,9 +11,11 @@ As previously mentioned, a computer is a great tool for quickly executing a seri
 
 ## Specification
 
-* Ask the user to provide the rank (how many-th) of the prime number that they want. This has to be a whole, positive number.
+* Prompt the user for the rank (how many-th) of the prime number that they want. This has to be a whole, positive number.
 
-* If a user provides a value that is not valid, ask the user to try again (you may assume the user gives a whole number as input, not a decimal or word). Keep prompting the user for a value until they do provide a valid number. Since it is not known how often you'll have to repeat the question, a `while`-loop seems perfect!
+* If the user provides an invalid rank, prompt the user for a new rank. Keep asking the user for a rank until they provide a valid input. Since it is not known how often you'll have to repeat the question, a `while`-loop seems perfect!
+
+* You can however assume the user only provides whole numbers (integers). That means you don't have to take decimal numbers into considerations.
 
 * Once the rank of the prime is established, have your program calculate the correct prime and report it back to the user.
 
