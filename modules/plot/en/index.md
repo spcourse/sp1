@@ -10,6 +10,8 @@ Write a program that shows the following graph.
 
 * The minimum of the function has to be calculated. Since you have a list of x-values and a list of y-values, you can easily achieve this with a `for`-loop. Write your own algorithm without using the Python functions `min()` or `max()`.
 
+* You can use the math library and only the `np.arange` function from numpy. (And, of course, matplotlib.)
+
 * Indicate the minimum of the graph by using a red dot and a text within the graph.
 
 * Use `print` to also display the minimum as text in the terminal, in addition to the text in the graph. The minimum should be printed in the format: `(xmin, ymin) = (0.27, 0.69)`. 

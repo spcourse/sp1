@@ -86,14 +86,17 @@ Try some of the following testcases before you run checkpy:
 #### Test 1
 
     test_text1 = "Row, row, row your boat. Gently down the stream. Row, row, row your boat. Gently down the stream."
-    print(text_to_lines(test_text1, 25))
+    separate_lines = text_to_lines(test_text1, 25)
+    
+    for line in separate_lines:
+        print(f"{len(line)}: {line}")
 
 #### Expected output
 
-    Row, row, row your boat.
-    Gently down the stream.
-    Row, row, row your boat.
-    Gently down the stream.
+    24: Row, row, row your boat.
+    23: Gently down the stream.
+    24: Row, row, row your boat.
+    23: Gently down the stream.
 
 #### Test 2
 
@@ -150,8 +153,6 @@ Try some of the following testcases before you run checkpy:
 
     checkpy reformatting
 
-Tip: Sometimes when the result seems correct but is not approved by checkpy there are some invisible
-mistakes (e.g. adding spaces at the end of a line). Try to find a way to check if that might be
-the problem.
+Tip: Sometimes when the result seems correct but is not approved by checkpy there are some invisible mistakes (e.g. adding spaces at the end of a line). Try changing the space to a recognizable symbol to see if that might be the problem.
 
 [^1]: <https://www.heroku.com/art/python>
