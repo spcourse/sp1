@@ -104,7 +104,7 @@ The following dates are reserved for exams:
 
 You can use the link below to book a time slot for the exam. **Only book a slot when you've finished all the required modules of a course!**
 
-[Book your exam](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/)!
+[Book your exam!](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/)
 
 If none of the available slots is convenient for you, please send us an email: <scientific@mprog.nl>.
 
