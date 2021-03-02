@@ -63,6 +63,9 @@ grades:
 
     statistics-en:
         type: pass
+        subgrades:
+            passed: boolean
+        calculation: passed
 
     exam:
         type: pass
