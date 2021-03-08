@@ -97,11 +97,9 @@ A **value** is one of the core components of any program. In the examples above,
 
 To be able to use results (values) from one calculation in another calculation we have to temporarily store these results. As a solution Python offers you to assign names to values. These name-value pairs are called **variables**. By using the `=` operator we can combine a name and a value, and consequently use that value elsewhere.
 
-In Dutch:
+![embed](https://video.uva.nl/media/Variables/0_vpz6gvdt/26350)
 
-![embed](https://player.vimeo.com/video/287248523)
-
-In English, read more about [variables and values](http://greenteapress.com/thinkpython/html/thinkpython003.html) at Think Python.
+Additional reading: [variables and values](http://greenteapress.com/thinkpython/html/thinkpython003.html) at Think Python.
 
 ## Types
 
@@ -177,7 +175,7 @@ or
     # output
     print(x)
 
-With a hashtag (`#`) you tell Python that it does not have to execute that line of code, but it is instead a comment. It is common practice to write a comment *above* the block of code it refers to.  By adding comments to your code, the code is easier to understand for you and possibly other people that use your code. 
+With a hashtag (`#`) you tell Python that it does not have to execute that line of code, but it is instead a comment. It is common practice to write a comment *above* the block of code it refers to.  By adding comments to your code, the code is easier to understand for you and possibly other people that use your code.
 
 Aside from a comment about small blocks of code throughout your program, it is also useful to describe the use of a program at the top of the file. For **exercise.py** the following **header comment** would suffice:
 
