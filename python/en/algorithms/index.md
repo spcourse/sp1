@@ -18,9 +18,7 @@ Aside from that, you've gotten acquainted with operators that are used to compri
 
 The preceding programs were scripts that were meant to be executed line for line from top to bottom. A sort of step by step guide. Programs get more interesting when we intend to write *exceptions*.
 
-<!-- In Dutch, we introduce `if`-statements with a couple of examples:
-
-![embed](https://player.vimeo.com/video/287244672) -->
+![embed](https://api.eu.kaltura.com/p/120/sp/12000/embedIframeJs/uiconf_id/23449960/partner_id/120?iframeembed=true&playerId=kaltura_player&entry_id=0_dc8mz3js&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en_US&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_fz12bjda)
 
 An `if`-statement in Python is structured as follows:
 
