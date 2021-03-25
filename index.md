@@ -52,8 +52,8 @@ There are four moments in the week that there is help available on wonder.me:
 
 |               | Mon | Tue | Wed | Thu | Fri |
 |---------------|:---:|:---:|:---:|:---:|:---:|
-| 09:00 - 12:00 |     |  ✓  |     |  ✓  |     |  
-| 14:00 - 17:00 |  ✓  |     |     |     |  ✓  |
+| 09:00 - 12:00 |  ✓  |     |     |  ✓  |     |  
+| 14:00 - 17:00 |     |  ✓  |     |     |  ✓  |
 
 
 
