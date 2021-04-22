@@ -88,7 +88,7 @@ Try some of the following testcases before you run checkpy:
     test_text1 = "Row, row, row your boat. Gently down the stream. Row, row, row your boat. Gently down the stream."
     separate_lines = text_to_lines(test_text1, 25)
     
-    for line in separate_lines:
+    for line in separate_lines.split("\n"):
         print(f"{len(line)}: {line}")
 
 #### Expected output
