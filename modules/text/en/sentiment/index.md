@@ -43,7 +43,7 @@ When analyzing a text, this means that each positive word adds 1 to the total sc
 
    Now you have two lists containing the words.
 
-3. Write a function `sentiment_of_word(word)` that calculates the score of a single word. It should check if the word belongs to either word list and return the appropriate score, or if it doesn't, return 0.
+3. Write a function `sentiment_of_word(word)` that calculates the score of a single word. It should check if the word belongs to either word list and return the appropriate score, or if it doesn't, return 0. Make sure you clean the word before you calculate its sentiment score.
 
 4. Write a function `sentiment_of_text(text)` that calculates and totals the sentiment score of all words in the text.
 
