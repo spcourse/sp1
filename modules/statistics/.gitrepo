@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/statistics.git
 	branch = main
-	commit = 13023f1c84af6ce0a7099796bd586cfc36bbe095
-	parent = a20256d1dedc220b83612829f5516e40524f3567
+	commit = 80b07bc7c64275e03d31340bb204f0e67e43660a
+	parent = f26c8f81758728012852bafca97efe2ff052ac57
 	method = merge
 	cmdver = 0.4.1
