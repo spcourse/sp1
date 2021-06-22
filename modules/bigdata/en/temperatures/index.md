@@ -33,7 +33,7 @@ What is the longest period of uninterrupted days that had freezing temperatures 
 
 ### Assignment 3: Summer days and tropical days
 
-A day is a summer day when the maximum temperature is 25 degrees Celsius or higher. On a tropical day that maximum temperature would even reach 30 degrees. Make a graph where both the number of summer days and tropical days is displayed for each year.  
+A day is a summer day when the maximum temperature is 25 degrees Celsius or higher. On a tropical day that maximum temperature would even reach 30 degrees. Make a graph where both the number of summer days and tropical days is displayed for each year. A neat solution would be to use a barchart. 
 
 ### Assignment 4: First heat wave
 
