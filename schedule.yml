@@ -3,44 +3,62 @@ Welcome:
   Install python: /python/en/installing
 
 Algorithms (level 1):
-  ".":
-    - algorithms
-    - plotting
+    Introduction: /algorithms
+
+    Getting started:
+        Practice with the Python's basic elements: /python/en/basics
+        Check your water usage: /algorithms/water
+
+    A first algorithm:
+        Learn about algorithms: /python/en/algorithms
+        Learn about loops: /python/en/loops
+        Build a small piece of a Mario Pyramid: /algorithms/pyramid
+
+    A serious algorithm:
+        Understand how to write good code: /python/en/style
+        Calculate change with a Greedy algorithm: /algorithms/greedy
+
+    Plotting graphs:
+        Learn to gather information into lists: /python/en/lists
+        Learn how to use modules: /python/en/modules
+        Learn about plotting in Python: /python/en/plotting
+        Make data understandable by plotting graphs: /plot
+
   Submit:
     Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
-  ".":
-    - numbers
-    - plotting
+  # ".":
+  #   - numbers
+  #   - plotting
   Submit:
     Submit your solutions: /submit/numbers
 
 Numerical integration (level 2):
-  ".":
-    - integrals
+  # ".":
+  #   - integrals
   Submit:
     Submit your solutions: /submit/integrals
 
 Text processing (level 2):
-  ".":
-    - text
+  # ".":
+  #   - text
   Submit:
     Submit your solutions: /submit/text
 
 Monopoly (level 3; optional):
   Level 3 is made optional for a reduced workload: /syllabus#deadlines
-  ".":
-    - animation
-    - monopoly-en
+  # ".":
+  #   - animation
+  #   - monopoly-en
   Submit:
     Submit your solutions: /submit/monopoly
 
 Physics of movement (level 3; optional; beta):
   Level 3 is made optional for a reduced workload: /syllabus#deadlines
-  ".":
-    - animation
-    - movement
+  # ".":
+  #   - animation
+  #   - movement
   Submit:
     Submit your solutions: /submit/movement
 
@@ -52,13 +70,13 @@ Physics of movement (level 3; optional; beta):
 #     Submit your solutions: /submit/populations
 
 Big data (level 4):
-  ".":
-    - bigdata-en
+  # ".":
+  #   - bigdata-en
   Submit:
     Submit your solutions: /submit/bigdata
 
 Statistics (level 4):
-  ".":
-    - statistics-en
+  # ".":
+  #   - statistics-en
   Submit:
     Submit your solutions: /submit/statistics

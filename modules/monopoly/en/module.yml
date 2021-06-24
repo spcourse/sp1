@@ -1,9 +1,0 @@
-name: monopoly-en
-content:
-
-    Monopoly:
-        Introduction: .
-        Learn about debugging simulations: /python/en/debugging
-        Moving around the board: moving-around
-        Using starting funds and buying stuff: money
-        Add a player and restore the balance: two-player

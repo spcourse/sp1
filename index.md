@@ -1,14 +1,12 @@
 # Scientific Programming 1
 
-## Syllabus<br><small>Spring 2021</small>
+## Syllabus<br><small>Fall 2021</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
 ## Staff
 
 Simon Pauw
-
-Natasja Wezel
 
 Iris Luden
 
@@ -43,7 +41,8 @@ When you have finished one modules for each level, you might take up Scientific 
 
 ## Asking questions
 
-In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are two ways you can get help:
+TODO
+<!-- In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are two ways you can get help:
 
 * Online lab-sessions: We have created an online classroom on [wonder.me](https://www.wonder.me/r?id=8b9b7728-3e68-4924-ad4b-8dca2c2c8c70). In this classroom you can get help from us (and from your fellow students). We will be available at the office-hours mentioned here below. But you can log into the classroom at any time. So also outside of the office hours, you can use the classroom to meet up with other students.
 * You can also ask questions on [Ed](https://edstem.org/us/courses/4337/), an online discussion platform. You can use this to sign up link: [sign up for the Scientific Programming forum](https://edstem.org/us/join/za4ucr). Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
@@ -53,7 +52,7 @@ There are four moments in the week that there is help available on wonder.me:
 |               | Mon | Tue | Wed | Thu | Fri |
 |---------------|:---:|:---:|:---:|:---:|:---:|
 | 09:00 - 12:00 |  ✓  |     |     |  ✓  |     |  
-| 14:00 - 17:00 |     |  ✓  |     |     |  ✓  |
+| 14:00 - 17:00 |     |  ✓  |     |     |  ✓  | -->
 
 
 
@@ -78,7 +77,8 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
-**Semester 2**
+TODO
+<!-- **Semester 2**
 
 | Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
 | ----------------- | ----------- | ----------- | ----------- |
@@ -87,24 +87,26 @@ Deadlines for each level are listed below. Only by agreement in advance is it po
 | (Level 3) | (Wed 17 Feb 2021) | (Mon 08 Mar 2021) | (Fri 16 Apr 2021) |
 | Level 4 | Wed 17 Feb 2021/(Tue 23 Feb 2021) | Mon 08 Mar 2021/(Fri 19 Mar 2021) | Fri 16 Apr 2021/(Mon 17 May 2021) |
 
-Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time!
+Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time! -->
 
 ### Exam
 
 There are multiple opportunities to take the exam.
 
-**Semester 2**
+TODO
+<!-- **Semester 2**
 
 The following dates are reserved for exams:
 
 * Thu 11 Mar 2021
 * Fri 26 Mar 2021
 * Wed 19 May 2021
-* Thu 20 May 2021
+* Thu 20 May 2021 -->
 
 You can use the link below to book a time slot for the exam. **Only book a slot when you've finished all the required modules of a course!**
 
-[Book your exam!](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/)
+TODO
+<!-- [Book your exam!](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/) -->
 
 If none of the available slots is convenient for you, please send us an email: <scientific@mprog.nl>.
 
