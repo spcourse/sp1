@@ -8,7 +8,7 @@ files:
         - listprimes.py
         - goldbach.py
         - plot.py
-        
+
 check:
     tool: checkpy
     repo: uva-sp/sp1
