@@ -1,6 +1,6 @@
 Welcome:
-  Read the syllabus to get started: /syllabus
-  Install python: /python/en/installing
+    Read the syllabus to get started: /syllabus
+    Install python: /python/en/installing
 
 Algorithms (level 1):
     Introduction: /algorithms
@@ -24,59 +24,59 @@ Algorithms (level 1):
         Learn about plotting in Python: /python/en/plotting
         Make data understandable by plotting graphs: /plot
 
-  Submit:
-    Submit your solutions: /submit/algorithms
+    Submit:
+        Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
   # ".":
   #   - numbers
   #   - plotting
-  Submit:
-    Submit your solutions: /submit/numbers
+    Submit:
+        Submit your solutions: /submit/numbers
 
-Numerical integration (level 2):
-  # ".":
-  #   - integrals
-  Submit:
-    Submit your solutions: /submit/integrals
-
-Text processing (level 2):
-  # ".":
-  #   - text
-  Submit:
-    Submit your solutions: /submit/text
-
-Monopoly (level 3; optional):
-  Level 3 is made optional for a reduced workload: /syllabus#deadlines
-  # ".":
-  #   - animation
-  #   - monopoly-en
-  Submit:
-    Submit your solutions: /submit/monopoly
-
-Physics of movement (level 3; optional; beta):
-  Level 3 is made optional for a reduced workload: /syllabus#deadlines
-  # ".":
-  #   - animation
-  #   - movement
-  Submit:
-    Submit your solutions: /submit/movement
-
-# Population dynamics (level 3):
-#   ".":
-#     - animation
-#     - populations
+# Numerical integration (level 2):
+#   # ".":
+#   #   - integrals
 #   Submit:
-#     Submit your solutions: /submit/populations
-
-Big data (level 4):
-  # ".":
-  #   - bigdata-en
-  Submit:
-    Submit your solutions: /submit/bigdata
-
-Statistics (level 4):
-  # ".":
-  #   - statistics-en
-  Submit:
-    Submit your solutions: /submit/statistics
+#     Submit your solutions: /submit/integrals
+#
+# Text processing (level 2):
+#   # ".":
+#   #   - text
+#   Submit:
+#     Submit your solutions: /submit/text
+#
+# Monopoly (level 3; optional):
+#   Level 3 is made optional for a reduced workload: /syllabus#deadlines
+#   # ".":
+#   #   - animation
+#   #   - monopoly-en
+#   Submit:
+#     Submit your solutions: /submit/monopoly
+#
+# Physics of movement (level 3; optional; beta):
+#   Level 3 is made optional for a reduced workload: /syllabus#deadlines
+#   # ".":
+#   #   - animation
+#   #   - movement
+#   Submit:
+#     Submit your solutions: /submit/movement
+#
+# # Population dynamics (level 3):
+# #   ".":
+# #     - animation
+# #     - populations
+# #   Submit:
+# #     Submit your solutions: /submit/populations
+#
+# Big data (level 4):
+#   # ".":
+#   #   - bigdata-en
+#   Submit:
+#     Submit your solutions: /submit/bigdata
+#
+# Statistics (level 4):
+#   # ".":
+#   #   - statistics-en
+#   Submit:
+#     Submit your solutions: /submit/statistics
