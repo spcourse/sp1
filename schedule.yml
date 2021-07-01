@@ -3,26 +3,26 @@ Welcome:
     Install python: /python/en/installing
 
 Algorithms (level 1):
-    Introduction: /algorithms
+    Introduction: /algorithms/en/
 
     Getting started:
         Practice with the Python's basic elements: /python/en/basics
-        Check your water usage: /algorithms/water
+        Check your water usage: /algorithms/en/water
 
     A first algorithm:
         Learn about algorithms: /python/en/algorithms
         Learn about loops: /python/en/loops
-        Build a small piece of a Mario Pyramid: /algorithms/pyramid
+        Build a small piece of a Mario Pyramid: /algorithms/en/pyramid
 
     A serious algorithm:
         Understand how to write good code: /python/en/style
-        Calculate change with a Greedy algorithm: /algorithms/greedy
+        Calculate change with a Greedy algorithm: /algorithms/en/greedy
 
     Plotting graphs:
         Learn to gather information into lists: /python/en/lists
         Learn how to use modules: /python/en/modules
         Learn about plotting in Python: /python/en/plotting
-        Make data understandable by plotting graphs: /plot
+        Make data understandable by plotting graphs: /plot/en/
 
     Submit:
         Submit your solutions: /submit/algorithms
