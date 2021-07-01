@@ -28,46 +28,46 @@ Algorithms (level 1):
         Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
-    Introduction: /numbers/
+    Introduction: /numbers/en/
     Getting started:
         Basic elements of Python: /python/en/basics
-        Program the computer to be a Number Whiz: /numbers/whiz
+        Program the computer to be a Number Whiz: /numbers/en/whiz
     Leap:
         Learn about algorithms: /python/en/algorithms
         Learn about loops: /python/en/loops
-        Find leap-years: /numbers/leap
-        Find birthdays of leap-year babies: /numbers/birthday
+        Find leap-years: /numbers/en/leap
+        Find birthdays of leap-year babies: /numbers/en/birthday
     Prime numbers:
-        Look for prime numbers: /numbers/primes
+        Look for prime numbers: /numbers/en/primes
         Learn about storing data in lists: /python/en/lists
-        Make lists of prime numbers: /numbers/primelist
+        Make lists of prime numbers: /numbers/en/primelist
     Number theory:
         Understand how to write good code: /python/en/style
-        Try to (dis)prove Goldbach's conjecture: /numbers/goldbach
+        Try to (dis)prove Goldbach's conjecture: /numbers/en/goldbach
     Submit:
         Submit your solutions: /submit/numbers
 
 Numerical integration (level 2):
-    Introduction: /integrals/
+    Introduction: /integrals/en/
     Roots:
         Learn about functions in Python: /python/en/functions
-        Determine the roots of a polynomial: /integrals/roots
+        Determine the roots of a polynomial: /integrals/en/roots
 
     Riemann:
-        Learn more about the Riemann sum: /integrals/riemann/explanation
-        Harness the power of a computer to determine the Riemann sum: /integrals/riemann/integrals
+        Learn more about the Riemann sum: /integrals/en/riemann/explanation
+        Harness the power of a computer to determine the Riemann sum: /integrals/en/riemann/integrals
 
     Random:
         Learn more about the use of random numbers: /python/en/random
-        Random fact: /integrals/random/fact
-        Calculate the average distance between two points in a square: /integrals/random/distance
-        Analyse with a histogram the output of the `random` function: /integrals/random/histogram
+        Random fact: /integrals/en/random/fact
+        Calculate the average distance between two points in a square: /integrals/en/random/distance
+        Analyse with a histogram the output of the `random` function: /integrals/en/random/histogram
 
     Monte Carlo:
         Learn about functions as arguments of other functions: /python/en/functions2
-        Learn more about the Monte-Carlo method: /integrals/monte-carlo/explanation
-        Use random values to calculate integrals with the Monte Carlo method: /integrals/monte-carlo/integrals
-        Calculate the surface of an odd shape: /integrals/monte-carlo/egg
+        Learn more about the Monte-Carlo method: /integrals/en/monte-carlo/explanation
+        Use random values to calculate integrals with the Monte Carlo method: /integrals/en/monte-carlo/integrals
+        Calculate the surface of an odd shape: /integrals/en/monte-carlo/egg
     Submit:
         Submit your solutions: /submit/integrals
 
@@ -76,43 +76,43 @@ Text processing (level 2):
     Text statistics:
         Learn how to write functions: /python/en/functions
         Learn about strings: /python/en/strings
-        Calculate basic statistics for a text: /text/statistics
+        Calculate basic statistics for a text: /text/en/statistics
     Text cleanup:
-        Analyze text content word-by-word: /text/words
-        Reformat a text neatly: /text/reformatting
+        Analyze text content word-by-word: /text/en/words
+        Reformat a text neatly: /text/en/reformatting
     Sentiment analysis:
         Learn how to read text from files: /python/en/files
-        Perform a sentiment analysis: /text/sentiment
-        Present an overview of Twitter sentiment: /text/tweets
+        Perform a sentiment analysis: /text/en/sentiment
+        Present an overview of Twitter sentiment: /text/en/tweets
     Submit:
         Submit your solutions: /submit/text
 
 Monopoly (level 3):
     Animating in Python:
-        Learn how to create animated graphics: /animation/explanation
-        A spiraling dot: /animation/dot
-        Explore the movements of a buzzed student: /animation/student
+        Learn how to create animated graphics: /animation/en/explanation
+        A spiraling dot: /animation/en/dot
+        Explore the movements of a buzzed student: /animation/en/student
     Monopoly:
-        Introduction: /monopoly/
+        Introduction: /monopoly/en/
         Learn about debugging simulations: /python/en/debugging
-        Moving around the board: /monopoly/moving-around
-        Using starting funds and buying stuff: /monopoly/money
-        Add a player and restore the balance: /monopoly/two-player
+        Moving around the board: /monopoly/en/moving-around
+        Using starting funds and buying stuff: /monopoly/en/money
+        Add a player and restore the balance: /monopoly/en/two-player
     Submit:
         Submit your solutions: /submit/monopoly
 
 Physics of movement (level 3; optional; beta):
     Animating in Python:
-        Learn how to create animated graphics: /animation/explanation
-        A spiraling dot: /animation/dot
-        Explore the movements of a buzzed student: /animation/student
+        Learn how to create animated graphics: /animation/en/explanation
+        A spiraling dot: /animation/en/dot
+        Explore the movements of a buzzed student: /animation/en/student
     Gravitational movement:
-        Study the movement of a falling apple: /movement/apple
+        Study the movement of a falling apple: /movement/en/apple
         Read up on the use of plotting with multiple graphs: /python/en/plotting
-        Study a basejumper's movement: /movement/basejump
+        Study a basejumper's movement: /movement/en/basejump
     The ultimate freefall:
         Learn more about debugging simulations: /python/en/debugging
-        What happens when you fall through the earth: /movement/freefall
+        What happens when you fall through the earth: /movement/en/freefall
     Submit:
         Submit your solutions: /submit/movement
 #
@@ -125,19 +125,19 @@ Physics of movement (level 3; optional; beta):
 #
 Big data (level 4):
     Big data:
-        Overview: /bigdata/
+        Overview: /bigdata/en/
         Learn to analyse and process a data set: /python/en/files
-        Process sensor data of a car ride: /bigdata/car
-        Dig around in KNMI temperature data: /bigdata/temperatures
+        Process sensor data of a car ride: /bigdata/en/car
+        Dig around in KNMI temperature data: /bigdata/en/temperatures
     Submit:
-        Submit your solutions: /submit/bigdata
+        Submit your solutions: /submit/en/bigdata
 #
 Statistics (level 4):
     Statistics:
-        Study the length of Danish women: /statistics/distributions
-        Characteristics of samples: /statistics/sampling
-        Fit a simple model to the data: /statistics/manual
-        Fitting a more complex more in Python: /statistics/fit
-        Generate fictional data-sets and learn how to test hypotheses: /statistics/hypotheses
+        Study the length of Danish women: /statistics/en/distributions
+        Characteristics of samples: /statistics/en/sampling
+        Fit a simple model to the data: /statistics/en/manual
+        Fitting a more complex more in Python: /statistics/en/fit
+        Generate fictional data-sets and learn how to test hypotheses: /statistics/en/hypotheses
     Submit:
         Submit your solutions: /submit/statistics
