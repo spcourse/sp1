@@ -6,44 +6,57 @@ Algorithms (level 1):
     Introduction: /algorithms/en/
 
     Getting started:
-        Practice with the Python's basic elements: /python/en/basics
-        Check your water usage: /algorithms/en/water
+        Basic elements of Python (theory): /python/en/basics
+        Basic elements of Python (practice): /python/en/basics/practice
+        Check your water usage (assignment): /algorithms/en/water
 
     A first algorithm:
-        Learn about algorithms: /python/en/algorithms
-        Learn about loops: /python/en/loops
-        Build a small piece of a Mario Pyramid: /algorithms/en/pyramid
+        Learn about algorithms (theory): /python/en/algorithms
+        Learn about loops (theory): /python/en/loops
+        Build a Mario Pyramid (assignment): /algorithms/en/pyramid
 
     A serious algorithm:
-        Understand how to write good code: /python/en/style
-        Calculate change with a Greedy algorithm: /algorithms/en/greedy
+        Understand how to write good code (theory): /python/en/style
+        Calculate change (assignment): /algorithms/en/greedy
 
     Plotting graphs:
-        Learn to gather information into lists: /python/en/lists
-        Learn how to use modules: /python/en/modules
-        Learn about plotting in Python: /python/en/plotting
-        Make data understandable by plotting graphs: /plot/en/
+        Learn about lists (theory): /python/en/lists
+        Learn how to use modules (theory): /python/en/modules
+        Learn about plotting in Python (theory): /python/en/plotting
+        Make data understandable by plotting graphs (assignment): /plot/en/
 
     Submit:
         Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
     Introduction: /numbers/en/
+
     Getting started:
-        Basic elements of Python: /python/en/basics
-        Program the computer to be a Number Whiz: /numbers/en/whiz
+        Basic elements of Python (theory): /python/en/basics
+        Basic elements of Python (practice): /python/en/basics/practice
+        Program the computer to be a Number Whiz (assignment): /numbers/en/whiz
+
     Leap:
-        Learn about algorithms: /python/en/algorithms
-        Learn about loops: /python/en/loops
-        Find leap-years: /numbers/en/leap
-        Find birthdays of leap-year babies: /numbers/en/birthday
+        Learn about algorithms (theory): /python/en/algorithms
+        Learn about loops (theory): /python/en/loops
+        Find leap-years (assignment): /numbers/en/leap
+        Find birthdays of leap-year babies (assignment): /numbers/en/birthday
+
     Prime numbers:
-        Look for prime numbers: /numbers/en/primes
-        Learn about storing data in lists: /python/en/lists
-        Make lists of prime numbers: /numbers/en/primelist
+        Look for prime numbers (assignment): /numbers/en/primes
+        Learn about lists (theory): /python/en/lists
+        Make lists of prime numbers (assignment): /numbers/en/primelist
+
     Number theory:
-        Understand how to write good code: /python/en/style
-        Try to (dis)prove Goldbach's conjecture: /numbers/en/goldbach
+        Understand how to write good code (theory): /python/en/style
+        Try to (dis)prove Goldbach's conjecture (assignment): /numbers/en/goldbach
+
+    Plotting graphs:
+        Learn to gather information into lists (theory): /python/en/lists
+        Learn how to use modules (theory): /python/en/modules
+        Learn about plotting in Python (theory): /python/en/plotting
+        Make data understandable by plotting graphs (assignment): /plot/en/
+
     Submit:
         Submit your solutions: /submit/numbers
 
