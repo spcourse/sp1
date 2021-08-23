@@ -12,6 +12,7 @@ Algorithms (level 1):
 
     A first algorithm:
         Learn about algorithms (theory): /python/en/algorithms
+        Practice with algorithms (practice): /python/en/algorithms/practice
         Learn about loops (theory): /python/en/loops
         Build a Mario Pyramid (assignment): /algorithms/en/pyramid
 
@@ -38,6 +39,7 @@ Number theory (level 1):
 
     Leap:
         Learn about algorithms (theory): /python/en/algorithms
+        Practice with algorithms (practice): /python/en/algorithms/practice
         Learn about loops (theory): /python/en/loops
         Find leap-years (assignment): /numbers/en/leap
         Find birthdays of leap-year babies (assignment): /numbers/en/birthday
