@@ -13,7 +13,10 @@ Algorithms (level 1):
     A first algorithm:
         Learn about algorithms (theory): /python/en/algorithms
         Practice with algorithms (practice): /python/en/algorithms/practice
-        Learn about loops (theory): /python/en/loops
+        Learn about for-loops (theory): /python/en/loops/for
+        Learn about while-loops (theory): /python/en/loops/while
+        Have a look at some typical uses of loops (theory): /python/en/loops/practical-uses
+        Practice with loops: /python/en/loops/practice
         Build a Mario Pyramid (assignment): /algorithms/en/pyramid
 
     A serious algorithm:
@@ -40,7 +43,10 @@ Number theory (level 1):
     Leap:
         Learn about algorithms (theory): /python/en/algorithms
         Practice with algorithms (practice): /python/en/algorithms/practice
-        Learn about loops (theory): /python/en/loops
+        Learn about for-loops (theory): /python/en/loops/for
+        Learn about while-loops (theory): /python/en/loops/while
+        Have a look at some typical uses of loops (theory): /python/en/loops/practical-uses
+        Practice with loops: /python/en/loops/practice
         Find leap-years (assignment): /numbers/en/leap
         Find birthdays of leap-year babies (assignment): /numbers/en/birthday
 
