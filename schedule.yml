@@ -6,30 +6,30 @@ Algorithms (level 1):
     Introduction: /algorithms/en/
 
     Getting started:
-        Basic elements of Python (theory): /python/en/basics
-        Basic elements of Python (practice): /python/en/basics/practice
-        Check your water usage (assignment): /algorithms/en/water
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+        Check your water usage [assignment]: /algorithms/en/water
 
     A first algorithm:
-        Learn about algorithms (theory): /python/en/algorithms
-        Practice with algorithms (practice): /python/en/algorithms/practice
-        Learn about for-loops (theory): /python/en/loops/for
-        Learn about while-loops (theory): /python/en/loops/while
-        Have a look at some typical uses of loops (theory): /python/en/loops/practical-uses
-        Practice with loops (practice): /python/en/loops/practice
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+        Learn about for-loops [theory]: /python/en/loops/for
+        Learn about while-loops [theory]: /python/en/loops/while
+        Have a look at some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice with loops [practice]: /python/en/loops/practice
 
     Pyramid:
-        Build a Mario Pyramid (assignment): /algorithms/en/pyramid
+        Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
 
     A serious algorithm:
-        Understand how to write good code (theory): /python/en/style
-        Calculate change (assignment): /algorithms/en/greedy
+        Understand how to write good code [theory]: /python/en/style
+        Calculate change [assignment]: /algorithms/en/greedy
 
     Plotting graphs:
-        Learn about lists (theory): /python/en/lists
-        Learn how to use modules (theory): /python/en/modules
-        Learn about plotting in Python (theory): /python/en/plotting
-        Make data understandable by plotting graphs (assignment): /plot/en/
+        Learn about lists [theory]: /python/en/lists
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+        Make data understandable by plotting graphs [assignment]: /plot/en/
 
     Submit:
         Submit your solutions: /submit/algorithms
@@ -38,36 +38,36 @@ Number theory (level 1):
     Introduction: /numbers/en/
 
     Getting started:
-        Basic elements of Python (theory): /python/en/basics
-        Basic elements of Python (practice): /python/en/basics/practice
-        Program the computer to be a Number Whiz (assignment): /numbers/en/whiz
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+        Program the computer to be a Number Whiz [assignment]: /numbers/en/whiz
 
     Algorithms:
-        Learn about algorithms (theory): /python/en/algorithms
-        Practice with algorithms (practice): /python/en/algorithms/practice
-        Learn about for-loops (theory): /python/en/loops/for
-        Learn about while-loops (theory): /python/en/loops/while
-        Have a look at some typical uses of loops (theory): /python/en/loops/practical-uses
-        Practice with loops (practice): /python/en/loops/practice
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+        Learn about for-loops [theory]: /python/en/loops/for
+        Learn about while-loops [theory]: /python/en/loops/while
+        Have a look at some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice with loops [practice]: /python/en/loops/practice
 
     Leap:
-        Find leap-years (assignment): /numbers/en/leap
-        Find birthdays of leap-year babies (assignment): /numbers/en/birthday
+        Find leap-years [assignment]: /numbers/en/leap
+        Find birthdays of leap-year babies [assignment]: /numbers/en/birthday
 
     Prime numbers:
-        Look for prime numbers (assignment): /numbers/en/primes
-        Learn about lists (theory): /python/en/lists
-        Make lists of prime numbers (assignment): /numbers/en/primelist
+        Look for prime numbers [assignment]: /numbers/en/primes
+        Learn about lists [theory]: /python/en/lists
+        Make lists of prime numbers [assignment]: /numbers/en/primelist
 
     Number theory:
-        Understand how to write good code (theory): /python/en/style
-        Try to (dis)prove Goldbach's conjecture (assignment): /numbers/en/goldbach
+        Understand how to write good code [theory]: /python/en/style
+        Try to (dis)prove Goldbach's conjecture [assignment]: /numbers/en/goldbach
 
     Plotting graphs:
-        Learn to gather information into lists (theory): /python/en/lists
-        Learn how to use modules (theory): /python/en/modules
-        Learn about plotting in Python (theory): /python/en/plotting
-        Make data understandable by plotting graphs (assignment): /plot/en/
+        Learn to gather information into lists [theory]: /python/en/lists
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+        Make data understandable by plotting graphs [assignment]: /plot/en/
 
     Submit:
         Submit your solutions: /submit/numbers
