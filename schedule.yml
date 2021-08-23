@@ -15,7 +15,7 @@ Algorithms (level 1):
         Practice with algorithms [practice]: /python/en/algorithms/practice
         Learn about for-loops [theory]: /python/en/loops/for
         Learn about while-loops [theory]: /python/en/loops/while
-        Have a look at some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
         Practice with loops [practice]: /python/en/loops/practice
 
     Pyramid:
@@ -29,7 +29,7 @@ Algorithms (level 1):
         Learn about lists [theory]: /python/en/lists
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
-        Make data understandable by plotting graphs [assignment]: /plot/en/
+        Visualize data with plots  [assignment]: /plot/en/
 
     Submit:
         Submit your solutions: /submit/algorithms
@@ -40,14 +40,14 @@ Number theory (level 1):
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
         Basic elements of Python [practice]: /python/en/basics/practice
-        Program the computer to be a Number Whiz [assignment]: /numbers/en/whiz
+        Create a Number Whiz [assignment]: /numbers/en/whiz
 
     Algorithms:
         Learn about algorithms [theory]: /python/en/algorithms
         Practice with algorithms [practice]: /python/en/algorithms/practice
         Learn about for-loops [theory]: /python/en/loops/for
         Learn about while-loops [theory]: /python/en/loops/while
-        Have a look at some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
         Practice with loops [practice]: /python/en/loops/practice
 
     Leap:
@@ -61,13 +61,13 @@ Number theory (level 1):
 
     Number theory:
         Understand how to write good code [theory]: /python/en/style
-        Try to (dis)prove Goldbach's conjecture [assignment]: /numbers/en/goldbach
+        Prove (?) Goldbach's conjecture [assignment]: /numbers/en/goldbach
 
     Plotting graphs:
         Learn to gather information into lists [theory]: /python/en/lists
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
-        Make data understandable by plotting graphs [assignment]: /plot/en/
+        Visualize data with plots [assignment]: /plot/en/
 
     Submit:
         Submit your solutions: /submit/numbers
