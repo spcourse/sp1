@@ -16,7 +16,9 @@ Algorithms (level 1):
         Learn about for-loops (theory): /python/en/loops/for
         Learn about while-loops (theory): /python/en/loops/while
         Have a look at some typical uses of loops (theory): /python/en/loops/practical-uses
-        Practice with loops: /python/en/loops/practice
+        Practice with loops (practice): /python/en/loops/practice
+
+    Pyramid:
         Build a Mario Pyramid (assignment): /algorithms/en/pyramid
 
     A serious algorithm:
@@ -40,13 +42,15 @@ Number theory (level 1):
         Basic elements of Python (practice): /python/en/basics/practice
         Program the computer to be a Number Whiz (assignment): /numbers/en/whiz
 
-    Leap:
+    Algorithms:
         Learn about algorithms (theory): /python/en/algorithms
         Practice with algorithms (practice): /python/en/algorithms/practice
         Learn about for-loops (theory): /python/en/loops/for
         Learn about while-loops (theory): /python/en/loops/while
         Have a look at some typical uses of loops (theory): /python/en/loops/practical-uses
-        Practice with loops: /python/en/loops/practice
+        Practice with loops (practice): /python/en/loops/practice
+
+    Leap:
         Find leap-years (assignment): /numbers/en/leap
         Find birthdays of leap-year babies (assignment): /numbers/en/birthday
 
