@@ -18,7 +18,7 @@ Algorithms (level 1):
         Learn about for-loops [theory]: /python/en/loops/for
         Practice with for-loops [practice]: /python/en/loops/for/practice
         Learn about while-loops [theory]: /python/en/loops/while
-        Practice about while-loops [practice]: /python/en/loops/while/practice
+        Practice with while-loops [practice]: /python/en/loops/while/practice
         Some typical uses of loops [theory]: /python/en/loops/practical-uses
         Practice more with loops [practice]: /python/en/loops/practical-uses/practice
 
@@ -31,6 +31,7 @@ Algorithms (level 1):
 
     Plotting graphs:
         Learn about lists [theory]: /python/en/lists
+        Practice with lists [theory]: /python/en/lists/practice
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
@@ -54,7 +55,7 @@ Number theory (level 1):
         Learn about for-loops [theory]: /python/en/loops/for
         Practice with for-loops [practice]: /python/en/loops/for/practice
         Learn about while-loops [theory]: /python/en/loops/while
-        Practice about while-loops [practice]: /python/en/loops/while/practice
+        Practice with while-loops [practice]: /python/en/loops/while/practice
         Some typical uses of loops [theory]: /python/en/loops/practical-uses
         Practice more with loops [practice]: /python/en/loops/practical-uses/practice
 
@@ -72,7 +73,8 @@ Number theory (level 1):
         Prove (?) Goldbach's conjecture [assignment]: /numbers/en/goldbach
 
     Plotting graphs:
-        Learn to gather information into lists [theory]: /python/en/lists
+        Learn about lists [theory]: /python/en/lists
+        Practice with lists [theory]: /python/en/lists/practice
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
