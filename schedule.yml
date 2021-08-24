@@ -87,7 +87,7 @@ Numerical integration (level 2):
     Introduction: /integrals/en/
     Roots:
         Learn about functions in Python [theory]: /python/en/functions
-        Practice with function in Python [practice]: /python/en/functions/practice
+        Practice with functions in Python [practice]: /python/en/functions/practice
         Determine the roots of a polynomial [assignment]: /integrals/en/roots
 
     Riemann:
@@ -113,7 +113,7 @@ Text processing (level 2):
 
     Text statistics:
         Learn about functions in Python [theory]: /python/en/functions
-        Practice with function in Python [practice]: /python/en/functions/practice
+        Practice with functions in Python [practice]: /python/en/functions/practice
         Learn about strings [theory]: /python/en/strings
         Calculate basic statistics for a text [assignment]: /text/en/statistics
 
