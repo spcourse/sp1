@@ -26,6 +26,7 @@ Algorithms (level 1):
         Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
 
     Change:
+        Looking for trouble [theory]: /python/en/debugging-basics
         Understand how to write good code [theory]: /python/en/style
         Calculate change [assignment]: /algorithms/en/greedy
 
@@ -64,6 +65,7 @@ Number theory (level 1):
         Find birthdays of leap-year babies [assignment]: /numbers/en/birthday
 
     Prime numbers:
+        Looking for trouble [theory]: /python/en/debugging-basics
         Look for prime numbers [assignment]: /numbers/en/primes
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
@@ -129,30 +131,31 @@ Text processing (level 2):
 
 Monopoly (level 3):
     Animating in Python:
-        Learn how to create animated graphics: /animation/en/explanation
-        A spiraling dot: /animation/en/dot
-        Explore the movements of a buzzed student: /animation/en/student
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        A spiraling dot [assignment]: /animation/en/dot
+        Explore the movements of a buzzed student [assignment]: /animation/en/student
     Monopoly:
         Introduction: /monopoly/en/
-        Learn about debugging simulations: /python/en/debugging
-        Moving around the board: /monopoly/en/moving-around
-        Using starting funds and buying stuff: /monopoly/en/money
-        Add a player and restore the balance: /monopoly/en/two-player
+        Learn about debugging simulations [theory]: /python/en/debugging
+        Moving around the board [assignment]: /monopoly/en/moving-around
+        Using starting funds and buying stuff [assignment]: /monopoly/en/money
+        Add a player and restore the balance [assignment]: /monopoly/en/two-player
     Submit:
         Submit your solutions: /submit/monopoly
 
 Physics of movement (level 3; optional; beta):
     Animating in Python:
-        Learn how to create animated graphics: /animation/en/explanation
-        A spiraling dot: /animation/en/dot
-        Explore the movements of a buzzed student: /animation/en/student
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        A spiraling dot [assignment]: /animation/en/dot
+        Explore the movements of a buzzed student [assignment]: /animation/en/student
     Gravitational movement:
-        Study the movement of a falling apple: /movement/en/apple
-        Read up on the use of plotting with multiple graphs: /python/en/plotting
-        Study a basejumper's movement: /movement/en/basejump
+        Introduction: /movement/en/
+        Study the movement of a falling apple [assignment]: /movement/en/apple
+        Read up on the use of plotting with multiple graphs [theory]: /python/en/plotting
+        Study a basejumper's movement [assignment]: /movement/en/basejump
     The ultimate freefall:
-        Learn more about debugging simulations: /python/en/debugging
-        What happens when you fall through the earth: /movement/en/freefall
+        Learn more about debugging simulations [theory]: /python/en/debugging
+        What happens when you fall through the earth [assignment]: /movement/en/freefall
     Submit:
         Submit your solutions: /submit/movement
 #
@@ -164,20 +167,27 @@ Physics of movement (level 3; optional; beta):
 # #     Submit your solutions: /submit/populations
 #
 Big data (level 4):
+    Introduction: /bigdata/en/
+
     Big data:
-        Overview: /bigdata/en/
-        Learn to analyse and process a data set: /python/en/files
-        Process sensor data of a car ride: /bigdata/en/car
-        Dig around in KNMI temperature data: /bigdata/en/temperatures
+        Learn to analyse and process a data set [theory]: /python/en/files
+        Process sensor data of a car ride [assignment]: /bigdata/en/car
+        Learn more about functions [theory]: /python/en/functions3
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
+
     Submit:
         Submit your solutions: /submit/bigdata
 #
 Statistics (level 4):
+    Introduction: /statistics/en
+
     Statistics:
-        Study the length of Danish women: /statistics/en/distributions
-        Characteristics of samples: /statistics/en/sampling
-        Fit a simple model to the data: /statistics/en/manual
-        Fitting a more complex more in Python: /statistics/en/fit
-        Generate fictional data-sets and learn how to test hypotheses: /statistics/en/hypotheses
+        Learn more about functions [theory]: /python/en/functions3
+        Study the length of Danish women [assignment]: /statistics/en/distributions
+        Characteristics of samples [assignment]: /statistics/en/sampling
+        Fit a simple model to the data [assignment]: /statistics/en/manual
+        Fitting a more complex more in Python [assignment]: /statistics/en/fit
+        Generate fictional data-sets and learn how to test hypotheses [assignment]: /statistics/en/hypotheses
+
     Submit:
         Submit your solutions: /submit/statistics
