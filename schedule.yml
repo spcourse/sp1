@@ -66,6 +66,7 @@ Number theory (level 1):
     Prime numbers:
         Look for prime numbers [assignment]: /numbers/en/primes
         Learn about lists [theory]: /python/en/lists
+        Practice with lists [theory]: /python/en/lists/practice
         Make lists of prime numbers [assignment]: /numbers/en/primelist
 
     Number theory:
@@ -73,8 +74,6 @@ Number theory (level 1):
         Prove (?) Goldbach's conjecture [assignment]: /numbers/en/goldbach
 
     Plotting graphs:
-        Learn about lists [theory]: /python/en/lists
-        Practice with lists [theory]: /python/en/lists/practice
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
