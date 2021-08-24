@@ -84,40 +84,46 @@ Number theory (level 1):
 Numerical integration (level 2):
     Introduction: /integrals/en/
     Roots:
-        Learn about functions in Python: /python/en/functions
-        Determine the roots of a polynomial: /integrals/en/roots
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with function in Python [practice]: /python/en/functions/practice
+        Determine the roots of a polynomial [assignment]: /integrals/en/roots
 
     Riemann:
-        Learn more about the Riemann sum: /integrals/en/riemann/explanation
-        Harness the power of a computer to determine the Riemann sum: /integrals/en/riemann/integrals
+        Learn more about the Riemann sum [theory]: /integrals/en/riemann/explanation
+        Compute the Riemann sum [assignment]: /integrals/en/riemann/integrals
 
     Random:
-        Learn more about the use of random numbers: /python/en/random
-        Random fact: /integrals/en/random/fact
-        Calculate the average distance between two points in a square: /integrals/en/random/distance
-        Analyse with a histogram the output of the `random` function: /integrals/en/random/histogram
+        Learn more about random numbers [theory]: /python/en/random
+        Random fact [assignment]: /integrals/en/random/fact
+        Calculate the average distance between two points in a square [assignment]: /integrals/en/random/distance
+        Analyse with a histogram the output of the `random` function [assignment]: /integrals/en/random/histogram
 
     Monte Carlo:
-        Learn about functions as arguments of other functions: /python/en/functions2
-        Learn more about the Monte-Carlo method: /integrals/en/monte-carlo/explanation
-        Use random values to calculate integrals with the Monte Carlo method: /integrals/en/monte-carlo/integrals
-        Calculate the surface of an odd shape: /integrals/en/monte-carlo/egg
+        Learn about functions as arguments of other functions [theory]: /python/en/functions2
+        Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
+        Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
+        Calculate the surface of an odd shape [assignment]: /integrals/en/monte-carlo/egg
     Submit:
         Submit your solutions: /submit/integrals
 
 Text processing (level 2):
     Introduction: /text/en/
+
     Text statistics:
-        Learn how to write functions: /python/en/functions
-        Learn about strings: /python/en/strings
-        Calculate basic statistics for a text: /text/en/statistics
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with function in Python [practice]: /python/en/functions/practice
+        Learn about strings [theory]: /python/en/strings
+        Calculate basic statistics for a text [assignment]: /text/en/statistics
+
     Text cleanup:
-        Analyze text content word-by-word: /text/en/words
-        Reformat a text neatly: /text/en/reformatting
+        Analyze text content word-by-word [assignment]: /text/en/words
+        Reformat a text neatly [assignment]: /text/en/reformatting
+
     Sentiment analysis:
-        Learn how to read text from files: /python/en/files
-        Perform a sentiment analysis: /text/en/sentiment
-        Present an overview of Twitter sentiment: /text/en/tweets
+        Learn how to read text from files [theory]: /python/en/files
+        Perform a sentiment analysis [assignment]: /text/en/sentiment
+        Present an overview of Twitter sentiment [assignment]: /text/en/tweets
+
     Submit:
         Submit your solutions: /submit/text
 
