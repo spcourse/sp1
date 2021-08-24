@@ -10,18 +10,22 @@ Algorithms (level 1):
         Basic elements of Python [practice]: /python/en/basics/practice
         Check your water usage [assignment]: /algorithms/en/water
 
-    A first algorithm:
+    Algorithms:
         Learn about algorithms [theory]: /python/en/algorithms
         Practice with algorithms [practice]: /python/en/algorithms/practice
+
+    Loops:
         Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
         Learn about while-loops [theory]: /python/en/loops/while
+        Practice about while-loops [practice]: /python/en/loops/while/practice
         Some typical uses of loops [theory]: /python/en/loops/practical-uses
-        Practice with loops [practice]: /python/en/loops/practice
+        Practice more with loops [practice]: /python/en/loops/practice
 
     Pyramid:
         Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
 
-    A serious algorithm:
+    Change:
         Understand how to write good code [theory]: /python/en/style
         Calculate change [assignment]: /algorithms/en/greedy
 
@@ -29,7 +33,7 @@ Algorithms (level 1):
         Learn about lists [theory]: /python/en/lists
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
-        Visualize data with plots  [assignment]: /plot/en/
+        Visualize data with plots [assignment]: /plot/en/
 
     Submit:
         Submit your solutions: /submit/algorithms
@@ -45,10 +49,14 @@ Number theory (level 1):
     Algorithms:
         Learn about algorithms [theory]: /python/en/algorithms
         Practice with algorithms [practice]: /python/en/algorithms/practice
+
+    Loops:
         Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
         Learn about while-loops [theory]: /python/en/loops/while
+        Practice about while-loops [practice]: /python/en/loops/while/practice
         Some typical uses of loops [theory]: /python/en/loops/practical-uses
-        Practice with loops [practice]: /python/en/loops/practice
+        Practice more with loops [practice]: /python/en/loops/practice
 
     Leap:
         Find leap-years [assignment]: /numbers/en/leap
