@@ -41,20 +41,35 @@ When you have finished one modules for each level, you might take up Scientific 
 
 ## Asking questions
 
-TODO
-<!-- In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are two ways you can get help:
+In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
 
-* Online lab-sessions: We have created an online classroom on [wonder.me](https://www.wonder.me/r?id=8b9b7728-3e68-4924-ad4b-8dca2c2c8c70). In this classroom you can get help from us (and from your fellow students). We will be available at the office-hours mentioned here below. But you can log into the classroom at any time. So also outside of the office hours, you can use the classroom to meet up with other students.
-* You can also ask questions on [Ed](https://edstem.org/us/courses/4337/), an online discussion platform. You can use this to sign up link: [sign up for the Scientific Programming forum](https://edstem.org/us/join/za4ucr). Try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
+**Helpdesk (Programmeerbalie)**: You'll get to talk directly to an assistant.
 
-There are four moments in the week that there is help available on wonder.me:
+* Help is both available on campus (Science Park A1.24) or online.
+* Help is available on many moments throughout the week.
+* To use the helpdesk, make an appointment here: TODO
+* The schedule will be posted here below.
+<!-- |         | Mon | Tue | Wed | Thu | Fri |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| 9 -  11 |     |     |     |     |     |  
+| 11 - 13 |     |     |     |     |     |
+| 13 - 15 |     |     |     |     |     |
+| 15 - 17 |     |     |     |     |     | -->
 
-|               | Mon | Tue | Wed | Thu | Fri |
-|---------------|:---:|:---:|:---:|:---:|:---:|
-| 09:00 - 12:00 |  ✓  |     |     |  ✓  |     |  
-| 14:00 - 17:00 |     |  ✓  |     |     |  ✓  | -->
 
+**Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
 
+* There are lab sessions on campus (Monday and Wednesday between 9:00 and 11:00).
+* It's on Science Park, the precise location can differ from week to week and can be found on Datanose.
+* This is a good place to work on your assignments and get immediate help.
+* This is the main place where you can meet other students.
+* There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
+
+**Forum**: We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
+* Sign-up [here](https://edstem.org/us/join/uWysvk). You need an UvA-mail address for this. If this doesn't work send, an email to <scientific@mprog.nl>.
+* Use the forum: [Ed](https://edstem.org/us/courses/12543/discussion/).
+* Please keep the language in English on the forum, as not all students following this course speak Dutch.
+* When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
 ## Passing the course
 
@@ -71,42 +86,20 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 ### Deadlines
 
-> In light of the Covid-19 measures, the deadline schema has been revised. To make the schedule a bit lighter and allow everyone to take the week of March 22 - 26 off, we made level 3 an optional part of the programme. You can decide to still do level 3, in which case follow the dates in parentheses (). Otherwise follow the new dates.
->
-> For people following the 4-week schedule: if you skip level 3, please start Scientific Programming already Feb 18 this way you'll be able to finish before March 19.  
-
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
-TODO
-<!-- **Semester 2**
+**Semester 1**
 
-| Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
-| ----------------- | ----------- | ----------- | ----------- |
-| Level 1 | Fri 05 Feb 2021 | Wed 10 Feb 2021 | Fri 19 Feb 2021 |
-| Level 2 | Thu 11 Feb 2021 | Tue 23 Feb 2021 | Fri 12 Mar 2021 |
-| (Level 3) | (Wed 17 Feb 2021) | (Mon 08 Mar 2021) | (Fri 16 Apr 2021) |
-| Level 4 | Wed 17 Feb 2021/(Tue 23 Feb 2021) | Mon 08 Mar 2021/(Fri 19 Mar 2021) | Fri 16 Apr 2021/(Mon 17 May 2021) |
-
-Note: if you would also like to take Scientific Programming 2 in the first semester, you will need to do the 8-week schedule. If you'd also like to take Data Processing in the first semester, you will need to do the 4-week schedule, in order to leave enough time! -->
+Deadlines: TODO
 
 ### Exam
 
 There are multiple opportunities to take the exam.
 
-TODO
-<!-- **Semester 2**
+Exam slots: TODO
 
-The following dates are reserved for exams:
+Book your exam here: TODO
 
-* Thu 11 Mar 2021
-* Fri 26 Mar 2021
-* Wed 19 May 2021
-* Thu 20 May 2021 -->
-
-You can use the link below to book a time slot for the exam. **Only book a slot when you've finished all the required modules of a course!**
-
-TODO
-<!-- [Book your exam!](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/) -->
 
 If none of the available slots is convenient for you, please send us an email: <scientific@mprog.nl>.
 
@@ -124,7 +117,7 @@ No books are required for this course. Embedded in some of the modules are parts
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
-The essence of all work that you submit to this course must be your own. Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code to others, but you may not view theirs, so long as you and they respect this policy's other constraints. Collaboration on the course's test and quiz is not permitted at all.
+The essence of all work that you submit to this course must be your own (unless explicitly stated otherwise). Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code to others, but you may not view theirs, so long as you and they respect this policy's other constraints. Collaboration on the course's test and quiz is not permitted at all.
 
 Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. If in doubt as to whether some act is reasonable, do not commit it until you solicit and receive approval in writing from the course's heads. Acts considered not reasonable by the course are handled harshly.
 
@@ -193,21 +186,23 @@ BSc programme. Find them here in [English] and [Dutch].
 
 ## Acknowledgements
 
-This course has been designed by Martijn Stegeman and Ivo van Vulpen.
+This course has been designed by Martijn Stegeman, Simon Pauw and Ivo van Vulpen.
 
 It is partially based on many great programming resources that have been published as Open Courseware under a [Creative Commons license](https://creativecommons.org). The resulting work itself is also published under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Feel free to re-use! If you would like to use the work commercially, please send an e-mail for arranging a license.
 
 We have had lots of help from students as well as teaching assistants who tried the course or added ideas of their own. We especially thank:
 
 - Jelle van Assema (assignments and checkpy)
+- Tim Doolan (revisions)
+- Wouter Vrielink (revisions)
 - Marianne de Heer Kloots (revisions and testing)
 - Maarten Inja (DNA assignment)
-- Simon Pauw (revisions)
 - Quinten Post (translations)
 - Marleen Rijksen (revisions)
 - Huub Rutjes (films)
 - Vera Schild (test automation)
 - Luca Verhees (artwork "semester of code")
+
 
 We have used materials from the following sources:
 
