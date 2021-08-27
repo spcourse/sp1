@@ -60,7 +60,8 @@ In this course you'll mostly work on assignments independently. But you're not o
 **Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
 
 * There are lab sessions on campus (Monday and Wednesday between 9:00 and 11:00).
-* It's on Science Park, the precise location can differ from week to week and can be found on Datanose.
+* All these sessions take place on Science Park, check [Datanose](https://datanose.nl/#course[99563]) for precise locations.
+* To avoid overcrowding, please book a slot using these links: [Book Monday Lab Session](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/DMs1BphJ8U6A--L7PtN9tQ2) or [Book Wednesday Lab Session](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/pwL48P3zxEO9vZm-LE6ukQ2). (For the first two weeks, please limit yourselves to only one slot per week, so that everyone has a chance to work on campus.)
 * This is a good place to work on your assignments and get immediate help.
 * This is the main place where you can meet other students.
 * There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
