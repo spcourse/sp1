@@ -12,6 +12,8 @@ Iris Luden
 
 Martijn Stegeman
 
+Daan Moll
+
 If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
 
 ## Getting started
@@ -48,13 +50,11 @@ In this course you'll mostly work on assignments independently. But you're not o
 * Help is both available on campus (Science Park A1.24) or online.
 * Help is available on many moments throughout the week.
 * To use the helpdesk, make an appointment here: TODO
-* The schedule will be posted here below.
+* See the schedule for the helpdesk in the section below.
 <!-- |         | Mon | Tue | Wed | Thu | Fri |
 |---------|:---:|:---:|:---:|:---:|:---:|
-| 9 -  11 |     |     |     |     |     |  
-| 11 - 13 |     |     |     |     |     |
-| 13 - 15 |     |     |     |     |     |
-| 15 - 17 |     |     |     |     |     | -->
+| 9 -  11 | Daan|Iris |Iris |Iris |     |  
+| 13 - 15 | Daan|     |Daan |     |     | -->
 
 
 **Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
@@ -73,6 +73,13 @@ In this course you'll mostly work on assignments independently. But you're not o
 * Please keep the language in English on the forum, as not all students following this course speak Dutch.
 * When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
+### Schedule helpdesk and lab sessions:
+
+<!-- |         | Mon | Tue | Wed | Thu | Fri |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| 9 -  11 | Lab session | Helpdesk  | Lab session   | Helpdesk  |     |  
+| 13 - 15 | Helpdesk   |    |Helpdesk   |     |     | -->
+
 ## Passing the course
 
 The course's final result will be "pass" or "fail", which means that **no grades are assigned**. You pass the course by:
@@ -90,7 +97,7 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
-The deadline depend on the period in which you start the course (1, 2, 4, or 5) and at what pace you're following it (4, 8 or 16 weeks):
+The deadlines depend on the period in which you start the course (1, 2, 4, or 5) and at what pace you're following it (4, 8 or 16 weeks):
 
 <details markdown="1"><summary  markdown="span">Start block 1 (6 Sept 2021)</summary>
 
