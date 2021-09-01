@@ -90,9 +90,61 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
-**Semester 1**
+The deadline depend on the period in which you start the course (1, 2, 4, or 5) and at what pace you're following it (4, 8 or 16 weeks):
 
-Deadlines: TODO
+<details markdown="1"><summary  markdown="span">Start block 1 (6 Sept 2021)</summary>
+
+| Finish course in: | 4 weeks          | 8 weeks          | 16 weeks         |  
+| ----------------- | ---------------- | ---------------- | ---------------- |
+| Level 1           | Fri 10 Sept 2021 | Wed 15 Sept 2021 | Fri 24 Sept 2021 |
+| Level 2           | Thu 16 Sept 2021 | Tue 28 Sept 2021 | Fri 15 Okt  2021 |
+| Level 3           | Wed 22 Sept 2021 | Mon 11 Okt  2021 | Fri 19 Nov  2021 |
+| Level 4           | Tue 28 Sept 2021 | Fri 22 Okt  2021 | Fri 10 Dec  2021 |
+
+</details>
+
+<details markdown="1"><summary  markdown="span">Start block 2 (1 Nov 2021)</summary>
+
+| Finish course in: | 4 weeks         | 8 weeks         |
+| ----------------- | --------------- | --------------- |
+| Level 1           | Fri 5  Nov 2021 | Wed 10 Nov 2021 |
+| Level 2           | Thu 11 Nov 2021 | Tue 23 Nov 2021 |
+| Level 3           | Wed 17 Nov 2021 | Mon 6  Dec 2021 |
+| Level 4           | Tue 23 Nov 2021 | Fri 17 Dec 2021 |
+
+</details>
+
+<details markdown="1"><summary  markdown="span">Start block 4 (7 Feb 2022)</summary>
+
+| Finish course in: | 4 weeks         | 8 weeks         |
+| ----------------- | --------------- | --------------- |
+| Level 1           | Fri 11 Feb 2022 | Wed 16 Feb 2022 |
+| Level 2           | Thu 17 Feb 2022 | Tue 01 Mar 2022 |
+| Level 3           | Wed 23 Feb 2022 | Mon 14 Mar 2022 |
+| Level 4           | Tue 01 Mar 2022 | Fri 25 Mar 2022 |
+
+</details>
+
+<details markdown="1"><summary  markdown="span">Start block 5 (4 Apr 2022)</summary>
+
+| Finish course in: | 4 weeks         | 8 weeks         |
+| ----------------- | --------------- | --------------- |
+| Level 1           | Fri 08 May 2022 | Thu 14 Apr 2022 |
+| Level 2           | Thu 14 May 2022 | Thu 28 Apr 2022 |
+| Level 3           | Thu 21 May 2022 | Tue 17 May 2022 |
+| Level 4           | Thu 28 May 2022 | Wed 25 May 2022 |
+
+<!-- This block is one week shorter, which could be a problem is you're taking the course in 4 weeks. If this is the case you're allowed to skip Level 3. This will be the schedule:
+
+| Finish course in: | 4 weeks         |
+| ----------------- | --------------- |
+| Level 1           | Fri 08 Apr 2022 |
+| Level 2           | Thu 14 Apr 2022 |
+| Level 4           | Fri 22 Apr 2022 | -->
+
+</details>
+
+
 
 ### Exam
 
