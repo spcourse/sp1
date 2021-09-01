@@ -16,6 +16,6 @@ A couple of things that I'd like to highlight:
 
 - It can be practical to work at the UvA during the helpdesk hours. If you want to do this, don't forget to [reserve a spot](https://uba.uva.nl/en/visiting-and-studying/book-a-study-space/book-a-study-space.html). A booking at the helpdesk does not automatically come with a study space.
 
-- If you have any worries about anything, please do not hesitate to send us an email at <scientific@mprog.nl>.
+- If you have any worries about anything, please do not hesitate to send me an email at <scientific@mprog.nl>.
 
 - It is not unlikely that some or all of the measures change again soon. We'll see...
