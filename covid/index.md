@@ -1,5 +1,9 @@
 # Covid-19 Measures and Scientific Programming
 
+Before coming to the UvA, make sure you're aware of all the Covid measures at the UvA: [Covid measures](https://www.uva.nl/en/current/coronavirus/coronavirus.html).
+
+A couple of things that I'd like to highlight:
+
 - It is the intention that as many as possible people are vaccinated and that everyone (that comes to the UvA) takes a self test twice per week. You can order free self tests [here](https://www.zelftestonderwijs.nl/).
 
 - You cannot come to the UvA if:
