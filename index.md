@@ -73,12 +73,12 @@ In this course you'll mostly work on assignments independently. But you're not o
 * Please keep the language in English on the forum, as not all students following this course speak Dutch.
 * When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
-### Schedule helpdesk and lab sessions:
+### Schedule helpdesk and lab sessions
 
-<!-- |         | Mon | Tue | Wed | Thu | Fri |
+|         | Mon | Tue | Wed | Thu | Fri |
 |---------|:---:|:---:|:---:|:---:|:---:|
 | 9 -  11 | Lab session | Helpdesk  | Lab session   | Helpdesk  |     |  
-| 13 - 15 | Helpdesk   |    |Helpdesk   |     |     | -->
+| 13 - 15 | Helpdesk   |    |   |     |     |
 
 ## Passing the course
 
