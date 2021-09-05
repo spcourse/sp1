@@ -143,7 +143,7 @@ Monopoly (level 3):
     Submit:
         Submit your solutions: /submit/monopoly
 
-Physics of movement (level 3; optional; beta):
+Physics of movement (level 3; beta):
     Animating in Python:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         A spiraling dot [assignment]: /animation/en/dot
