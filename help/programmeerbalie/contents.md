@@ -5,7 +5,7 @@ This page is specifically for the Helpdesk, not for the lab sessions. You can ma
 * Help is available on many moments throughout the week.
 
 ## Book a slot
-Whether you join online or join on campus, in both cases **you have to make an appointment**. Use this link: [Book a slot](https://balie.mprog.nl/planner/4-scientific-programming)
+Whether you join online or join on campus, in both cases **you have to make an appointment**. You can make an appointment *up to one day ahead*, using this link: [Book a slot](https://balie.mprog.nl/planner/4-scientific-programming)
 
 ## Join on campus
 The location of the helpdesk depends on your chosen timeslot. Helpdesk schedule (valid from **Sept 7 2021** until **Oct 21 2021**):
