@@ -45,34 +45,11 @@ When you have finished one modules for each level, you might take up Scientific 
 
 In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
 
-**Helpdesk (Programmeerbalie)**: You'll get to talk directly to an assistant.
+- Helpdesk (Programmeerbalie): Online or on campus. Book a slot to get help
+- Lab sessions: Only on campus. Work in a classroom together with other students
+- Forum: Only online.
 
-* Help is both available on campus (Science Park A1.24) or online.
-* Help is available on many moments throughout the week.
-* To use the helpdesk, make an appointment here: [helpdesk appointment](/programmeerbalie)
-
-**Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
-
-* There are lab sessions on campus (Monday and Wednesday between 9:00 and 11:00).
-* All these sessions take place on Science Park, check [Datanose](https://datanose.nl/#course[99563]) for precise locations.
-* To avoid overcrowding, please book a slot using these links: [Book Monday Lab Session](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/DMs1BphJ8U6A--L7PtN9tQ2) or [Book Wednesday Lab Session](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/pwL48P3zxEO9vZm-LE6ukQ2). (For the first two weeks, please limit yourselves to only one slot per week, so that everyone has a chance to work on campus.)
-* This is a good place to work on your assignments and get immediate help.
-* This is the main place where you can meet other students.
-* There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
-
-**Forum**: We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-
-* Sign-up [here](https://edstem.org/us/join/uWysvk). You need an UvA-mail address for this. If this doesn't work send, an email to <scientific@mprog.nl>.
-* Use the forum: [Ed](https://edstem.org/us/courses/12543/discussion/).
-* Please keep the language in English on the forum, as not all students following this course speak Dutch.
-* When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
-
-### Schedule helpdesk and lab sessions
-
-|         | Mon         | Tue       | Wed           | Thu       | Fri |
-|---------|:-----------:|:---------:|:-------------:|:---------:|:---:|
-| 9 -  11 | Lab session | Helpdesk  | Lab session   | Helpdesk  |     |  
-| 13 - 15 | Helpdesk    |           |               | Helpdesk  |     |
+See for more info: [Help](/help)
 
 ## Passing the course
 
