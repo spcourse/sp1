@@ -84,6 +84,7 @@ assignments:
         monopoly-en: 1
         bigdata-en: 1
         statistics-en: 1
+    required: true
 
 
 exam:
