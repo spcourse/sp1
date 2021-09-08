@@ -75,6 +75,7 @@ grades:
         is_test: true
 
 assignments:
+    show_progress: true
     submits:
         algorithms: 1
         numbers: 1
