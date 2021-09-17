@@ -152,6 +152,7 @@ Physics of movement (level 3; beta):
         Explore the movements of a buzzed student [assignment]: /animation/en/student
     Gravitational movement:
         Introduction: /movement/en/
+        Learn more about functions [theory]: /python/en/functions3
         Study the movement of a falling apple [assignment]: /movement/en/apple
         Read up on the use of plotting with multiple graphs [theory]: /python/en/plotting
         Study a basejumper's movement [assignment]: /movement/en/basejump
@@ -180,16 +181,16 @@ Big data (level 4):
     Submit:
         Submit your solutions: /submit/bigdata
 #
-Statistics (level 4):
-    Introduction: /statistics/en
-
-    Statistics:
-        Learn more about functions [theory]: /python/en/functions3
-        Study the length of Danish women [assignment]: /statistics/en/distributions
-        Characteristics of samples [assignment]: /statistics/en/sampling
-        Fit a simple model to the data [assignment]: /statistics/en/manual
-        Fitting a more complex more in Python [assignment]: /statistics/en/fit
-        Generate fictional data-sets and learn how to test hypotheses [assignment]: /statistics/en/hypotheses
-
-    Submit:
-        Submit your solutions: /submit/statistics
+# Statistics (level 4):
+#     Introduction: /statistics/en
+#
+#     Statistics:
+#         Learn more about functions [theory]: /python/en/functions3
+#         Study the length of Danish women [assignment]: /statistics/en/distributions
+#         Characteristics of samples [assignment]: /statistics/en/sampling
+#         Fit a simple model to the data [assignment]: /statistics/en/manual
+#         Fitting a more complex more in Python [assignment]: /statistics/en/fit
+#         Generate fictional data-sets and learn how to test hypotheses [assignment]: /statistics/en/hypotheses
+#
+#     Submit:
+#         Submit your solutions: /submit/statistics
