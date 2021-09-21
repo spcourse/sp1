@@ -126,16 +126,25 @@ The deadlines depend on the period in which you start the course (1, 2, 4, or 5)
 
 ### Exam
 
-There are multiple opportunities to take the exam.
+The exam for this course is an oral exam of 10 to 15 minutes. We will discuss some parts of the code that you wrote yourself. The goal is to see if you properly understood your won solutions. You will not have to defend any design choices in this oral exam. So you will **not** get any question about how you code could be improved. You only have to show that you understood the design choices that you did make.
 
-Exam slots: TODO
+The dates for the exams:
 
-Book your exam here: TODO
+| Date:      | Time:         |
+|------------|---------------|
+| Fri 1  Oct | 14:00 - 17:00 |
+| Tue 2  Oct | 14:00 - 17:00 |
+| Wed 27 Oct | 14:00 - 17:00 |
+| Fri 29 Oct | 14:00 - 17:00 |
+| Fri 26 Nov | 14:00 - 17:00 |
+| Mon 20 Dec | 14:00 - 17:00 |
+| Wed 22 Dec | 14:00 - 17:00 |
 
+You need to book a slot for the exam. You can only do the exam after you handed in the last module. So, don't book a slot weeks ahead, but book a slot when you're quite sure that you'll finish before the exam date: [book a slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/jRxaOHY610CVqb9vPYA9vQ2)
 
-If none of the available slots is convenient for you, please send us an email: <scientific@mprog.nl>.
+If all slots are booked or you can really not make it to any of the available slots, please send me an email: <scientific@mprog.nl>.
 
-It can happen that your exam is a couple of weeks after you finished the last assignment. Please, feel free to already make start with the next course (Scientific Programming 2)! Do send an email to let us know.
+It can happen that your exam is a couple of weeks after you finished the last assignment. Please, feel free to already start with the next course (Scientific Programming 2)! But, do send an email to let me know.
 
 ## Feedback
 
