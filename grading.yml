@@ -89,11 +89,13 @@ assignments:
 
 
 exam:
+    show_progress: true
     submits:
         exam: 1
     required: true
 
 calculation:
+    show_progress: true
     finalgrade:
         exam: 1
     dummy:
