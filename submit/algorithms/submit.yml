@@ -8,4 +8,4 @@ files:
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: water pyramid
+    args: water pyramid greedy plot
