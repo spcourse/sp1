@@ -66,7 +66,7 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 ### Deadlines
 
-Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally late, please contact us ()<scientific@mprog.nl>).
+Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally behind please contact us (<scientific@mprog.nl>).
 
 The deadlines depend on the period in which you start the course (4, or 5) and at what pace you're following it (4, 8 or 16 weeks).
 
