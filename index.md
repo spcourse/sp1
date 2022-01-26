@@ -1,6 +1,6 @@
 # Scientific Programming 1
 
-## Syllabus<br><small>Fall 2021</small>
+## Syllabus<br><small>Spring 2022</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
@@ -8,9 +8,9 @@ Welcome to this programming course! In the weeks ahead, you'll use the Python pr
 
 Simon Pauw
 
-Iris Luden
-
 Martijn Stegeman
+
+Iris Luden
 
 Daan Moll
 
@@ -66,11 +66,11 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 ### Deadlines
 
-Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
+Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally late, please contact us ()<scientific@mprog.nl>).
 
-The deadlines depend on the period in which you start the course (1, 2, 4, or 5) and at what pace you're following it (4, 8 or 16 weeks):
+The deadlines depend on the period in which you start the course (4, or 5) and at what pace you're following it (4, 8 or 16 weeks).
 
-<details markdown="1"><summary  markdown="span">Start block 1 (6 Sept 2021)</summary>
+<!-- <details markdown="1"><summary  markdown="span">Start block 1 (6 Sept 2021)</summary>
 
 | Finish course in: | 4 weeks          | 8 weeks          | 16 weeks         |  
 | ----------------- | ---------------- | ---------------- | ---------------- |
@@ -90,27 +90,30 @@ The deadlines depend on the period in which you start the course (1, 2, 4, or 5)
 | Level 3           | Wed 17 Nov 2021 | Mon 6  Dec 2021 |
 | Level 4           | Tue 23 Nov 2021 | Fri 17 Dec 2021 |
 
-</details>
+</details> -->
 
 <details markdown="1"><summary  markdown="span">Start block 4 (7 Feb 2022)</summary>
 
-| Finish course in: | 4 weeks         | 8 weeks         |
-| ----------------- | --------------- | --------------- |
-| Level 1           | Fri 11 Feb 2022 | Wed 16 Feb 2022 |
-| Level 2           | Thu 17 Feb 2022 | Tue 01 Mar 2022 |
-| Level 3           | Wed 23 Feb 2022 | Mon 14 Mar 2022 |
-| Level 4           | Tue 01 Mar 2022 | Fri 25 Mar 2022 |
-
+| Finish course in: | 4 weeks         | 8 weeks         | 16 weeks            |
+| ----------------- | --------------- | --------------- | ------------------- |
+| Level 1           | Fri 11 Feb 2022 | Wed 16 Feb 2022 | Tue 01 Mar 2022     |
+| Level 2           | Thu 17 Feb 2022 | Tue 01 Mar 2022 | Fri 25 Mar 2022     |
+| Level 3           | Wed 23 Feb 2022 | Mon 14 Mar 2022 | Thu 22 Apr 2022     |
+| Level 4           | Tue 01 Mar 2022 | Fri 25 Mar 2022 | Wed 20 May 2022     |
+| Trial exam        |                 | Wed 30 Mar 2022 |                     |
+| Exam              | Wed 30 Mar 2022 | Thu  2 Jun 2022 | Thu  2 Jun 2022 (?) |
 </details>
 
 <details markdown="1"><summary  markdown="span">Start block 5 (4 Apr 2022)</summary>
 
-| Finish course in: | 4 weeks         | 8 weeks         |
-| ----------------- | --------------- | --------------- |
-| Level 1           | Fri 08 May 2022 | Thu 14 Apr 2022 |
-| Level 2           | Thu 14 May 2022 | Thu 28 Apr 2022 |
-| Level 3           | Thu 21 May 2022 | Tue 17 May 2022 |
-| Level 4           | Thu 28 May 2022 | Wed 25 May 2022 |
+| Finish course in: | 4 weeks            | 8 weeks             |
+| ----------------- | ------------------ | ------------------- |
+| Level 1           | Fri 08 May 2022    | Thu 14 Apr 2022     |
+| Level 2           | Thu 14 May 2022    | Thu 28 Apr 2022     |
+| Level 3           | Thu 21 May 2022    | Tue 17 May 2022     |
+| Level 4           | Thu 28 May 2022    | Wed 25 May 2022     |
+| Trial exam        |                    |                     |
+| Exam              | Thu 2 Jun 2022 (?) | Thu  2 Jun 2022 (?) |
 
 <!-- This block is one week shorter, which could be a problem is you're taking the course in 4 weeks. If this is the case you're allowed to skip Level 3. This will be the schedule:
 
@@ -126,19 +129,19 @@ The deadlines depend on the period in which you start the course (1, 2, 4, or 5)
 
 ### Exam
 
-The exam for this course is an oral exam of 10 to 15 minutes. We will discuss some parts of the code that you wrote yourself. The goal is to see if you properly understood your won solutions. You will not have to defend any design choices in this oral exam. So you will **not** get any question about how you code could be improved. You only have to show that you understood the design choices that you did make.
+The exam for this course is a programming exam. You'll make a number of smaller programming assignments in a controlled setting. This will take about 3 hours.
+
+- There is one exam for the courses Scientific Programming 1 and 2. If you decide to only do Scientific Programming 1, but not follow Scientific Programming 2, please contact us to plan the examination.
+- If you do Scientific Programming 1 in 8 weeks there is a practice exam at the end of block. It s highly recommended to take this exam.
+- There is an exam at the end of each bock (block 1, 2, 4, and 5).
+- **You can only participate in the exam if you finished al the assignments!** If you did not finish the final assignment before the exam date, you'll have to take the exam at the next occasion.
 
 The dates for the exams:
 
-| Date:      | Time:         |
-|------------|---------------|
-| Fri 1  Oct | 14:00 - 17:00 |
-| Tue 5  Oct | 14:00 - 17:00 |
-| Wed 27 Oct | 14:00 - 17:00 |
-| Fri 29 Oct | 14:00 - 17:00 |
-| Fri 26 Nov | 14:00 - 17:00 |
-| Mon 20 Dec | 14:00 - 17:00 |
-| Wed 22 Dec | 14:00 - 17:00 |
+| Date:        | Time:         |
+|--------------|---------------|
+| Wed 30 March | 9:00 - 12:00  |
+| Thu 2 June   | 9:00 - 12:00  |
 
 You need to book a slot for the exam. You can only do the exam after you handed in the last module. So, don't book a slot weeks ahead, but book a slot when you're quite sure that you'll finish before the exam date: [book a slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/jRxaOHY610CVqb9vPYA9vQ2)
 
