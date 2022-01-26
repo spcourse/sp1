@@ -100,6 +100,7 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 | Level 2           | Thu 17 Feb 2022 | Tue 01 Mar 2022 | Fri 25 Mar 2022     |
 | Level 3           | Wed 23 Feb 2022 | Mon 14 Mar 2022 | Thu 22 Apr 2022     |
 | Level 4           | Tue 01 Mar 2022 | Fri 25 Mar 2022 | Wed 20 May 2022     |
+| ----------------- | --------------- | --------------- | ------------------- |
 | Practice exam     |                 | Wed 30 Mar 2022 |                     |
 | Exam              | Wed 30 Mar 2022 | Thu  2 Jun 2022 | Thu  2 Jun 2022 (?) |
 
@@ -113,6 +114,7 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 | Level 2           | Thu 14 May 2022    | Thu 28 Apr 2022     |
 | Level 3           | Thu 21 May 2022    | Tue 17 May 2022     |
 | Level 4           | Thu 28 May 2022    | Wed 25 May 2022     |
+| ----------------- | ------------------ | ------------------- |
 | Practice exam     |                    |                     |
 | Exam              | Thu 2 Jun 2022 (?) | Thu  2 Jun 2022 (?) |
 
