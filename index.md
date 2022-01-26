@@ -8,11 +8,11 @@ Welcome to this programming course! In the weeks ahead, you'll use the Python pr
 
 Simon Pauw
 
-Martijn Stegeman
-
 Iris Luden
 
 Daan Moll
+
+Martijn Stegeman
 
 If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
 
@@ -143,12 +143,6 @@ The dates for the exams:
 |--------------|---------------|
 | Wed 30 March | 9:00 - 12:00  |
 | Thu 2 June   | 9:00 - 12:00  |
-
-You need to book a slot for the exam. You can only do the exam after you handed in the last module. So, don't book a slot weeks ahead, but book a slot when you're quite sure that you'll finish before the exam date: [book a slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/jRxaOHY610CVqb9vPYA9vQ2)
-
-If all slots are booked or you can really not make it to any of the available slots, please send me an email: <scientific@mprog.nl>.
-
-It can happen that your exam is a couple of weeks after you finished the last assignment. Please, feel free to already start with the next course (Scientific Programming 2)! But, do send an email to let me know.
 
 ## Feedback
 
