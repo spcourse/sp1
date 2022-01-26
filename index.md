@@ -137,12 +137,7 @@ The exam for this course is a programming exam. You'll make a number of smaller 
 - There is an exam at the end of each bock (block 1, 2, 4, and 5).
 - **You can only participate in the exam if you finished al the assignments!** If you did not finish the final assignment before the exam date, you'll have to take the exam at the next occasion.
 
-The dates for the exams:
-
-| Date:        | Time:         |
-|--------------|---------------|
-| Wed 30 March | 9:00 - 12:00  |
-| Thu 2 June   | 9:00 - 12:00  |
+The dates for the exams: **Wed 30 March**, **Thu 2 June**
 
 ## Feedback
 
