@@ -231,6 +231,8 @@ We have had lots of help from students as well as teaching assistants who tried 
 - Jelle van Assema (assignments and checkpy)
 - Tim Doolan (revisions)
 - Wouter Vrielink (revisions)
+- Natasja Wezel (videos, revisions)
+- Iris Luden (video)
 - Marianne de Heer Kloots (revisions and testing)
 - Maarten Inja (DNA assignment)
 - Quinten Post (translations)
@@ -238,6 +240,7 @@ We have had lots of help from students as well as teaching assistants who tried 
 - Huub Rutjes (films)
 - Vera Schild (test automation)
 - Luca Verhees (artwork "semester of code")
+
 
 
 We have used materials from the following sources:

@@ -45,7 +45,7 @@ The lab sessions are the most classic way of getting help with your programming.
 ## Ed
 We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
 
-* Sign-up (TODO). You need to be registered for this course in SIS for this link to work. If you have a problem with this lin, please send me an email: <scientific@mprog.nl>
-* Use the forum: (TODO)
+* Sign-up [Ed sign-on](https://canvas.uva.nl/courses/29103/external_tools/17562?display=borderless). You need to be registered for this course in SIS for this link to work. If you have a problem with this link, please send me an email: <scientific@mprog.nl>
+* Use the forum: [Ed forum](https://edstem.org/us/courses/20047/discussion/)
 * Please keep the language in English on the forum, as not all students following this course speak Dutch.
 * When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
