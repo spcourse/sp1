@@ -10,17 +10,12 @@ There are three ways to get help:
 
 ## Schedule helpdesk and lab sessions
 
-TBA
-
-<!--
-|       | Mon                    | Tue               | Wed                | Thu              | Fri                    |
-|:-----:|:----------------------:|:-----------------:|:------------------:|:----------------:|:----------------------:|
-| 9-11  | Helpdesk <br /> (online only) |                   |                    |                  | Helpdesk <br /> (online only) |
-|       |                        |                   |                    |                  |                        |
-| 15-17 | Lab <br /> (see Datanose)     | Helpdesk <br /> (A1.22)  |                    | Helpdesk <br /> (A1.22) |                        |
-| 17-19 |                        |                   | Lab <br /> (see Datanose) |                  |                        | -->
-
-
+|       | Mon                           | Tue                       | Wed                       | Thu                       | Fri                           |
+|:-----:|:-----------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-----------------------------:|
+| 9-11  |                               | Lab <br /> (see Datanose) |                           | Lab <br /> (see Datanose) | Helpdesk <br /> (online only) |
+|       |                               |                           |                           |                           |                               |
+|       |                               |                           |                           |                           |                               |
+| 15-17 | Lab <br /> (see Datanose)     | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
 ## Helpdesk
 
 * Help is both available on campus (at Science Park) and online.
@@ -36,6 +31,7 @@ The lab sessions are the most classic way of getting help with your programming.
 
 * There are lab sessions on campus (Monday afternoon and Wednesday evening).
 * All these sessions take place on Science Park. Check [Datanose](https://datanose.nl/#course[99564]) for precise locations.
+* If you plan to go to a lab session please reserve a spot using this link: [booking](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/DMs1BphJ8U6A--L7PtN9tQ2). This is just to make absolutely sure in Covid times that there is enough space for everyone. If you cannot book a slot, please send me an email: <scientific@mprog.nl>.
 <!-- * *Booking is not needed anymore. You can join these sessions whenever you want.* -->
 * This is a good place to work on your assignments and get immediate help.
 * This is the main place where you can meet other students.
