@@ -16,6 +16,7 @@ There are three ways to get help:
 |       |                               |                           |                           |                           |                               |
 |       |                               |                           |                           |                           |                               |
 | 15-17 | Lab <br /> (see Datanose)     | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
+
 ## Helpdesk
 
 * Help is both available on campus (at Science Park) and online.
