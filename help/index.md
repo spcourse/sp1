@@ -15,7 +15,7 @@ There are three ways to get help:
 | 9-11  |                               | Lab <br /> (see Datanose) |                           | Lab <br /> (see Datanose) | Helpdesk <br /> (online only) |
 |       |                               |                           |                           |                           |                               |
 |       |                               |                           |                           |                           |                               |
-| 15-17 | Lab <br /> (see Datanose)     | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
+| 15-17 | Helpdesk <br /> (A1.22)       | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
 
 ## Helpdesk
 
