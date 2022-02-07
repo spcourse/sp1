@@ -49,7 +49,7 @@ In this course you'll mostly work on assignments independently. But you're not o
 - Lab sessions: Only on campus. Work in a classroom together with other students
 - Forum: Only online.
 
-See for more info: [Help](/help)
+See for more info: [Help](/general-info/help)
 
 ## Passing the course
 
