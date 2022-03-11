@@ -1,16 +1,17 @@
 templates:
     1: &check
         type: pass
-        subgrades:
-            checkpy: integer
-            correct: boolean
         automatic:
             checkpy: correctness_score
         calculation: correct
         hide_calculated: false
 
 grades:
-    algorithms: *check
+    algorithms:
+        <<: *check
+        subgrades:
+            checkpy: integer
+            correct: boolean
 
     numbers:
         type: pass
@@ -21,13 +22,11 @@ grades:
         calculation: checkpy < 22 && 0 || -1
 
     text:
-        type: pass
+        <<: *check
         subgrades:
             checkpy: integer
             tweets: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: (checkpy < 13 || tweets == 0) && 0 || -1
+            correct: boolean
 
     integrals:
         type: pass
