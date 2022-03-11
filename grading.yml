@@ -14,12 +14,10 @@ grades:
             correct: boolean
 
     numbers:
-        type: pass
+        <<: *check
         subgrades:
             checkpy: integer
-        automatic:
-            checkpy: correctness_score
-        calculation: checkpy < 22 && 0 || -1
+            correct: boolean
 
     text:
         <<: *check
@@ -29,47 +27,38 @@ grades:
             correct: boolean
 
     integrals:
-        type: pass
+        <<: *check
         subgrades:
             checkpy: integer
             twitter: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: (checkpy < 19 || twitter == 0) && 0 || -1
+            correct: boolean
 
     movement:
-        type: pass
+        <<: *check
         subgrades:
             checkpy: integer
             spiral: boolean
             student: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: (checkpy < 11 || spiral == 0 || student == 0) && 0 || -1
+            correct: boolean
 
     monopoly-en:
-        type: pass
+        <<: *check
         subgrades:
             checkpy: integer
             spiral: boolean
             student: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: (checkpy < 8 || spiral == 0 || student == 0) && 0 || -1
+            correct: boolean
 
     bigdata-en:
-        type: pass
+        <<: *check
         subgrades:
             checkpy: integer
-        automatic:
-            checkpy: correctness_score
-        calculation: checkpy < 10 && 0 || -1
+            correct: boolean
 
     statistics-en:
-        type: pass
+        <<: *check
         subgrades:
-            passed: boolean
-        calculation: passed
+            correct: boolean
 
     exam:
         type: pass
