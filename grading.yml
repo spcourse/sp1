@@ -10,7 +10,7 @@ templates:
         hide_calculated: false
 
 grades:
-    algorithms: check
+    algorithms: *check
 
     numbers:
         type: pass
