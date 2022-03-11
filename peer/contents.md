@@ -1,4 +1,4 @@
-# Code review ()
+# Code review
 
 > Warning: do not start code review until you **and** your partner are completely done and you have **both submitted working version of the assignment** you'll discuss. If you haven't finished your program you should ask for help on that specifically and never look at someone else's code.
 

@@ -1,11 +1,16 @@
-grades:
-    algorithms:
+templates:
+    1: &check
         type: pass
         subgrades:
             checkpy: integer
+            correct: boolean
         automatic:
             checkpy: correctness_score
-        calculation: checkpy < 13 && 0 || -1
+        calculation: correct
+        hide_calculated: false
+
+grades:
+    algorithms: check
 
     numbers:
         type: pass
