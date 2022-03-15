@@ -102,7 +102,7 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 | Level 4           | Tue 01 Mar 2022 | Fri 25 Mar 2022 | Wed 20 May 2022     |
 | ----------------- | --------------- | --------------- | ------------------- |
 | Practice exam     |                 | Wed 30 Mar 2022 |                     |
-| Exam              | Wed 30 Mar 2022 | Thu  2 Jun 2022 | Thu  2 Jun 2022 (?) |
+| Exam              | Wed 30 Mar 2022 | Thu  2 Jun 2022 | Thu  2 Jun 2022     |
 
 </details>
 
@@ -110,13 +110,13 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 
 | Finish course in: | 4 weeks            | 8 weeks             |
 | ----------------- | ------------------ | ------------------- |
-| Level 1           | Fri 08 May 2022    | Thu 14 Apr 2022     |
-| Level 2           | Thu 14 May 2022    | Thu 28 Apr 2022     |
-| Level 3           | Thu 21 May 2022    | Tue 17 May 2022     |
-| Level 4           | Thu 28 May 2022    | Wed 25 May 2022     |
+| Level 1           | Fri 08 Apr 2022    | Thu 14 Apr 2022     |
+| Level 2           | Thu 14 Apr 2022    | Thu 28 Apr 2022     |
+| Level 3           | Thu 21 Apr 2022    | Tue 17 May 2022     |
+| Level 4           | Thu 28 Apr 2022    | Wed 25 May 2022     |
 | ----------------- | ------------------ | ------------------- |
 | Practice exam     |                    |                     |
-| Exam              | Thu 2 Jun 2022 (?) | Thu  2 Jun 2022 (?) |
+| Exam              | Thu 2 Jun 2022     | Thu  2 Jun 2022     |
 
 <!-- This block is one week shorter, which could be a problem is you're taking the course in 4 weeks. If this is the case you're allowed to skip Level 3. This will be the schedule:
 
