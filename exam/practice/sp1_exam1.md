@@ -1,6 +1,6 @@
 # Practice exam Scientific Programming 1
 
-This is a digital exam. The exam consists of 3 assignment in which you have to write a shor python program.
+This is a digital exam. The exam consists of 3 assignment in which you have to write a short python program.
 
 You're only evaluated based on the _correctness_ of your solutions, code design is not important. So, you don't have to worry about comments or style guides,,
 
@@ -12,7 +12,7 @@ Run checkpy:
 
     checkpy sp1_exam1
 
-# Regels
+# Rules
 
 - Create one file for all your solutions called `sp1_exam1.py`. This is the file you'll hand in at the end of your exam.
 - You're not allowed to use `numpy` oor any other external Python module.
