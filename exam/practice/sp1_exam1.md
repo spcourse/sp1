@@ -16,7 +16,7 @@ Run checkpy:
 
 - Create one file for all your solutions called `sp1_exam1.py`. This is the file you'll hand in at the end of your exam.
 - You're not allowed to use `numpy` oor any other external Python module.
-- You're only allowed to use the website progbg.mprog.nl. You're not allowed to use any other website.
+- You're only allowed to use the websites sp1.mprog.nl/sp2.mprog.nl. You're not allowed to use any other website.
 - You cannot get any help with programming during the exam.
 - Submit your solutions when you're done. **Check with the teacher present if you handed in your assignment correctly before leaving the exam venue.**
 
