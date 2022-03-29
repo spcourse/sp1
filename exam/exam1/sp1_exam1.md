@@ -20,4 +20,4 @@ Run checkpy:
 - You cannot get any help with programming during the exam.
 - Submit your solutions when you're done. **Check with the teacher present if you handed in your assignment correctly before leaving the exam venue.**
 
-###
+### To be published

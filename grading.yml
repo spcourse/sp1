@@ -63,7 +63,10 @@ grades:
     exam:
         type: pass
         subgrades:
+            checkpy: integer
             passed: boolean
+        automatic:
+            checkpy: correctness_score
         calculation: passed
         is_test: false
 
