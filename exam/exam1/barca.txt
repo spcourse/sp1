@@ -1,0 +1,114 @@
+29/08/11,Villarreal,won,5,0,home
+10/09/11,Sociedad,draw,2,2,away
+17/09/11,Osasuna,won,8,0,home
+21/09/11,Valencia,draw,2,2,away
+24/09/11,Ath Madrid,won,5,0,home
+02/10/11,Sp Gijon,won,1,0,away
+15/10/11,Santander,won,3,0,home
+22/10/11,Sevilla,draw,0,0,home
+25/10/11,Granada,won,1,0,away
+29/10/11,Mallorca,won,5,0,home
+06/11/11,Ath Bilbao,draw,2,2,away
+19/11/11,Zaragoza,won,4,0,home
+26/11/11,Getafe,lost,0,1,away
+29/11/11,Vallecano,won,4,0,home
+03/12/11,Levante,won,5,0,home
+10/12/11,Real Madrid,won,3,1,away
+08/01/12,Espanol,draw,1,1,away
+15/01/12,Betis,won,4,2,home
+22/01/12,Malaga,won,4,1,away
+28/01/12,Villarreal,draw,0,0,away
+04/02/12,Sociedad,won,2,1,home
+11/02/12,Osasuna,lost,2,3,away
+19/02/12,Valencia,won,5,1,home
+26/02/12,Ath Madrid,won,2,1,away
+03/03/12,Sp Gijon,won,3,1,home
+11/03/12,Santander,won,2,0,away
+17/03/12,Sevilla,won,2,0,away
+20/03/12,Granada,won,5,3,home
+24/03/12,Mallorca,won,2,0,away
+31/03/12,Ath Bilbao,won,2,0,home
+07/04/12,Zaragoza,won,4,1,away
+10/04/12,Getafe,won,4,0,home
+14/04/12,Levante,won,2,1,away
+21/04/12,Real Madrid,lost,1,2,home
+29/04/12,Vallecano,won,7,0,away
+02/05/12,Malaga,won,4,1,home
+05/05/12,Espanol,won,4,0,home
+12/05/12,Betis,draw,2,2,away
+19/08/12,Sociedad,won,5,1,home
+26/08/12,Osasuna,won,2,1,away
+02/09/12,Valencia,won,1,0,home
+15/09/12,Getafe,won,4,1,away
+22/09/12,Granada,won,2,0,home
+29/09/12,Sevilla,won,3,2,away
+07/10/12,Real Madrid,draw,2,2,home
+20/10/12,La Coruna,won,5,4,away
+27/10/12,Vallecano,won,5,0,away
+03/11/12,Celta,won,3,1,home
+11/11/12,Mallorca,won,4,2,away
+17/11/12,Zaragoza,won,3,1,home
+25/11/12,Levante,won,4,0,away
+01/12/12,Ath Bilbao,won,5,1,home
+09/12/12,Betis,won,2,1,away
+16/12/12,Ath Madrid,won,4,1,home
+22/12/12,Valladolid,won,3,1,away
+06/01/13,Espanol,won,4,0,home
+13/01/13,Malaga,won,3,1,away
+19/01/13,Sociedad,lost,2,3,away
+27/01/13,Osasuna,won,5,1,home
+03/02/13,Valencia,draw,1,1,away
+10/02/13,Getafe,won,6,1,home
+16/02/13,Granada,won,2,1,away
+23/02/13,Sevilla,won,2,1,home
+02/03/13,Real Madrid,lost,1,2,away
+09/03/13,La Coruna,won,2,0,home
+17/03/13,Vallecano,won,3,1,home
+30/03/13,Celta,draw,2,2,away
+06/04/13,Mallorca,won,5,0,home
+14/04/13,Zaragoza,won,3,0,away
+20/04/13,Levante,won,1,0,home
+27/04/13,Ath Bilbao,draw,2,2,away
+05/05/13,Betis,won,4,2,home
+12/05/13,Ath Madrid,won,2,1,away
+19/05/13,Valladolid,won,2,1,home
+26/05/13,Espanol,won,2,0,away
+01/06/13,Malaga,won,4,1,home
+18/08/13,Levante,won,7,0,home
+25/08/13,Malaga,won,1,0,away
+01/09/13,Valencia,won,3,2,away
+14/09/13,Sevilla,won,3,2,home
+21/09/13,Vallecano,won,4,0,away
+24/09/13,Sociedad,won,4,1,home
+28/09/13,Almeria,won,2,0,away
+05/10/13,Valladolid,won,4,1,home
+19/10/13,Osasuna,draw,0,0,away
+26/10/13,Real Madrid,won,2,1,home
+29/10/13,Celta,won,3,0,away
+01/11/13,Espanol,won,1,0,home
+10/11/13,Betis,won,4,1,away
+23/11/13,Granada,won,4,0,home
+01/12/13,Ath Bilbao,lost,0,1,away
+14/12/13,Villarreal,won,2,1,home
+22/12/13,Getafe,won,5,2,away
+05/01/14,Elche,won,4,0,home
+11/01/14,Ath Madrid,draw,0,0,away
+19/01/14,Levante,draw,1,1,away
+26/01/14,Malaga,won,3,0,home
+01/02/14,Valencia,lost,2,3,home
+09/02/14,Sevilla,won,4,1,away
+15/02/14,Vallecano,won,6,0,home
+22/02/14,Sociedad,lost,1,3,away
+02/03/14,Almeria,won,4,1,home
+08/03/14,Valladolid,lost,0,1,away
+16/03/14,Osasuna,won,7,0,home
+23/03/14,Real Madrid,won,4,3,away
+26/03/14,Celta,won,3,0,home
+29/03/14,Espanol,won,1,0,away
+05/04/14,Betis,won,3,1,home
+12/04/14,Granada,lost,0,1,away
+20/04/14,Ath Bilbao,won,2,1,home
+27/04/14,Villarreal,won,3,2,away
+03/05/14,Getafe,draw,2,2,home
+11/05/14,Elche,draw,0,0,away
+17/05/14,Ath Madrid,draw,1,1,home
