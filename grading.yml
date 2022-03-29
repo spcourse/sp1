@@ -65,7 +65,7 @@ grades:
         subgrades:
             passed: boolean
         calculation: passed
-        is_test: true
+        is_test: false
 
 assignments:
     show_progress: true
