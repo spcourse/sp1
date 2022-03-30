@@ -60,7 +60,7 @@ grades:
         subgrades:
             correct: boolean
 
-    exam:
+    exam1:
         type: pass
         subgrades:
             checkpy: integer
@@ -68,7 +68,7 @@ grades:
         automatic:
             checkpy: correctness_score
         calculation: passed
-        is_test: false
+        hide_calculated: true
 
 assignments:
     show_progress: true
@@ -84,14 +84,14 @@ assignments:
     required: true
 
 
-exam:
+exam1:
     show_progress: true
     submits:
-        exam: 1
+        exam1: 1
     required: true
 
 calculation:
     finalgrade:
-        exam: 1
+        exam1: 1
     dummy:
         assignments: 1
