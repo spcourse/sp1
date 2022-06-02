@@ -1,6 +1,6 @@
 # Exam Scientific Programming 1
 
-Date: March 30 2022
+Date: June 2 2022
 
 This is a digital exam. The exam consists of 3 assignments in which you have to write a short python program.
 
