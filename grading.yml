@@ -70,6 +70,16 @@ grades:
         calculation: passed
         hide_calculated: true
 
+    exam2:
+        type: pass
+        subgrades:
+            checkpy: integer
+            passed: boolean
+        automatic:
+            checkpy: correctness_score
+        calculation: passed
+        hide_calculated: true
+
 assignments:
     show_progress: true
     submits:
@@ -90,8 +100,17 @@ exam1:
         exam1: 1
     required: true
 
+exam2:
+    show_progress: true
+    submits:
+        exam2: 1
+    required: true
+
+
 calculation:
     finalgrade:
         exam1: 1
+    finalgrade2:
+        exam2: 1
     dummy:
         assignments: 1
