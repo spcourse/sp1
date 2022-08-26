@@ -10,30 +10,28 @@ bigdata:
 integrals:
     remote: https://github.com/spcourse/integrals.git
     branch: main
-monopoly:
-    remote: https://github.com/spcourse/monopoly.git
-    branch: main
+
 movement:
     remote: https://github.com/spcourse/movement.git
     branch: main
+
 numbers:
     remote: https://github.com/spcourse/numbers.git
     branch: main
 plot:
     remote: https://github.com/spcourse/plot.git
     branch: main
-populations:
-    remote: https://github.com/spcourse/populations.git
-    branch: main
-statistics:
-    remote: https://github.com/spcourse/statistics.git
-    branch: main
+# statistics:
+#     remote: https://github.com/spcourse/statistics.git
+#     branch: main
 text:
     remote: https://github.com/spcourse/text.git
     branch: main
 python:
     remote: https://github.com/spcourse/sp1-python.git
     branch: main
+
+
 general-info:
     remote: https://github.com/spcourse/general-info.git
     branch: main

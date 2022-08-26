@@ -131,23 +131,20 @@ Text processing (level 2):
     Submit:
         Submit your solutions: /submit/text
 
-Monopoly (level 3):
+Big data (level 3):
     Share your thoughts on the course: /evaluation
-    Animating in Python:
-        Learn how to create animated graphics [theory]: /animation/en/explanation
-        A spiraling dot [assignment]: /animation/en/dot
-        Explore the movements of a buzzed student [assignment]: /animation/en/student
-    Monopoly:
-        Introduction: /monopoly/en/
-        Learn about debugging simulations [theory]: /python/en/debugging
-        Moving around the board [assignment]: /monopoly/en/moving-around
-        Using starting funds and buying stuff [assignment]: /monopoly/en/money
-        Add a player and restore the balance [assignment]: /monopoly/en/two-player
-    Submit:
-        Submit your solutions: /submit/monopoly
+    Introduction: /bigdata/en/
 
-Physics of movement (level 3):
-    Share your thoughts on the course: /evaluation
+    Big data:
+        Learn to analyse and process a data set [theory]: /python/en/files
+        Process sensor data of a car ride [assignment]: /bigdata/en/car
+        Learn more about functions [theory]: /python/en/functions3
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
+
+    Submit:
+        Submit your solutions: /submit/bigdata
+
+Physics of movement (BONUS):
     Animating in Python:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         A spiraling dot [assignment]: /animation/en/dot
@@ -163,42 +160,9 @@ Physics of movement (level 3):
         What happens when you fall through the earth [assignment]: /movement/en/freefall
     Submit:
         Submit your solutions: /submit/movement
-#
-# # Population dynamics (level 3):
-# #   ".":
-# #     - animation
-# #     - populations
-# #   Submit:
-# #     Submit your solutions: /submit/populations
-#
-Big data (level 4):
-    Introduction: /bigdata/en/
-
-    Big data:
-        Learn to analyse and process a data set [theory]: /python/en/files
-        Process sensor data of a car ride [assignment]: /bigdata/en/car
-        Learn more about functions [theory]: /python/en/functions3
-        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-
-    Submit:
-        Submit your solutions: /submit/bigdata
 
 Practice Exam:
     Practice exam: /exam/practice
-
-Exam:
-    Exam: /exam/exam
 #
-# Statistics (level 4):
-#     Introduction: /statistics/en
-#
-#     Statistics:
-#         Learn more about functions [theory]: /python/en/functions3
-#         Study the length of Danish women [assignment]: /statistics/en/distributions
-#         Characteristics of samples [assignment]: /statistics/en/sampling
-#         Fit a simple model to the data [assignment]: /statistics/en/manual
-#         Fitting a more complex more in Python [assignment]: /statistics/en/fit
-#         Generate fictional data-sets and learn how to test hypotheses [assignment]: /statistics/en/hypotheses
-#
-#     Submit:
-#         Submit your solutions: /submit/statistics
+# Exam:
+#     Exam: /exam/exam
