@@ -1,94 +1,49 @@
 templates:
     1: &check
+        hide_calculated: true
+        type: integer
+        subgrades:
+            checkpy: integer
+            completely_correct: boolean
+            mostly_correct: boolean
+            insufficient: boolean
+        automatic:
+            checkpy: (mostly_correct && 2) || (completely_correct && 3)
+        calculation: correct
+    2: &testt
         type: pass
+        subgrades:
+            checkpy: integer
+            passed: boolean
         automatic:
             checkpy: correctness_score
-        calculation: correct
-        hide_calculated: false
+        calculation: passed
+        hide_calculated: true
 
 grades:
     algorithms:
         <<: *check
-        subgrades:
-            checkpy: integer
-            correct: boolean
 
     numbers:
         <<: *check
-        subgrades:
-            checkpy: integer
-            correct: boolean
 
     text:
         <<: *check
-        subgrades:
-            checkpy: integer
-            tweets: boolean
-            correct: boolean
 
     integrals:
         <<: *check
-        subgrades:
-            checkpy: integer
-            twitter: boolean
-            correct: boolean
-
-    movement:
-        <<: *check
-        subgrades:
-            checkpy: integer
-            spiral: boolean
-            student: boolean
-            correct: boolean
-
-    monopoly-en:
-        <<: *check
-        subgrades:
-            checkpy: integer
-            spiral: boolean
-            student: boolean
-            correct: boolean
 
     bigdata-en:
         <<: *check
-        subgrades:
-            checkpy: integer
-            correct: boolean
 
     statistics-en:
         <<: *check
-        subgrades:
-            correct: boolean
 
     exam1:
-        type: pass
-        subgrades:
-            checkpy: integer
-            passed: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: passed
-        hide_calculated: true
+        <<: *testt
 
     exam2:
-        type: pass
-        subgrades:
-            checkpy: integer
-            passed: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: passed
-        hide_calculated: true
-
-    exam3:
-        type: pass
-        subgrades:
-            checkpy: integer
-            passed: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: passed
-        hide_calculated: true
+        <<: *testt
 
 assignments:
     show_progress: true
@@ -116,18 +71,8 @@ exam2:
         exam2: 1
     required: true
 
-exam3:
-    show_progress: true
-    submits:
-        exam3: 1
-    required: true
-
 calculation:
     finalgrade:
         exam1: 1
     finalgrade2:
         exam2: 1
-    finalgrade3:
-        exam3: 1
-    dummy:
-        assignments: 1
