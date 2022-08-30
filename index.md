@@ -1,18 +1,13 @@
 # Scientific Programming 1
 
-## Syllabus<br><small>Spring 2022</small>
+## Syllabus<br><small>Fall 2022</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
 ## Staff
 
-Simon Pauw
-
-Iris Luden
-
-Daan Moll
-
-Martijn Stegeman
+Teachers: Iris Luden, Milena Kapralova
+Coordinator: Simon Pauw
 
 If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
 
@@ -51,18 +46,39 @@ In this course you'll mostly work on assignments independently. But you're not o
 
 See for more info: [Help](/general-info/help)
 
-## Passing the course
+## Grading/Passing the course
+**Read this section very carefully.** The course is very flexible in setup, but in order to make this possible, we need to provide some clear constraints.
 
-The course's final result will be "pass" or "fail", which means that **no grades are assigned**. You pass the course by:
+### Final grade
+The course's final result will be "pass" or "fail", which means that **no grades are assigned**. You pass by:
 
-1. submitting sufficient coursework
-2. passing the exam
+1. submitting sufficient coursework (as detailed below)
+2. passing the final exam
 
-### Coursework
+### Coursework (modules)
+For each module you will one of the following grades:
 
-Sufficient coursework means submitting a working solution to each problem from at least four modules of your own choosing, keeping in mind that you need to finish one module per level.
+* completely correct
+* mostly correct
+* insufficient
+
+In principle we expect that everything you hand in is *completely correct*. However, it happens easily to miss a detail, so to relax the requirements a bit: you're allowed to have at most 2 *mostly correct* grades.
 
 You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
+
+### Final exam
+The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
+
+You can participate in the final exam if you're done with the coursework, meaning:
+
+* The first two modules are *graded* and at least *mostly correct*.
+* The last module is handed in (with reasonable expectation to be correct).
+
+If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
+
+You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
+
+## Dates and deadlines
 
 ### Deadlines
 
@@ -70,81 +86,33 @@ Deadlines for each level are listed below. The deadlines are our recommendation.
 
 The deadlines depend on the period in which you start the course (4, or 5) and at what pace you're following it (4, 8 or 16 weeks).
 
-<!-- <details markdown="1"><summary  markdown="span">Start block 1 (6 Sept 2021)</summary>
-
-| Finish course in: | 4 weeks          | 8 weeks          | 16 weeks         |  
-| ----------------- | ---------------- | ---------------- | ---------------- |
-| Level 1           | Fri 10 Sept 2021 | Wed 15 Sept 2021 | Fri 24 Sept 2021 |
-| Level 2           | Thu 16 Sept 2021 | Tue 28 Sept 2021 | Fri 15 Okt  2021 |
-| Level 3           | Wed 22 Sept 2021 | Mon 11 Okt  2021 | Fri 19 Nov  2021 |
-| Level 4           | Tue 28 Sept 2021 | Fri 22 Okt  2021 | Fri 10 Dec  2021 |
+| Finish course in:      | 4 weeks (Sept 05 - Sept 26) | 8 weeks (Sept 5 - Oct 28)  | 16 weeks (Sept 5 - Dec 23)|
+|------------------------|-------------------------|------------------|-----------------|
+| Level 1                | Mon 12 Sept          | Fri 16 Sept  | Fri 30 Sept  |
+| Level 2                | Mon 19 Sept          | Fri 30 Sept  | Fri 04 Nov  |
+| Level 3                | Mon 26 Sept          | Fri 14 Oct   | Fri 09 Dec  |
 
 </details>
 
-<details markdown="1"><summary  markdown="span">Start block 2 (1 Nov 2021)</summary>
+<details markdown="1"><summary  markdown="span">Start block 2 (Oct 31 - Dec 23)</summary>
 
-| Finish course in: | 4 weeks         | 8 weeks         |
-| ----------------- | --------------- | --------------- |
-| Level 1           | Fri 5  Nov 2021 | Wed 10 Nov 2021 |
-| Level 2           | Thu 11 Nov 2021 | Tue 23 Nov 2021 |
-| Level 3           | Wed 17 Nov 2021 | Mon 6  Dec 2021 |
-| Level 4           | Tue 23 Nov 2021 | Fri 17 Dec 2021 |
-
-</details> -->
-
-<details markdown="1"><summary  markdown="span">Start block 4 (7 Feb 2022)</summary>
-
-| Finish course in: | 4 weeks         | 8 weeks         | 16 weeks            |
-| ----------------- | --------------- | --------------- | ------------------- |
-| Level 1           | Fri 11 Feb 2022 | Wed 16 Feb 2022 | Tue 01 Mar 2022     |
-| Level 2           | Thu 17 Feb 2022 | Tue 01 Mar 2022 | Fri 25 Mar 2022     |
-| Level 3           | Wed 23 Feb 2022 | Mon 14 Mar 2022 | Thu 22 Apr 2022     |
-| Level 4           | Tue 01 Mar 2022 | Fri 25 Mar 2022 | Wed 20 May 2022     |
-| ----------------- | --------------- | --------------- | ------------------- |
-| Practice exam     |                 | Wed 30 Mar 2022 |                     |
-| Exam              | Wed 30 Mar 2022 | Thu  2 Jun 2022 | Thu  2 Jun 2022     |
+| Finish course in: | 4 weeks (Oct 31 - Nov 21) | 8 weeks (Oct 31 - Dec 23) |
+|-------------------|-----------------------|-----------------|
+| Level 1           | Mon 07 Nov        | Fri 11 Nov  |
+| Level 2           | Mon 14 Nov        | Fri 25 Nov  |
+| Level 3           | Mon 21 Nov      | Fri 09 Dec  |
 
 </details>
 
-<details markdown="1"><summary  markdown="span">Start block 5 (4 Apr 2022)</summary>
+### Exam dates
+The dates for the exams:
 
-| Finish course in: | 4 weeks            | 8 weeks             |
-| ----------------- | ------------------ | ------------------- |
-| Level 1           | Fri 08 Apr 2022    | Thu 14 Apr 2022     |
-| Level 2           | Thu 14 Apr 2022    | Thu 28 Apr 2022     |
-| Level 3           | Thu 21 Apr 2022    | Tue 17 May 2022     |
-| Level 4           | Thu 28 Apr 2022    | Wed 25 May 2022     |
-| ----------------- | ------------------ | ------------------- |
-| Practice exam     |                    |                     |
-| Exam              | Thu 2 Jun 2022     | Thu  2 Jun 2022     |
-
-<!-- This block is one week shorter, which could be a problem is you're taking the course in 4 weeks. If this is the case you're allowed to skip Level 3. This will be the schedule:
-
-| Finish course in: | 4 weeks         |
-| ----------------- | --------------- |
-| Level 1           | Fri 08 Apr 2022 |
-| Level 2           | Thu 14 Apr 2022 |
-| Level 4           | Fri 22 Apr 2022 | -->
-
-</details>
-
-
-
-### Exam
-
-The exam for this course is a programming exam. You'll make a number of smaller programming assignments in a controlled setting. This will take about 3 hours.
-
-- There is one exam for the courses Scientific Programming 1 and 2. If you decide to only do Scientific Programming 1, but not follow Scientific Programming 2, please contact us to plan the examination.
-- If you do Scientific Programming 1 in 8 weeks there is a practice exam at the end of block. It s highly recommended to take this exam.
-- There is an exam at the end of each bock (block 1, 2, 4, and 5).
-- **You can only participate in the exam if you finished al the assignments!** If you did not finish the final assignment before the exam date, you'll have to take the exam at the next occasion.
-
-The dates for the exams: **Wed 30 March**, **Thu 2 June**
+* Wed Oct 26, 13:00-16:00
+* Tue Dec 20, 13:00-16:00
 
 ## Feedback
 
-Programming is like writing. You can gradually learn to write programs that are more beautiful, functional, short, elegant or simple. To learn this, you'll need some feedback, and it's mostly up to you to get it. You can show your programs in class to fellow students or your teacher; you can post a fragment of your code on Ed and ask for advice on improving; or you can send the staff an e-mail and we'll have a look (this might take a while though!).
-
+Programming is like writing. You can gradually learn to write programs that are more beautiful, functional, short, elegant or simple. To learn this, you'll need some feedback, and it's mostly up to you to get it. You can show your programs in class to fellow students or your teacher; you can post a fragment of your code on Stack Overflow and ask for advice on improving; or you can send the staff an e-mail and we'll have a look (this might take a while though!).
 ## Books
 
 No books are required for this course. Embedded in some of the modules are parts of the book *Think Python* by Allen Downey. If you'd like, you can read the remainder of the book on [its website](https://greenteapress.com/wp/think-python/).
