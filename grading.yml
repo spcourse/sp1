@@ -8,8 +8,8 @@ templates:
             mostly_correct: boolean
             insufficient: boolean
         automatic:
-            checkpy: (mostly_correct && 2) || (completely_correct && 3)
-        calculation: correct
+            checkpy: correctness_score
+        calculation: (mostly_correct && 2) || (completely_correct && 3)
     2: &testt
         type: pass
         subgrades:
