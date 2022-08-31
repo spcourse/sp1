@@ -2,7 +2,7 @@
 
 ## Syllabus<br><small>Fall 2022</small>
 
-Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
+Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises three modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
 ## Staff
 
