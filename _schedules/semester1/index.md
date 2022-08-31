@@ -110,8 +110,8 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 ### Exam dates
 The dates for the exams:
 
-* Wed Oct 26, 13:00-16:00
-* Tue Dec 20, 13:00-16:00
+* Mon Oct 24, 9:00-12:00
+* Tue Dec 20, 9:00-12:00
 
 ## Feedback
 
