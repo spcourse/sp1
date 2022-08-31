@@ -37,9 +37,6 @@ Algorithms (level 1):
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
 
-    Submit:
-        Submit your solutions: /submit/algorithms
-
 Number theory (level 1):
     Introduction: /numbers/en/
 
@@ -80,9 +77,6 @@ Number theory (level 1):
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
 
-    Submit:
-        Submit your solutions: /submit/numbers
-
 Numerical integration (level 2):
     Introduction: /integrals/en/
     Roots:
@@ -106,8 +100,6 @@ Numerical integration (level 2):
         Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
         Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
         Calculate the surface of an odd shape [assignment]: /integrals/en/monte-carlo/egg
-    Submit:
-        Submit your solutions: /submit/integrals
 
 Text processing (level 2):
     Introduction: /text/en/
@@ -128,8 +120,6 @@ Text processing (level 2):
         Perform a sentiment analysis [assignment]: /text/en/sentiment
         Present an overview of Twitter sentiment [assignment]: /text/en/tweets
 
-    Submit:
-        Submit your solutions: /submit/text
 
 Big data (level 3):
     Share your thoughts on the course: /evaluation
@@ -140,9 +130,6 @@ Big data (level 3):
         Process sensor data of a car ride [assignment]: /bigdata/en/car
         Learn more about functions [theory]: /python/en/functions3
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-
-    Submit:
-        Submit your solutions: /submit/bigdata
 
 Physics of movement (BONUS):
     Animating in Python:
@@ -158,11 +145,3 @@ Physics of movement (BONUS):
     The ultimate freefall:
         Learn more about debugging simulations [theory]: /python/en/debugging
         What happens when you fall through the earth [assignment]: /movement/en/freefall
-    Submit:
-        Submit your solutions: /submit/movement
-
-Practice Exam:
-    Practice exam: /exam/practice
-#
-# Exam:
-#     Exam: /exam/exam
