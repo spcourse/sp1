@@ -7,6 +7,7 @@ Welcome to this programming course! In the weeks ahead, you'll use the Python pr
 ## Staff
 
 Teachers: Iris Luden, Milena Kapralova
+
 Coordinator: Simon Pauw
 
 If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
@@ -36,84 +37,6 @@ This really is a beginner's course. We will teach you the basics of Python progr
 
 When you have finished one modules for each level, you might take up Scientific Programming 2, in which we will teach you most of the remaining parts of Python, enabling you to read and contribute to other's projects, or start your own!
 
-## Asking questions
-
-In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
-
-- Helpdesk (Programmeerbalie): Online or on campus. Book a slot to get help
-- Lab sessions: Only on campus. Work in a classroom together with other students
-- Forum: Only online.
-
-See for more info: [Help](/general-info/help)
-
-## Grading/Passing the course
-**Read this section very carefully.** The course is very flexible in setup, but in order to make this possible, we need to provide some clear constraints.
-
-### Final grade
-The course's final result will be "pass" or "fail", which means that **no grades are assigned**. You pass by:
-
-1. submitting sufficient coursework (as detailed below)
-2. passing the final exam
-
-### Coursework (modules)
-For each module you will one of the following grades:
-
-* completely correct
-* mostly correct
-* insufficient
-
-In principle we expect that everything you hand in is *completely correct*. However, it happens easily to miss a detail, so to relax the requirements a bit: you're allowed to have at most 2 *mostly correct* grades.
-
-You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
-
-### Final exam
-The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
-
-You can participate in the final exam if you're done with the coursework, meaning:
-
-* The first two modules are *graded* and at least *mostly correct*.
-* The last module is handed in (with reasonable expectation to be correct).
-
-If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
-
-You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
-
-## Dates and deadlines
-
-### Deadlines
-
-## TODO
-<!-- Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally behind please contact us (<scientific@mprog.nl>).
-
-The deadlines depend on the period in which you start the course (4, or 5) and at what pace you're following it (4, 8 or 16 weeks).
-
-| Finish course in:      | 4 weeks (Sept 05 - Sept 26) | 8 weeks (Sept 5 - Oct 28)  | 16 weeks (Sept 5 - Dec 23)|
-|------------------------|-------------------------|------------------|-----------------|
-| Level 1                | Mon 12 Sept          | Fri 16 Sept  | Fri 30 Sept  |
-| Level 2                | Mon 19 Sept          | Fri 30 Sept  | Fri 04 Nov  |
-| Level 3                | Mon 26 Sept          | Fri 14 Oct   | Fri 09 Dec  |
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Start block 2 (Oct 31 - Dec 23)</summary>
-
-| Finish course in: | 4 weeks (Oct 31 - Nov 21) | 8 weeks (Oct 31 - Dec 23) |
-|-------------------|-----------------------|-----------------|
-| Level 1           | Mon 07 Nov        | Fri 11 Nov  |
-| Level 2           | Mon 14 Nov        | Fri 25 Nov  |
-| Level 3           | Mon 21 Nov      | Fri 09 Dec  |
-
-</details>
-
-### Exam dates
-The dates for the exams:
-
-* Wed Oct 26, 13:00-16:00
-* Tue Dec 20, 13:00-16:00 -->
-
-## Feedback
-
-Programming is like writing. You can gradually learn to write programs that are more beautiful, functional, short, elegant or simple. To learn this, you'll need some feedback, and it's mostly up to you to get it. You can show your programs in class to fellow students or your teacher; you can post a fragment of your code on Stack Overflow and ask for advice on improving; or you can send the staff an e-mail and we'll have a look (this might take a while though!).
 ## Books
 
 No books are required for this course. Embedded in some of the modules are parts of the book *Think Python* by Allen Downey. If you'd like, you can read the remainder of the book on [its website](https://greenteapress.com/wp/think-python/).

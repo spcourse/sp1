@@ -7,6 +7,7 @@ Welcome to this programming course! In the weeks ahead, you'll use the Python pr
 ## Staff
 
 Teachers: Iris Luden, Milena Kapralova
+
 Coordinator: Simon Pauw
 
 If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
@@ -82,34 +83,7 @@ You need to make sure that you leave enough time for grading for the first two m
 
 ### Deadlines
 
-## TODO
-<!-- Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally behind please contact us (<scientific@mprog.nl>).
-
-The deadlines depend on the period in which you start the course (4, or 5) and at what pace you're following it (4, 8 or 16 weeks).
-
-| Finish course in:      | 4 weeks (Sept 05 - Sept 26) | 8 weeks (Sept 5 - Oct 28)  | 16 weeks (Sept 5 - Dec 23)|
-|------------------------|-------------------------|------------------|-----------------|
-| Level 1                | Mon 12 Sept          | Fri 16 Sept  | Fri 30 Sept  |
-| Level 2                | Mon 19 Sept          | Fri 30 Sept  | Fri 04 Nov  |
-| Level 3                | Mon 26 Sept          | Fri 14 Oct   | Fri 09 Dec  |
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Start block 2 (Oct 31 - Dec 23)</summary>
-
-| Finish course in: | 4 weeks (Oct 31 - Nov 21) | 8 weeks (Oct 31 - Dec 23) |
-|-------------------|-----------------------|-----------------|
-| Level 1           | Mon 07 Nov        | Fri 11 Nov  |
-| Level 2           | Mon 14 Nov        | Fri 25 Nov  |
-| Level 3           | Mon 21 Nov      | Fri 09 Dec  |
-
-</details>
-
-### Exam dates
-The dates for the exams:
-
-* Wed Oct 26, 13:00-16:00
-* Tue Dec 20, 13:00-16:00 -->
+### TODO
 
 ## Feedback
 
