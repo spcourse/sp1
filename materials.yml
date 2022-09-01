@@ -1,9 +1,7 @@
 algorithms:
     remote: https://github.com/spcourse/algorithms.git
     branch: main
-animation:
-    remote: https://github.com/spcourse/animation.git
-    branch: main
+
 bigdata:
     remote: https://github.com/spcourse/bigdata.git
     branch: main
