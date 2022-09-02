@@ -111,7 +111,13 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 The dates for the exams:
 
 * Mon Oct 24, 9:00-12:00
+    * If you want to participate in this exam, the *ultimate deadline for submitting level 1 and 2* is two weeks before the exam: *Mon Oct 10*.
+    * Both level 1 and 2 need to be graded and be at least "mostly correct" on the day of the exam: *Mon Oct 24*.
+    * Level 3 needs to be submitted (with a reasonable expectation that it is correct) on the day of the exam: *Mon Oct 24*.
 * Tue Dec 20, 9:00-12:00
+    * If you want to participate in this exam, the *ultimate deadline for submitting level 1 and 2* is two weeks before the exam: *Tue Dec 4*.
+    * Both level 1 and 2 need to be graded and be at least "mostly correct" on the day of the exam: *Mon Oct 24*.
+    * Level 3 needs to be submitted (with a reasonable expectation that it is correct) on the day of the exam: *Mon Oct 24*.
 
 ## Feedback
 
