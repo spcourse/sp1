@@ -3,18 +3,18 @@ templates:
         hide_calculated: true
         type: integer
         subgrades:
-            checkpy: integer
             completely_correct: boolean
             mostly_correct: boolean
             insufficient: boolean
+            checkpy: integer
         automatic:
             checkpy: correctness_score
         calculation: "[insufficient == -1 && 0 || -10, mostly_correct == -1 && 2 || -10, completely_correct == -1 && 3 || -10].max"
     2: &testt
         type: pass
         subgrades:
-            checkpy: integer
             passed: boolean
+            checkpy: integer
         automatic:
             checkpy: correctness_score
         calculation: passed
