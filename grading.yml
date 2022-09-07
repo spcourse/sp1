@@ -53,6 +53,7 @@ assignments:
         text: 1
         integrals: 1
         bigdata-en: 1
+        movement: 0
     required: true
 
 
