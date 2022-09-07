@@ -39,6 +39,9 @@ grades:
     statistics-en:
         <<: *check
 
+    movement:
+        <<: *check
+
     exam1:
         <<: *testt
 
