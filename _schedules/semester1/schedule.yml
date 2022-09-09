@@ -33,6 +33,7 @@ Algorithms (level 1):
     Plotting graphs:
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
@@ -69,6 +70,7 @@ Number theory (level 1):
         Look for prime numbers [assignment]: /numbers/en/primes
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
         Make lists of prime numbers [assignment]: /numbers/en/primelist
 
     Number theory:
