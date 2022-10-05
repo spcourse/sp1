@@ -22,6 +22,9 @@ plot:
 # statistics:
 #     remote: https://github.com/spcourse/statistics.git
 #     branch: main
+animation:
+    remote: https://github.com/spcourse/animation.git
+    branch: main
 text:
     remote: https://github.com/spcourse/text.git
     branch: main
