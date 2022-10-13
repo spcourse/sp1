@@ -129,6 +129,7 @@ Deadlines for each level are listed below. The deadlines are our recommendation.
 | Exam date         | Tue 20 Dec (9:00 - 12:00) |
 
 There is some flexibility as to the deadline, but bear in mind:
+
 * If you want to participate in this exam, the *ultimate deadline for submitting level 1 and 2* is two weeks before the exam: *Tue Dec 4*.
 * Both level 1 and 2 need to be graded and be at least "mostly correct" on the day of the exam: *Mon Oct 24*.
 * Level 3 needs to be submitted (with a reasonable expectation that it is correct) on the day of the exam: *Mon Oct 24*.
