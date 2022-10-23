@@ -164,8 +164,8 @@ Physics of movement (BONUS):
     Submit:
         Submit your solutions: /submit/movement
 
-# Practice Exam:
-#     Practice exam: /exam/practice
-#
-# Exam:
-#     Exam: /exam/exam
+Practice Exam:
+    Practice exam: /exam/practice
+
+Exam:
+    Exam: /exam/exam
