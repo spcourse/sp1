@@ -2,7 +2,7 @@
 
 Date: October 24 2022
 
-This is a digital exam. The exam consists of 3 assignment in which you have to write a short python program.
+This is a digital exam. The exam consists of 4 assignment in which you have to write a short python program.
 
 You're only evaluated based on the _correctness_ of your solutions, code design is not important. So, you don't have to worry about comments or style guides.
 
