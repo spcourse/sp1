@@ -51,15 +51,17 @@ There are three ways to get help:
 | Week               | Mon                                | Tue                                    | Wed                                | Thu                               | Fri                               |
 | ------------------ | ---------------------------------- | -------------------------------------- | ---------------------------------- | --------------------------------- | --------------------------------- |
 | 44 (31/10 - 4/11)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**D1.111**) |
-| 45 (7/11 - 11/11)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.16**)       | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (G2.13)      |
-| 46 (14/11 - 18/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (G2.13)      |
-| 47 (21/11 - 25/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (G2.13)      |
+| 45 (7/11 - 11/11)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.16**)       | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G2.13**)  |
+| 46 (14/11 - 18/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G2.13**)  |
+| 47 (21/11 - 25/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G2.13**)  |
 | 48 (28/11 - 2/12)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G3.13**)  |
 | 49 (5/12 - 9/12)   | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.06**)  |
 | 50 (12/12 - 16/12) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**C0.110**) |
-| 51 (19/12 - 23/12) |                                    | 9:00-12:00<br>Exam (SP A1.16)          |                                    |                                   |
+| 51 (19/12 - 23/12) |                                    | 9:00-12:00<br>Exam (**A1.16**)         |                                    |                                   |                                   |
 
+All lab sessions take place on the Science Park campus, for which a map is included below.
 
+![](map.png)
 
 ### Helpdesk
 
