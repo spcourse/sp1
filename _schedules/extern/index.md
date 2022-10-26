@@ -42,7 +42,7 @@ There are three ways to get help:
 
 **Helpdesk (Programmeerbalie)** (online/on campus): You can book a slot to get to talk directly to an assistant. [Helpdesk info](/general-info/help#helpdesk)
 
-**Lab sessions** (on campus): You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments. [Lab info](/general-info/help#lab-sessions)
+**Lab sessions** (on campus): You'll work on the Science Park campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments. [Lab info](/general-info/help#lab-sessions)
 
 **Forum** (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff. [Ed info](/general-info/help#ed)
 
@@ -58,6 +58,8 @@ There are three ways to get help:
 | 49 (5/12 - 9/12)   | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.06**)  |
 | 50 (12/12 - 16/12) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**C0.110**) |
 | 51 (19/12 - 23/12) |                                    | 9:00-12:00<br>Exam (SP A1.16)          |                                    |                                   |
+
+
 
 ### Helpdesk
 
