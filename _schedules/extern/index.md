@@ -56,7 +56,7 @@ There are three ways to get help:
 | 47 (21/11 - 25/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (G2.13)      |
 | 48 (28/11 - 2/12)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G3.13**)  |
 | 49 (5/12 - 9/12)   | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.06**)  |
-| 50 (12/12 - 16/12) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**C0.110**) |
+| 50 (12/12 - 16/12) | **no helpdesk** | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**C0.110**) |
 | 51 (19/12 - 23/12) |                                    | 9:00-12:00<br>Exam (SP A1.16)          |                                    |                                   |
 
 ### Helpdesk
