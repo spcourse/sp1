@@ -138,6 +138,7 @@ Big data (level 3):
     Introduction: /bigdata/en/
 
     Big data:
+        Learn about file I/O [theory]: /python/en/file-io
         Learn to analyse and process a data set [theory]: /python/en/files
         Process sensor data of a car ride [assignment]: /bigdata/en/car
         Learn more about functions [theory]: /python/en/functions3
@@ -163,8 +164,8 @@ Physics of movement (BONUS):
     Submit:
         Submit your solutions: /submit/movement
 
-# Practice Exam:
-#     Practice exam: /exam/practice
-#
+Practice Exam:
+    Practice exam: /exam/practice
+
 # Exam:
 #     Exam: /exam/exam
