@@ -62,7 +62,7 @@ assignments:
 exam5:
     show_progress: true
     submits:
-        exam6: 1
+        exam5: 1
     required: true
 
 exam6:
