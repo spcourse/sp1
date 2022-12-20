@@ -42,6 +42,9 @@ grades:
     movement:
         <<: *check
 
+    exam5:
+        <<: *testt
+
     exam6:
         <<: *testt
 
@@ -56,6 +59,11 @@ assignments:
         movement: 0
     required: true
 
+exam5:
+    show_progress: true
+    submits:
+        exam6: 1
+    required: true
 
 exam6:
     show_progress: true
@@ -64,5 +72,7 @@ exam6:
     required: true
 
 calculation:
-    finalgrade:
+    finalgrade1:
+        exam5: 1
+    finalgrade2:
         exam6: 1
