@@ -3,7 +3,7 @@ Welcome:
     Install python: /python/en/installing
 
 Algorithms (level 1):
-    Introduction: /algorithms/en/
+    Introduction: /algorithms/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -42,7 +42,7 @@ Algorithms (level 1):
         Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
-    Introduction: /numbers/en/
+    Introduction: /numbers/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -86,7 +86,7 @@ Number theory (level 1):
         Submit your solutions: /submit/numbers
 
 Numerical integration (level 2):
-    Introduction: /integrals/en/
+    Introduction: /integrals/en/intro2
     Roots:
         Learn about functions in Python [theory]: /python/en/functions
         Practice with functions on paper [practice]: /python/en/functions-book
@@ -112,7 +112,7 @@ Numerical integration (level 2):
         Submit your solutions: /submit/integrals
 
 Text processing (level 2):
-    Introduction: /text/en/
+    Introduction: /text/en/intro2
 
     Text statistics:
         Learn about functions in Python [theory]: /python/en/functions
