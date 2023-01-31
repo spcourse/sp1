@@ -87,7 +87,7 @@ Deadlines for each level are listed below. The deadlines are our recommendation.
 
 The deadlines depend on the period in which you start the course (4, or 5) and at what pace you're following it (4, 8 or 16 weeks).
 
-<details markdown="1"><summary  markdown="span">Start block 1 (Sep 5 2022)</summary>
+<details markdown="1"><summary  markdown="span">Start block 4 (Feb 06 2023)</summary>
 
 | Finish course in:      | 4 weeks (Feb 06 - Feb 27) | 8 weeks (Feb 06 - Mar 31)  | 16 weeks (Feb 06 - May 26)|
 |------------------------|-------------------------|------------------|-----------------|
@@ -97,7 +97,7 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 
 </details>
 
-<details markdown="1"><summary  markdown="span">Start block 2 (Oct 31 2022)</summary>
+<details markdown="1"><summary  markdown="span">Start block 5 (Apr 03 2023)</summary>
 
 | Finish course in: | 4 weeks (May 3 - May 24) | 8 weeks (May 3 - May 26) |
 |-------------------|---------------------------|-----------------|
