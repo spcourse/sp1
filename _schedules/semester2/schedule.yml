@@ -3,7 +3,7 @@ Welcome:
     Install python: /python/en/installing
 
 Algorithms (level 1):
-    Introduction: /algorithms/en/
+    Introduction: /algorithms/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -33,6 +33,7 @@ Algorithms (level 1):
     Plotting graphs:
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
@@ -41,7 +42,7 @@ Algorithms (level 1):
         Submit your solutions: /submit/algorithms
 
 Number theory (level 1):
-    Introduction: /numbers/en/
+    Introduction: /numbers/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -69,6 +70,7 @@ Number theory (level 1):
         Look for prime numbers [assignment]: /numbers/en/primes
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
         Make lists of prime numbers [assignment]: /numbers/en/primelist
 
     Number theory:
@@ -84,7 +86,7 @@ Number theory (level 1):
         Submit your solutions: /submit/numbers
 
 Numerical integration (level 2):
-    Introduction: /integrals/en/
+    Introduction: /integrals/en/intro2
     Roots:
         Learn about functions in Python [theory]: /python/en/functions
         Practice with functions on paper [practice]: /python/en/functions-book
@@ -110,11 +112,11 @@ Numerical integration (level 2):
         Submit your solutions: /submit/integrals
 
 Text processing (level 2):
-    Introduction: /text/en/
+    Introduction: /text/en/intro2
 
     Text statistics:
         Learn about functions in Python [theory]: /python/en/functions
-        Practice with functions on paper [practice]: /python/en/functions_book
+        Practice with functions on paper [practice]: /python/en/functions-book
         Practice with functions in Python [practice]: /python/en/functions/practice
         Learn about strings [theory]: /python/en/strings
         Calculate basic statistics for a text [assignment]: /text/en/statistics
@@ -124,7 +126,8 @@ Text processing (level 2):
         Reformat a text neatly [assignment]: /text/en/reformatting
 
     Sentiment analysis:
-        Learn how to read text from files [theory]: /python/en/files
+        Learn how to read text from files [theory]: /python/en/file-io
+        Learn to analyse and process a data set [theory]: /python/en/files
         Perform a sentiment analysis [assignment]: /text/en/sentiment
         Present an overview of Twitter sentiment [assignment]: /text/en/tweets
 
@@ -132,11 +135,11 @@ Text processing (level 2):
         Submit your solutions: /submit/text
 
 Big data (level 3):
-    Share your thoughts on the course: /evaluation
     Introduction: /bigdata/en/
 
     Big data:
-        Learn to analyse and process a data set [theory]: /python/en/files
+        Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
+        Learn to analyse and process a data set (repeated if you did Text) [theory]: /python/en/files
         Process sensor data of a car ride [assignment]: /bigdata/en/car
         Learn more about functions [theory]: /python/en/functions3
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
@@ -163,6 +166,6 @@ Physics of movement (BONUS):
 
 Practice Exam:
     Practice exam: /exam/practice
-#
-# Exam:
-#     Exam: /exam/exam
+
+Exam:
+    Exam: /exam/exam

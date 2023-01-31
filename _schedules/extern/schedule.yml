@@ -126,7 +126,8 @@ Text processing (level 2):
         Reformat a text neatly [assignment]: /text/en/reformatting
 
     Sentiment analysis:
-        Learn how to read text from files [theory]: /python/en/files
+        Learn how to read text from files [theory]: /python/en/file-io
+        Learn to analyse and process a data set [theory]: /python/en/files
         Perform a sentiment analysis [assignment]: /text/en/sentiment
         Present an overview of Twitter sentiment [assignment]: /text/en/tweets
 
@@ -134,12 +135,11 @@ Text processing (level 2):
         Submit your solutions: /submit/text
 
 Big data (level 3):
-    Share your thoughts on the course: /evaluation
     Introduction: /bigdata/en/
 
     Big data:
-        Learn about file I/O [theory]: /python/en/file-io
-        Learn to analyse and process a data set [theory]: /python/en/files
+        Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
+        Learn to analyse and process a data set (repeated if you did Text) [theory]: /python/en/files
         Process sensor data of a car ride [assignment]: /bigdata/en/car
         Learn more about functions [theory]: /python/en/functions3
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
@@ -167,5 +167,5 @@ Physics of movement (BONUS):
 Practice Exam:
     Practice exam: /exam/practice
 
-# Exam:
-#     Exam: /exam/exam
+Exam:
+    Exam: /exam/exam

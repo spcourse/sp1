@@ -1,6 +1,6 @@
 # Scientific Programming 1
 
-## Syllabus<br><small>Fall 2022 (Lifelong Learning)</small>
+## Syllabus<br><small>Spring 2022/2023 (Lifelong Learning)</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises three modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
@@ -81,18 +81,20 @@ You need to make sure that you leave enough time for grading for the first two m
 
 Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally behind please contact us (<scientific@mprog.nl>).
 
-| Finish course in: | Oct 31 - Dec 23 |
-|-------------------|-----------------|
-| Level 1           | Wed 16 Nov      |
-| Level 2           | Wed 30 Nov      |
-| Level 3           | Wed 14 Dec      |
-| Exam date         | Tue 20 Dec (9:00 - 12:00) |
+| Course period: | Feb 06 - Mar 31 |
+|----------------|-----------------|
+| Level 1        | Wed 22 Feb      |
+| Level 2        | Wed 08 Mar      |
+| Level 3        | Wed 22 Mar      |
+| Exam date      | Wed 31 Mar (9:00 - 12:00) |
 
-There is some flexibility as to the deadline, but bear in mind:
+There is some flexibility as to the deadline, but if you want to participate in the exam, bear in mind:
 
-* If you want to participate in this exam, the *ultimate deadline for submitting level 1 and 2* is two weeks before the exam: *Tue Dec 4*.
-* Both level 1 and 2 need to be graded and be at least "mostly correct" on the day of the exam: *Mon Oct 24*.
-* Level 3 needs to be submitted (with a reasonable expectation that it is correct) on the day of the exam: *Mon Oct 24*.
+* The *ultimate deadline for submitting level 1 and 2* is 14 days before the exam.
+* Both level 1 and 2 need to be graded and be at least "mostly correct" on the day of the exam.
+* Level 3 needs to be submitted (with a reasonable expectation that it is correct) on the day of the exam.
+
+If you cannot meet these deadlines, no worries, you can always participate in a later exam. Please contact me to let me know.
 
 ## Feedback
 
