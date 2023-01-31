@@ -37,56 +37,11 @@ This really is a beginner's course. We will teach you the basics of Python progr
 
 When you have finished one modules for each level, you might take up Scientific Programming 2, in which we will teach you most of the remaining parts of Python, enabling you to read and contribute to other's projects, or start your own!
 
-## Asking questions
-There are three ways to get help:
+## Getting help.
 
-**Helpdesk (Programmeerbalie)** (online/on campus): You can book a slot to get to talk directly to an assistant. [Helpdesk info](/general-info/help#helpdesk)
+The course is not designed to do completely on your own. The only way to get the most out of this course is by joining us on campus (or online) and ask questions. Here you find all the ways you can get help with the programming: [HELP!](/general-info/help)
 
-**Lab sessions** (on campus): You'll work on the Science Park campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments. [Lab info](/general-info/help#lab-sessions)
-
-**Forum** (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff. [Ed info](/general-info/help#ed)
-
-### Schedule helpdesk and lab sessions
-
-| Week               | Mon                                | Tue                                    | Wed                                | Thu                               | Fri                               |
-| ------------------ | ---------------------------------- | -------------------------------------- | ---------------------------------- | --------------------------------- | --------------------------------- |
-| 44 (31/10 - 4/11)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**D1.111**) |
-| 45 (7/11 - 11/11)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.16**)       | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G2.13**)  |
-| 46 (14/11 - 18/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G2.13**)  |
-| 47 (21/11 - 25/11) | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G2.13**)  |
-| 48 (28/11 - 2/12)  | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**G3.13**)  |
-| 49 (5/12 - 9/12)   | 15:00 - 17:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**A1.06**)  |
-| 50 (12/12 - 16/12) | **no helpdesk** | 11:00 - 13:00<br>Lab (Startup Village) | 15:00 - 17:00<br>Helpdesk (online) | 9:00 - 11:00<br>Helpdesk (online) | 11:00 - 13:00<br>Lab (**C0.110**) |
-| 51 (19/12 - 23/12) |                                    | 9:00-12:00<br>Exam (**A1.16**)         |                                    |                                   |                                   |
-
-All lab sessions take place on the Science Park campus, for which a map is included below.
-
-![](map.png)
->>>>>>> 660d2f9e3d87c57a5c980e06a5ed2c6dd2041616
-
-### Helpdesk
-
-The helpdesk is the way to get one-on-one online help with your programming assignments.
-
-* The helpdesk is available online.
-* The helpdesk is available on three moments throughout the week.
-* **You have to make an appointment**. You can make an appointment (up to three days ahead) using this link: [Book Helpdesk](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
-* Join us using this link: [Online Scientific Programming Lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488)
-
-### Ed
-
-We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-
-* Use the forum: [Ed forum](https://edstem.org/us/courses/27745/discussion/).
-* If you don't have access to the forum yet, please send and [email](mailto:scientific@mprog.nl) to get access.
-
-### Lab sessions
-
-The lab sessions are the most classic way of getting help with your programming. You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments.
-
-* This is a good place to work on your assignments and get immediate help.
-* This is the main place where you can meet other students.
-* There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
+When you're learning how to programme you will get stuck at some point (often sooner rather than later). This is part of the process. Don't worry, please don't spend hours or days trying to solve everything yourself, but use one of the many ways to get in touch and get our help. That's what we're there for.
 
 ## Grading/Passing the course
 **Read this section very carefully.** The course is very flexible in setup, but in order to make this possible, we need to provide some clear constraints.
