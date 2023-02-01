@@ -99,11 +99,11 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 
 <details markdown="1"><summary  markdown="span">Start block 5 (Apr 03 2023)</summary>
 
-| Finish course in: | 4 weeks (May 3 - May 24) | 8 weeks (May 3 - May 26) |
+| Finish course in: | 4 weeks (Apr 3 - Apr 24) | 8 weeks (Apr 3 - May 26) |
 |-------------------|---------------------------|-----------------|
-| Level 1           | Mon 10 May                | Fri 14 May  |
-| Level 2           | Mon 17 May                | Fri 27 May  |
-| Level 3           | Mon 24 May                | Fri 19 May  |
+| Level 1           | Mon 10 Apr                | Fri 14 Apr  |
+| Level 2           | Mon 17 Apr                | Fri 27 Apr  |
+| Level 3           | Mon 24 Apr                | Fri 19 May  |
 
 </details>
 
