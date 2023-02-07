@@ -1,29 +1,29 @@
-# Code review
+# Peer review Greedy
 
-> Warning: do not start code review until you **and** your partner are completely done and you have **both submitted working version of the assignment** you'll discuss. If you haven't finished your program you should ask for help on that specifically and never look at someone else's code.
+> Warning: do not start code review until you **and** your partner are completely done. If you haven't finished your program you should ask for help on that specifically and never look at someone else's code.
 
-Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. To get better at this it helps to review the code of someone else and discuss your own code with that person. To learn this, you will do a code review with another student. In the code review, you will give each other feedback and advice on improving your code.
+**This part is optional, but highly recommended.** Do this peer review **in person** during one of the lab sessions. Please find a partner in this course with whom to discuss your code for the Greedy assignment. Please find someone who is at least as far as you are. If you don't know whom to ask, ask the teacher present at the lab session. The intention is not to get or provide written feedback, but to discuss in person.
 
-## What to do
+### Instructions for the reviewee
 
-1. Find a partner for this exercise.
+* Ask them to read the instructions for the reviewer below.
+* Give your reviewer time to read your code (about 10 minutes).
+* Listen to the feedback and write down potential points of improvement. Don't change the code while discussing, just listen first.
+* Once you've discussed your code with the reviewer take some time (max half an hour) to improve it. Think about which parts of the feedback you want to focus on to improve your code. Not all feedback is always correct and not all of it can always be easily implemented.
+* Document the changes that you made as you will be asked about this on submission.
 
-2.  For this module, you will assess and improve your code along the style guide. Take your time to fully read and grasp the descriptions there before you perform the review with your partner.
+### Instructions for the reviewer
 
-    - [Style guide](/python/en/style)
-
-3.  Then, you should sit next to your assigned partner. You will take turns as reviewer. Generally, one person talks, the other listens.
-
-    -   Participant #1 gets access to participant #2's computer.
-
-    -   Participant #2 will think aloud while trying to understand the code, and ask questions about what they do not understand.
-
-    -   Participant #2 focuses on listening and making notes, but may answer any questions.
-
-    -   Participant #1 can also provide concrete advice if they feel that this is useful. Participant #2 freely decides what to do with this advice.
-
-    -   When done (after about 10 minutes), switch roles. Do NOT do the reviews of each other's code at the same time.
-
-4.  Finally, take 30--60 minutes or so to improve your programs by considering the feedback that you got in the review. Don't forget to re-read the explanations of the aspects once more. In addition, it is completely acceptable to improve your programs in other ways.
-
-> You don't have to write out the reviews. The review is supposed to be discussed in person. But it is useful to document what you changed after the review and why. You can discuss this with the teacher.
+* Take a moment (about 10 miuntes) to read the code of the reviewee.
+* While reading the code, try look for ways to improve it. Ask yourself the following questions:
+    * How easy is it to read the code? Are there particular parts that are easy or hard to understand?
+        * Could the code or parts of it made easier to read by adding comments?
+        * Could the code or parts of it made easier to read by using digfferent variable names?
+        * Could the code or parts of it made easier to read by changing the structure?
+    * How well designed is the code?
+        * Are there parts of the code that could be made simpler?
+        * Are there loops of if-statements that could be avoided?
+        * Are there duplications (copies of identical code) that can be avoided?
+* Giving good feedback and understanding how code be improved is very hard. Don't try to do a perfect job, but focus on what you know.
+* Your feedback doesn't have to be in the form of critique. You can also ask questions.
+* Also try to point out parts that you think are good.
