@@ -86,7 +86,7 @@ Deadlines for each level are listed below. The deadlines are our recommendation.
 | Level 1        | Wed 22 Feb      |
 | Level 2        | Wed 08 Mar      |
 | Level 3        | Wed 22 Mar      |
-| Exam date      | Wed 31 Mar (9:00 - 12:00) |
+| Exam date      | Wed 29 Mar (9:00 - 12:00) - SP C1.110|
 
 There is some flexibility as to the deadline, but if you want to participate in the exam, bear in mind:
 

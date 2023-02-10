@@ -111,8 +111,8 @@ The deadlines depend on the period in which you start the course (4, or 5) and a
 
 The dates for the exams:
 
-* Wed Mar 31, 9:00-12:00
-* Thu Jun 01, 9:00-12:00
+* Wed Mar 29, 9:00-12:00, C1.110
+* Thu Jun 01, 9:00-12:00, L1.02
 
 If you want to participate in either of these exams, bear in mind:
 
