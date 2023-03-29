@@ -60,9 +60,9 @@ Expected output:
 
 A Fibonacci number is a sequence of numbers in which each number is the sum of the two preceding numbers, starting from 0 and 1. In mathematical terms, the Fibonacci sequence can be defined as follows:
 
-*$$F_0 = 0$$
-*$$F_1 = 1$$
-*&&F_n = F_{n-1} + F_{n-2} \textrm{, for } n > 1$$
+* $$F_0 = 0$$
+* $$F_1 = 1$$
+* &&F_n = F_{n-1} + F_{n-2} \textrm{, for } n > 1$$
 
 So the first few numbers in the sequence are:
 
