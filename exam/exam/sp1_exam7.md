@@ -62,7 +62,7 @@ A Fibonacci number is a sequence of numbers in which each number is the sum of t
 
 * $$F_0 = 0$$
 * $$F_1 = 1$$
-* &&F_n = F_{n-1} + F_{n-2} \textrm{, for } n > 1$$
+* $$F_n = F_{n-1} + F_{n-2} \textrm{, for } n > 1$$
 
 So the first few numbers in the sequence are:
 
