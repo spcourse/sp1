@@ -105,6 +105,8 @@ As you can see, the data fields are separated by a comma and contain the followi
 
 Write a function `total_goals_per_year(filename)`. That goes over all the matches and computes the total number of goals _that Barca scored_ _for each year_. The result should be a list conataining a total for each year in the dataset. The file `barca.txt` contains the results for 4 consecutive years, so the result should be a list containing 4 numbers (the total Barca goals per year). The total goals fo the first year (2011) is 50, so the first element of the list should be 50.
 
+> Tip: use the following file for testing: [barca_short.txt](barca_short.txt). This file only contains four lines, which makes debugging easier.
+
 Example usage:
 
     dates = total_goals_per_year('barca.txt')
