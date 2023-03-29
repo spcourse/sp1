@@ -26,10 +26,10 @@ Run checkpy:
 
 Write a function `integer_sequence(n)` that takes a positive integer $$n$$ as input and generates a sequence of numbers as follows:
 
-1 If $$n$$ is even, add $$2$$ to it.
-2 If $$n$$ is odd, subtract $$1$$ from it.
-3 Divide the result of step 1 or 2 by $$2$$.
-4 Repeat steps 1-3 until $$n$$ becomes $$1$$.
+1. If $$n$$ is even, add $$2$$ to it.
+2. If $$n$$ is odd, subtract $$1$$ from it.
+3. Divide the result of step 1 or 2 by $$2$$.
+4. Repeat steps 1-3 until $$n$$ becomes $$1$$.
 
 The input number, $$n$$, and the final number, $$1$$, are also part of the sequence. The function should return the result of this sequence.
 
